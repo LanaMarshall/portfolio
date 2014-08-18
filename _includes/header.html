@@ -1,0 +1,38 @@
+<header class="">
+
+  <div class="wrap">
+
+    <div class="row">
+      <nav class="nav-bar row">
+        
+        <a class="site-title" href="{{ site.baseurl }}/">
+            <img class= "logo small-3 column" src="{{ site.baseurl }}">
+        </a>
+        
+        
+        <div class="nav-links small-9 column">
+          <ul class="right">
+            <li>
+              {% for page in site.pages %}
+                {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+              {% endfor %}
+            </li>
+
+          </ul>
+        </div>
+
+
+      </nav>
+    </div>
+
+
+  </div>
+
+</header>
+
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+<!-- Foundation JS -->
+<script src="js/foundation.min.js"></script>
+<script src="js/foundation.topbar.js"></script>

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="project-title">
+    <h1>{{ page.title }}</h1>
+    <!-- <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
+    <div class= "project-img-full row">
+    	<img src="{{ page.img-full-01 }}"/>
+    </div>
+
+  </header>
+
+  <p class="project-description">
+  {{ content }}
+  </p>
+
+</div>

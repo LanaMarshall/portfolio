@@ -1,0 +1,12 @@
+# Site settings
+title: Lana Marshall
+email: lanakmarshall@gmail.com
+description: "Graphic Designer in Austin, TX"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: lana7601
+github_username:  LanaMarshall
+
+# Build settings
+markdown: kramdown
+permalink: pretty
