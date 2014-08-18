@@ -24,6 +24,7 @@
 	left: 0;
 	width: 100%;
 	z-index: 10;
+	border-bottom: 1px solid #999999;
 }
 
 .header {
@@ -58,17 +59,21 @@
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
+.home {
+	padding: 100px 0px;
+}
 
-.thumb-gallery {
-	border: solid 1px red;
-	list-style-type: none;
+.thumb-container {
 }
 
 .portfolio-thumb {
 	border: solid 1px black;
-	height: 220px;
-	width:28%;
+	height: 180px;
 	overflow: hidden;
+}
+
+.portfolio-thumb-margin {
+	margin: 10px 10px;
 }
 
 
