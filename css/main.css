@@ -85,15 +85,13 @@ body {
 
 
 .thumb-container {
+	height: 220px;
+	overflow: hidden;
 }
 
 .portfolio-thumb {
 	height: 180px;
 	overflow: hidden;
-}
-
-.portfolio-thumb-margin {
-	margin: 10px 10px;
 }
 
 
