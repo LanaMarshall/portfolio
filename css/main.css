@@ -104,13 +104,15 @@ h1 {
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
-h1 {
+.project-title {
 	font-family: "Josefin Slab", serif;
-	font-size: #777777;
+	font-size: 2em;
+	color: #777777;
 }
 
 .project-img-full {
 	padding: 10px 0px 50px 0px;
+	float:left;
 }
 
 
