@@ -1,30 +1,30 @@
 ---
 layout: default
 ---
-<div class="portfolio-entry">
+<div class="portfolio-entry row">
 
 
-    
-    <!-- <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
-    <div class= "project-img-full small-12 medium-8 columns">
+  <div class="project-img-column small-12 medium-8 columns">
+
+    <div class= "project-img-full ">
     	<img src="{{ page.img-full-01 }}"/>
     </div>
 
-    
-    <h1 class="project-title small-12 medium-4 columns">{{ page.title }}</h1>
-
-    <p class="project-description small-12 medium-4 columns">
-    {{ content }}
-    </p>
-
-
-    <div class= "project-img-full small-12 medium-8 columns">
+    <div class= "project-img-full ">
       <img src="{{ page.img-full-02 }}"/>
     </div>
 
-    <div class= "project-img-full small-12 medium-8 columns">
+    <div class= "project-img-full ">
       <img src="{{ page.img-full-03 }}"/>
     </div>
 
+  </div>
+
+  <div class="project-copy-column small-12 medium-4 columns">
+    <h1 class="project-title">{{ page.title }}</h1>
+    <div class="project-description">
+      <p>{{ content }}</p>
+    </div>
+  </div>
 
 </div>

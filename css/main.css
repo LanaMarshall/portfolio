@@ -2,10 +2,6 @@ body {
 	background-color: #F2F2F2;
 }
 
-h1 {
-	font-family: "Josefin Slab", serif;
-	font-size: #777777;
-}
 
 .page-wrapper {
 	max-width:1000px;
@@ -31,11 +27,10 @@ h1 {
 	background: #ffffff;
 	height: 70px;
 	position: fixed;
-	top: 0;
-	left: 0;
 	width: 100%;
 	z-index: 10;
 	border-bottom: 1px solid #999999;
+
 }
 
 .header {
@@ -104,9 +99,19 @@ h1 {
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
+.project-copy-column {
+
+}
+
 .project-title {
 	font-family: "Josefin Slab", serif;
 	font-size: 2em;
+	color: #777777;
+}
+
+.project-description {
+	font-family: "Lato", sans-serif;
+	font-size: 1em;
 	color: #777777;
 }
 
