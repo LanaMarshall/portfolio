@@ -1,6 +1,11 @@
+body {
+	background-color: #F2F2F2;
+}
+
 .page-wrapper {
 	max-width:1000px;
 	margin: 0 auto;
+	padding: 150px 0px;
 }
 
 .clearfix:before {
@@ -12,8 +17,9 @@
 }
 
 
-/* -------------------- HEADER -------------------- */ 
 
+
+/* -------------------- HEADER -------------------- */ 
 
 
 #header {
@@ -35,6 +41,20 @@
 .logo {
 	float: left;
 }
+
+.logo a {
+	font-family: "Josefin Slab", serif;
+	font-size: .6em;
+	font-weight: 600;
+	color: #8a8a8a;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+}
+
+.logo a:hover {
+	color:#5BDEAE;
+}
+
 
 .nav {
 	width: 100%;
@@ -59,9 +79,6 @@
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
-.home {
-	padding: 100px 0px;
-}
 
 .thumb-container {
 }
@@ -77,16 +94,21 @@
 }
 
 
+/* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
+
+.project-img-full {
+	padding: 10px 0px 50px 0px;
+}
+
 
 /* -------------------- FOOTER -------------------- */ 
 
 
 .site-footer {
-	background-color: gray;
-
-	bottom: 10%;
+	background-color: #6FD1AD;
 	padding: 30px 0;
 	width:100%;
+	border-top: 1px solid #999999;
 
 }
 
