@@ -1,10 +1,10 @@
 ---
 layout: portfolio-entry
-title:  "Whole Foods"
+title:  "Cancer Treatment Centers of America"
 date:   2014-08-18 09:30:47
 categories: jekyll update
-thumb: /img/thumbnails/thumb-01.jpg
-img-full-01: /img/wfm-full-01.png
+thumb: /img/ctca/ctca-menshealth.png
+img-full-01: /img/ctca/ctca-menshealth.png
 img-full-02:
 img-full-03:
 img-full-04:
@@ -12,7 +12,7 @@ img-full-05:
 img-half-01:
 ---
 
-Facebook graphics for the opening of several new Whole Foods Market locations.
+An infographic used to promote a Men's Health initiative across social media.
 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
