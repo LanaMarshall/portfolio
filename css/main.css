@@ -11,7 +11,7 @@ body {
 }
 
 .headroom {
-	padding: 150px 0px;
+	padding: 180px 0px;
 }
 
 .clearfix:after {
@@ -22,6 +22,22 @@ body {
    clear: both;
 }
 
+
+/* -------------------- TEXT STYLING -------------------- */
+
+
+.main-headline {
+	font-family: "Josefin Slab", serif;
+	font-size: 2em;
+	color: #777777;
+}
+
+.body-copy {
+	font-family: "Lato", sans-serif;
+	font-size: 2em;
+	font-weight: 300;
+	color: #777777;
+}
 
 
 /* -------------------- HEADER -------------------- */ 
@@ -175,23 +191,6 @@ header.smaller nav a {
 }
 
 
-/* -------------------- TEXT STYLING -------------------- */
-
-
-.main-headline {
-	font-family: "Josefin Slab", serif;
-	font-size: 2em;
-	color: #777777;
-}
-
-.body-copy {
-	font-family: "Lato", sans-serif;
-	font-size: 2em;
-	font-weight: 300;
-	color: #777777;
-}
-
-
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
 .project-img-full {
@@ -239,9 +238,7 @@ html, body {
 
 
 
-/* -------------------- Media Queries ------------- */
-
-
+/* --------------------------------- */
 
 
 * {   
