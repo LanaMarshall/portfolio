@@ -1,14 +1,14 @@
 <div id="header">
 
   <nav class="header">
-    <div class="logo small-12 medium-4 columns">
+    <div class="logo small-4 medium-4 columns">
       <h1><a href="{{ site.baseurl }}/">Lana Marshall</a></h1>
     </div>
     
-    <div class="nav small-12 medium-8 columns">
+    <div class="nav small-8 columns">
         {% for page in site.pages %}
           {% if page.title %}
-          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
         <a href="{{ site.baseurl }}/">Portfolio</a>
