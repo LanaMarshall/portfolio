@@ -12,9 +12,6 @@ img-full-05:
 img-half-01:
 ---
 
-Company description here.
-
-Project description here.
 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
