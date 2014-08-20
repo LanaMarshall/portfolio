@@ -211,6 +211,18 @@ header.smaller nav a {
 	margin: 60px 0px;
 }
 
+.prev-next-link a {
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color:#777777;
+}
+
+.prev-next-link a:hover{
+	color: #5BDEAE;
+}
 
 
 /* -------------------- FOOTER -------------------- */ 
