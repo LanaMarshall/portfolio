@@ -1,19 +1,19 @@
-<div id="header">
+<header id="header" class="clearfix">
 
-  <nav class="header">
-    <div class="logo small-4 medium-4 columns">
-      <h1><a href="{{ site.baseurl }}/">Lana Marshall</a></h1>
+  <div class="contain center">
+    <div class="logo">
+      <h1 id="logo"><a href="{{ site.baseurl }}/">Lana Marshall</a></h1>
     </div>
     
-    <div class="nav small-8 columns">
+    <nav class="main-nav">
+        <a href="{{ site.baseurl }}/">Portfolio</a>
         {% for page in site.pages %}
           {% if page.title %}
           <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a href="{{ site.baseurl }}/">Portfolio</a>
-    </div>
-  </nav>
-  <div class="clearfix"></div>
+        
+    </nav>
+  </div>
 
-</div>
+</header>
