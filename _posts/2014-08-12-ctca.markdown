@@ -3,7 +3,7 @@ layout: portfolio-entry
 title:  "Cancer Treatment Centers of America"
 date:   2014-08-18 09:30:47
 categories: jekyll update
-thumb: /img/ctca/ctca-menshealth.png
+thumb: /img/thumbnails/ctca-thumb.png
 img-full-01: /img/ctca/ctca-menshealth.png
 img-full-02:
 img-full-03:
