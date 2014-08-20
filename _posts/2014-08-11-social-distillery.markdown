@@ -1,6 +1,7 @@
 ---
 layout: portfolio-entry
 title:  "Social Distillery"
+url: social-distillery/
 date:   2014-08-18 09:30:47
 categories: 
 thumb: img/sd/sd-wine-bottles.jpg
