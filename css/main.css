@@ -87,13 +87,16 @@ body {
 .thumb-container {
 	height: 220px;
 	overflow: hidden;
+	margin: 15px 0;
+}
+
+.thumb-title-box {
+	height: 300px;
 }
 
 .portfolio-thumb {
-	height: 180px;
-	overflow: hidden;
-}
 
+}
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
@@ -137,7 +140,16 @@ body {
 	text-transform: uppercase;
 }
 
+html, body {
+	height: 100%;
+}
 
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  border: 2px solid red;
+}
 
 
 
