@@ -39,6 +39,14 @@ body {
 	color: #777777;
 }
 
+.body-copy a {
+	color: #F09648;
+}
+
+.body-copy a:hover {
+	color: #FF802B;
+}
+
 
 /* -------------------- HEADER -------------------- */ 
 
