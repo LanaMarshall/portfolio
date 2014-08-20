@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="portfolio-entry row">
+<div class="portfolio-entry row clearfix">
 
 
   <div class="small-12 medium-8 columns">
@@ -29,11 +29,25 @@ layout: default
 
 </div>
 
-<!--
-<div class="project-nav-arrows">
-  <div class="prev">
-    <span class="fa-chevron-left"></span>
-  </div>
 
-</div>
--->
+<!-- <div class="portfolio-nav small-12 columns"> 
+        <div class="clearfix">&nbsp;</div> 
+        <div class="left"> 
+        {% if page.previous.url %} 
+                <a href="{{page.previous.url}}" title="Previous Post: 
+{{page.previous.title}}"> < </a> 
+        {% endif %} 
+        </div> 
+
+        <div class="right"> 
+        {% if page.next.url %} 
+                <a href="{{page.next.url}}" title="next Post: 
+{{page.next.title}}"> > </a> 
+        {% endif %} 
+        </div> 
+        <div class="clear">&nbsp;</div> 
+</div> -->
+
+<div class="portfolio-nav small-12 columns"></div>
+
+{% include gallery.html %}

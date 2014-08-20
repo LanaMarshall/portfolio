@@ -11,7 +11,7 @@ body {
 }
 
 .headroom {
-	padding: 180px 0px;
+	padding: 180px 0px 100px 0px;
 }
 
 .clearfix:after {
@@ -211,6 +211,12 @@ header.smaller nav a {
 	font-size: 1em;
 	color: #777777;
 }
+
+.portfolio-nav {
+	border-top: 1px solid #999999;
+	margin: 30px 0px;
+}
+
 
 /* -------------------- FOOTER -------------------- */ 
 
