@@ -2,7 +2,7 @@
 layout: portfolio-entry
 title:  "Social Distillery"
 date:   2014-08-18 09:30:47
-categories: 
+categories:
 thumb: /img/sd/sd-wine-bottles.jpg
 img-full-01: /img/sd/sd-wine-bottles.jpg
 img-full-02: /img/sd/sd-card-02.jpg

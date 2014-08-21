@@ -2,7 +2,7 @@
 layout: portfolio-entry
 title:  "MakerSquare"
 date:   2014-08-18 09:30:47
-categories: jekyll update
+categories:
 thumb: /img/mks/mks-01.png
 img-full-01: /img/mks/mks-01.png
 img-full-02: /img/mks/mks-03.png
