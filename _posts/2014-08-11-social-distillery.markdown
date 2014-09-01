@@ -10,7 +10,7 @@ img-full-02: img/sd/sd-card-02.jpg
 img-full-03: img/sd/sd-card-01.jpg
 img-full-04:
 img-full-05:
-img-half-01:
+img-full-06:
 ---
 
 Client holiday gifts.
