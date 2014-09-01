@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="portfolio-entry row clearfix">
+<!-- <div class="portfolio-entry row clearfix">
 
 
   <div class="small-12 medium-8 columns">
@@ -35,7 +35,24 @@ layout: default
     </div>
   </div>
 
-</div>
+</div> -->
+
+
+{% for page in site.pages %}
+  <!--  {% if gallery.id == page.galleryid %} -->
+    <h1>{{ page.title }}</h1>
+    <ol>
+    {% for image in page.images %}
+      <li>
+        {{ image.text }}<br>
+        <a href="{{ site.baseurl }}{{ page.imagefolder }}/{{ image.name }}">
+          <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ image.name }}">
+        </a>
+      </li>
+    {% endfor %}
+    </ol>
+  <!-- {% endif %} -->
+{% endfor %}
 
 
 <div class="portfolio-nav small-12 columns"> 
