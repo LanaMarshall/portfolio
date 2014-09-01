@@ -141,7 +141,7 @@ header.smaller nav a {
     header {
     	height: 120px;
     }
-    header #logo {
+    header h1#logo {
         display: block;
         float: none;
         margin: 0 auto;
@@ -164,7 +164,7 @@ header.smaller nav a {
     header.smaller {
         height: 80px;
     }
-    header.smaller #logo {
+    header.smaller h1#logo {
         height: 30px;
         line-height: 40px;
         font-size: 1em;
