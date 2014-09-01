@@ -165,14 +165,17 @@ header.smaller nav a {
         height: 80px;
     }
     header.smaller h1#logo {
-        height: 50px;
+        height: 30px;
         line-height: 40px;
         font-size: 1em;
+    }
+
+    header #logo a {
         color: #6FD1AD;
     }
 
     header.smaller #logo a {
-        color: #6FD1AD;
+        color: #8a8a8a;
     }
 
     header.smaller nav {
