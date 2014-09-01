@@ -3,10 +3,17 @@ layout: portfolio-entry
 title:  "MakerSquare"
 url: makersquare/
 date:   2014-08-18 09:30:47
+<<<<<<< HEAD
 categories: jekyll update
 thumb: img/mks/mks-01.png
 img-full-01: img/mks/mks-01.png
 img-full-02: img/mks/mks-03.png
+=======
+categories:
+thumb: /img/mks/mks-01.png
+img-full-01: /img/mks/mks-01.png
+img-full-02: /img/mks/mks-03.png
+>>>>>>> master
 img-full-03:
 img-full-04:
 img-full-05:
