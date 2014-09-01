@@ -9,4 +9,4 @@ github_username:  LanaMarshall
 
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: pretty
