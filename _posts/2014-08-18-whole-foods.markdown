@@ -10,12 +10,6 @@ images:
   - name: wfm-full-05.jpg
   - name: wfm-full-01.png
   - name: wfm-full-02.png
-img-full-01: img/thumbnails/wfm-thumb.jpg
-img-full-02: img/wfm/wfm-full-05.jpg
-img-full-03: img/wfm/wfm-full-01.png
-img-full-04: img/wfm/wfm-full-02.png
-img-full-05: img/wfm/wfm-full-03.png
-img-half-01:
 ---
 
 Facebook graphics for the opening of several new Whole Foods Market locations.
