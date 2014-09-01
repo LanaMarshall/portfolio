@@ -44,9 +44,8 @@ layout: default
     <ol>
     {% for images in page.images %}
       <li>
-        {{ image.text }}<br>
-        <a href="{{ site.baseurl }}{{ page.imagefolder }}/{{ image.name }}">
-          <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ image.name }}">
+        <a href="{{ site.baseurl }}{{ page.imagefolder }}/{{ images.name }}">
+          <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ images.name }}">
         </a>
       </li>
     {% endfor %}
