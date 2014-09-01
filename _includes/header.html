@@ -9,7 +9,7 @@
         <a href="{{ site.baseurl }}">Portfolio</a>
         {% for page in site.pages %}
           {% if page.title %}
-          <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link">{{ page.title }}</a>
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
         
