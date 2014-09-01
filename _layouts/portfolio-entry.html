@@ -38,11 +38,11 @@ layout: default
 </div> -->
 
 
-{% for page in site.pages %}
+<!--{% for images in page.images %}
   <!--  {% if gallery.id == page.galleryid %} -->
     <h1>{{ page.title }}</h1>
     <ol>
-    {% for image in page.images %}
+    {% for images in page.images %}
       <li>
         {{ image.text }}<br>
         <a href="{{ site.baseurl }}{{ page.imagefolder }}/{{ image.name }}">
@@ -51,8 +51,8 @@ layout: default
       </li>
     {% endfor %}
     </ol>
-  <!-- {% endif %} -->
-{% endfor %}
+  <!-- {% endif %}
+{% endfor %}-->
 
 
 <div class="portfolio-nav small-12 columns"> 
