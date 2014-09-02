@@ -12,10 +12,14 @@
     - name: wfm-full-01.png
     - name: wfm-full-02.png
 
-- title: Silverlight Organization Chart for SharePoint
+- title: Cancer Treatment Centers of America
+  id: ctca
   category: 
   publish: yes
-  description: A silverlight Chart control which retrieves data from the SharePoint list. 
+  description: An infographic used to promote a Men's Health initiative across social media. 
+  imagefolder: img/ctca
+  images:
+    - name: ctca-menshealth.png
 
 - title: STP Inspector
   category: 
