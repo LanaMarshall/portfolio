@@ -1,14 +1,14 @@
 <div class="home row">
 <!--{% for project in site.data.projects %}-->
-{% for project in site.data.projects %}
+
   <div class="thumb-container small-12 medium-6 large-4 columns">
-    
+    {% for project in site.data.projects %}
       <a class="portfolio-thumb" href="{{ site.baseurl }}{{ project.permalink }}">
         <img src="{{ site.baseurl }}{{ project.thumb }}">
       </a>
-    
+    {% endfor %}
   </div>
-{% endfor %}
+
 <!--{% endfor %}-->
 </div>
 
