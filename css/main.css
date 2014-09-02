@@ -187,7 +187,7 @@ header.smaller nav a {
 }
 
 
-.main-nav a, .selected { 
+.selected a{ 
     color: #6FD1AD !important;
     }
 
