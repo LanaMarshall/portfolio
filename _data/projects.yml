@@ -31,3 +31,13 @@
     - name: sd-wine-bottles.jpg
     - name: sd-card-02.jpg
     - name: sd-card-01.jpg
+
+- title: MakerSquare
+  id: mks
+  category: 
+  publish: yes
+  description: Graphics for social media. 
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
