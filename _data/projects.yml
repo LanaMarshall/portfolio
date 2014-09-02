@@ -9,6 +9,7 @@
   thumb: img/thumbnails/wfm-thumb.jpg
   imagefolder: img/wfm
   images:
+    - name: wfm-full-06.jpg
     - name: wfm-full-05.jpg
     - name: wfm-full-01.png
     - name: wfm-full-02.png
