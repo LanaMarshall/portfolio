@@ -5,4 +5,4 @@ headline: Interested in working together?
 permalink: contact/
 ---
 
-Let's Talk
+<a href="mailto:lanakmarshall@gmail.com">Let's Talk</a>
