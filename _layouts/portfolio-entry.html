@@ -39,12 +39,12 @@ layout: default
 
 
 
-{% for post in site.posts %}
+
 
 <div class="portfolio-entry row clearfix">
 
   <div class="small-12 medium-8 columns">
-    {% for images in page.images %}
+    {% for post in site.posts %}
       {% if images.name %}
       <div class="project-img-full">
           <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ images.name }}">
@@ -56,7 +56,7 @@ layout: default
 
 </div>
 
-{% endfor %}
+
 
 
 <div class="portfolio-nav small-12 columns"> 
