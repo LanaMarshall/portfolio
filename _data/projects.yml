@@ -14,16 +14,6 @@
     - name: wfm-full-01.png
     - name: wfm-full-02.png
 
-- title: Cancer Treatment Centers of America
-  id: ctca
-  permalink: ctca/
-  category: 
-  publish: yes
-  description: An infographic used to promote a Men's Health initiative across social media. 
-  thumb: img/thumbnails/ctca-thumb.png
-  imagefolder: img/ctca
-  images:
-    - name: ctca-menshealth.png
 
 - title: Social Distillery
   id: sd
@@ -38,6 +28,7 @@
     - name: sd-card-02.jpg
     - name: sd-card-01.jpg
 
+
 - title: MakerSquare
   id: mks
   permalink: makersquare/
@@ -49,6 +40,19 @@
   images: 
     - name: mks-01.png
     - name: mks-03.png
+
+
+- title: Cancer Treatment Centers of America
+  id: ctca
+  permalink: ctca/
+  category: 
+  publish: yes
+  description: An infographic used to promote a Men's Health initiative across social media. 
+  thumb: img/thumbnails/ctca-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-menshealth.png
+
 
 - title: '"Happiness is a Warm Gun" Animation'
   id: beatles
