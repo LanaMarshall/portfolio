@@ -19,6 +19,7 @@
   category: 
   publish: yes
   description: An infographic used to promote a Men's Health initiative across social media. 
+  thumb: img/thumbnails/ctca-thumb.png
   imagefolder: img/ctca
   images:
     - name: ctca-menshealth.png
@@ -29,6 +30,7 @@
   category: 
   publish: yes
   description: Client holiday gifts. 
+  thumb: img/sd/sd-wine-bottles.jpg
   imagefolder: img/sd
   images: 
     - name: sd-wine-bottles.jpg
@@ -41,6 +43,7 @@
   category: 
   publish: yes
   description: Graphics for social media. 
+  thumb: img/mks/mks-01.png
   imagefolder: img/mks
   images: 
     - name: mks-01.png
