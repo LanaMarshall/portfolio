@@ -187,6 +187,10 @@ header.smaller nav a {
 }
 
 
+.main-nav a, .selected { 
+    color: #6FD1AD !important;
+    }
+
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
 

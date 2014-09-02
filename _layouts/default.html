@@ -19,23 +19,6 @@
       <!-- jQuery -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
-      <!-- Foundation JS -->
-
-      <!-- <script>
-        $(window).bind("load", function () {
-            var footer = $("#footer");
-            var pos = footer.position();
-            var height = $(window).height();
-            height = height - pos.top;
-            height = height - footer.height();
-            if (height > 0) {
-                footer.css({
-                    'margin-top': height + 'px'
-                });
-            }
-        });
-      </script> -->
-
 
       <!-- Sticky Shrinking Header -->
       <script src="{{ site.baseurl }}js/classie.js"></script>
@@ -56,22 +39,15 @@
               });
           }
           window.onload = init();
+    
+          $('#main-nav a').each(function(index) {
+              if(this.href.trim() == window.location)
+                  $(this).addClass("selected");
+          });
+
         });
       </script>
 
-
-      <!-- Sticky Footer
-      <script type="text/javascript">
-        $(document).ready(function(){
-            $(window).resize(function(){
-                var footerHeight = $('.footer').outerHeight();
-          var stickFooterPush = $('.push').height(footerHeight);  
-          $('.wrapper').css({'marginBottom':'-' + footerHeight + 'px'});
-            });   
-            $(window).resize();
-        });
-      </script>
-      -->
 
   </body>
 </html>
