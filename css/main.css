@@ -103,7 +103,7 @@ header nav {
 header nav a {
     line-height: 110px;
     margin-left: 20px;
-    padding: 10px 2px;
+    padding: 5px 2px;
     font-family: "Lato", sans-serif;
 	font-weight: 300;
 	text-decoration: none;
@@ -190,8 +190,9 @@ header.smaller nav a {
 
 /* Selected Nav Link */
 .selected { 
-    color: #6FD1AD !important;
+    color: #6FD1AD;
     font-weight: 400;
+    border-bottom: 1px solid #5BDEAE;
     }
 
 
