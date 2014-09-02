@@ -1,0 +1,43 @@
+---
+
+- title: Whole Foods
+  id: wfm
+  category: 
+  publish: yes
+  description: Facebook graphics for the opening of several new Whole Foods Market locations.
+  thumb: img/thumbnails/wfm-thumb.jpg
+  imagefolder: img/wfm
+  images:
+    - name: wfm-full-05.jpg
+    - name: wfm-full-01.png
+    - name: wfm-full-02.png
+
+- title: Cancer Treatment Centers of America
+  id: ctca
+  category: 
+  publish: yes
+  description: An infographic used to promote a Men's Health initiative across social media. 
+  imagefolder: img/ctca
+  images:
+    - name: ctca-menshealth.png
+
+- title: Social Distillery
+  id: sd
+  category: 
+  publish: yes
+  description: Client holiday gifts. 
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: sd-card-02.jpg
+    - name: sd-card-01.jpg
+
+- title: MakerSquare
+  id: mks
+  category: 
+  publish: yes
+  description: Graphics for social media. 
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
