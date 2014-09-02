@@ -40,22 +40,22 @@ layout: default
 
 
 {% for post in site.posts %}
-  <!-- {% if gallery.id == page.galleryid %} -->
 
 <div class="portfolio-entry row clearfix">
 
   <div class="small-12 medium-8 columns">
     {% for name in page.images %}
+      {% if images.name %}
       <div class="project-img-full">
           <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ images.name }}">
         </a>
       </div>
+      {% endif %}
     {% endfor %}
   </div>
 
 </div>
 
-  <!-- {% endif %} -->
 {% endfor %}
 
 
