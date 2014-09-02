@@ -1,5 +1,5 @@
 ---
-layout: portfolio-entry
+layout: portfolio-entry-new
 title:  "Whole Foods"
 permalink: whole-foods/
 date:   2014-08-18 09:30:47
