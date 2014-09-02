@@ -39,8 +39,8 @@ layout: default
 
 
 
-<!--{% for images in page.images %}
-  {% if gallery.id == page.galleryid %} -->
+{% for post in site.posts %}
+  <!-- {% if gallery.id == page.galleryid %} -->
 
 <div class="portfolio-entry row clearfix">
 
@@ -55,8 +55,8 @@ layout: default
 
 </div>
 
-  <!-- {% endif %}
-{% endfor %}-->
+  <!-- {% endif %} -->
+{% endfor %}
 
 
 <div class="portfolio-nav small-12 columns"> 
