@@ -152,6 +152,9 @@ header.smaller nav a {
         font-size: 1.7em;
         margin-top: .3em;
     }
+    header #logo a {
+        color: #6FD1AD;
+    }
     .main-nav {
         display: block;
         float: none;
@@ -163,17 +166,16 @@ header.smaller nav a {
         margin: 0 .5em;
         font-size: .9em;
     }
+
+    /* Styling on scroll down, mobile */
     header.smaller {
         height: 4.4em;
     }
+
     header.smaller h1#logo {
         height: 1.8em;
         line-height: 1.8em;
         font-size: 1em;
-    }
-
-    header #logo a {
-        color: #6FD1AD;
     }
 
     header.smaller #logo a {
@@ -183,6 +185,7 @@ header.smaller nav a {
     header.smaller nav {
         height: 1.4em;
     }
+    
     header.smaller nav a {
         line-height: 1.4em;
     }
@@ -193,10 +196,6 @@ header.smaller nav a {
     color: #6FD1AD;
     border-bottom: 1px solid #5BDEAE;
     }
-
-.selected:hover {
-    color: #F09648;
-}
 
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
