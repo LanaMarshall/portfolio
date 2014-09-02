@@ -189,6 +189,7 @@ header.smaller nav a {
 
 .selected { 
     color: #6FD1AD !important;
+    font-weight: bold;
     }
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
