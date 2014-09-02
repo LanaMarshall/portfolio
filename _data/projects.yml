@@ -59,15 +59,12 @@
 
 
 - title: New York Toy Fair Animation
-  id: toyfair_animation
+  id: toyfair
   permalink: toyfair-animation/
   category: 
   publish: yes
   description: An AfterEffects animation created using original vector graphics. 
   thumb: img/thumbnails/toyfair-thumb.png
-  imagefolder: <iframe width="640" height="360" src="//www.youtube.com/embed/dn874Z7-wUE" frameborder="0" allowfullscreen></iframe>
-  images: 
-    - name: 
 
 
 
