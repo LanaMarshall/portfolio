@@ -2,18 +2,18 @@
 layout: default
 ---
 
-
-<div class="portfolio-entry row">
+{% for project in site.data.projects%}
 
   {% if project.id == page.projectid %}
-    
+<div class="portfolio-entry row">
+
     {% for image in project.images %}
       <div class="small-12 medium-8 columns">
           <img src="{{ site.baseurl }}{{ project.imagefolder }}/{{ image.name }}">
       </div>
     {% endfor %}
     
-  {% endif %}
+
 
 <!-- Project Title and Description -->
   <div class="project-text small-12 medium-4 columns">
@@ -24,7 +24,8 @@ layout: default
   </div>
 
 </div>
-
+{% endif %}
+{% endfor %}
 
 
 
