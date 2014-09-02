@@ -187,8 +187,8 @@ header.smaller nav a {
 }
 
 
-.selected a{ 
-    color: #6FD1AD !important;
+.selected { 
+    background-color: #6FD1AD !important;
     }
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
