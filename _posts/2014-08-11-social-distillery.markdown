@@ -1,5 +1,5 @@
 ---
-layout: portfolio-entry-new
+layout: portfolio-entry
 title:  "Social Distillery"
 projectid: sd
 permalink: social-distillery/
