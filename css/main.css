@@ -194,6 +194,10 @@ header.smaller nav a {
     border-bottom: 1px solid #5BDEAE;
     }
 
+.selected:hover {
+    color: #F09648;
+}
+
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
