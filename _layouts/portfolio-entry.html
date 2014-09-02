@@ -70,15 +70,13 @@ layout: default
         <div class="clearfix">&nbsp;</div> 
         <div class="prev-next-link left"> 
         {% if page.next.url %} 
-                <a href="{{ site.baseurl }}{{page.next.url}}" title="Previous Post: 
-{{page.previous.title}}">previous</a> 
+                <a href="{{ site.baseurl }}{{page.next.url}}" title="Previous Post: {{page.previous.title}}">previous</a> 
         {% endif %} 
         </div> 
 
         <div class="prev-next-link right"> 
         {% if page.previous.url %} 
-                <a href="{{ site.baseurl }}{{page.previous.url}}" title="next Post: 
-{{page.next.title}}">next</a> 
+                <a href="{{ site.baseurl }}{{page.previous.url}}" title="next Post: {{page.next.title}}">next</a> 
         {% endif %} 
         </div> 
         <div class="clear">&nbsp;</div> 
