@@ -191,7 +191,6 @@ header.smaller nav a {
 /* Selected Nav Link */
 .selected { 
     color: #6FD1AD;
-    font-weight: 400;
     border-bottom: 1px solid #5BDEAE;
     }
 
