@@ -99,9 +99,11 @@ header nav {
     float: right;
     height: 100px;
 }
+
 header nav a {
     line-height: 110px;
     margin-left: 20px;
+    padding: 10px 2px;
     font-family: "Lato", sans-serif;
 	font-weight: 300;
 	text-decoration: none;
@@ -186,11 +188,12 @@ header.smaller nav a {
     }
 }
 
-
+/* Selected Nav Link */
 .selected { 
     color: #6FD1AD !important;
     font-weight: 400;
     }
+
 
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
