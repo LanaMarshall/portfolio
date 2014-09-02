@@ -1,5 +1,5 @@
 ---
-layout: portfolio-entry-new
+layout: portfolio-entry
 title:  "Cancer Treatment Centers of America"
 projectid: ctca
 permalink: ctca/

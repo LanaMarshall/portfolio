@@ -1,5 +1,5 @@
 ---
-layout: portfolio-entry-new
+layout: portfolio-entry
 title:  "Whole Foods"
 projectid: wfm
 permalink: whole-foods/

@@ -21,7 +21,13 @@
   images:
     - name: ctca-menshealth.png
 
-- title: STP Inspector
+- title: Social Distillery
+  id: sd
   category: 
   publish: yes
-  description:
+  description: Client holiday gifts. 
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: sd-card-02.jpg
+    - name: sd-card-01.jpg
