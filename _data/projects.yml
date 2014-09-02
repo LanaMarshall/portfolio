@@ -2,6 +2,7 @@
 
 - title: Whole Foods
   id: wfm
+  permalink: whole-foods/
   category: 
   publish: yes
   description: Facebook graphics for the opening of several new Whole Foods Market locations.
@@ -14,6 +15,7 @@
 
 - title: Cancer Treatment Centers of America
   id: ctca
+  permalink: ctca/
   category: 
   publish: yes
   description: An infographic used to promote a Men's Health initiative across social media. 
@@ -23,6 +25,7 @@
 
 - title: Social Distillery
   id: sd
+  permalink: social-distillery/
   category: 
   publish: yes
   description: Client holiday gifts. 
@@ -34,6 +37,7 @@
 
 - title: MakerSquare
   id: mks
+  permalink: makersquare/
   category: 
   publish: yes
   description: Graphics for social media. 
