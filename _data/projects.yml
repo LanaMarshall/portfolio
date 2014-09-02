@@ -1,0 +1,25 @@
+---
+
+- title: Whole Foods
+  id: wfm
+  category: 
+  publish: yes
+  description: Facebook graphics for the opening of several new Whole Foods Market locations.
+  thumb: img/thumbnails/wfm-thumb.jpg
+  imagefolder: img/wfm
+  images:
+    - name: wfm-full-05.jpg
+    - name: wfm-full-01.png
+    - name: wfm-full-02.png
+
+- title: Silverlight Organization Chart for SharePoint
+  category: 
+  publish: yes
+  description: A silverlight Chart control which retrieves data from the SharePoint list. 
+
+- title: STP Inspector
+  category: 
+  publish: yes
+  description: STP Inspector is an site template inspector for WSS/MOSS 2007. 
+  It analyzes a site template file (.stp) and basically shows its dependencies on the site
+  features and site collection features.
