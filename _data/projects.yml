@@ -56,9 +56,7 @@
   publish: yes
   description: A short typographic animation created in AfterEffects. 
   thumb: img/thumbnails/beatles-thumb.png
-  imagefolder: <iframe width="640" height="360" src="//www.youtube.com/embed/ROvZvKQ_hJM" frameborder="0" allowfullscreen></iframe>
-  images: 
-    - name: 
+
 
 - title: New York Toy Fair Animation
   id: toyfair_animation
