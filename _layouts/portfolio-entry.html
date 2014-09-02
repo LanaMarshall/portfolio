@@ -44,7 +44,7 @@ layout: default
 <div class="portfolio-entry row clearfix">
 
   <div class="small-12 medium-8 columns">
-    {% for name in page.images %}
+    {% for images in page.images %}
       {% if images.name %}
       <div class="project-img-full">
           <img src="{{ site.baseurl }}{{ page.imagefolder }}/{{ images.name }}">
