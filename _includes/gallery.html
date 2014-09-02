@@ -1,6 +1,6 @@
-{% for project in site.data.projects %}
 <div class="home row">
-    
+{% for project in site.data.projects %}
+   
   <div class="thumb-container small-12 medium-6 large-4 columns">
     <!--{% for thumb in project.thumb %}-->  
       <a class="portfolio-thumb" href="{{ site.baseurl }}{{ project.permalink }}">
@@ -9,8 +9,9 @@
     <!--{% endfor %}-->
   </div>
 
-</div>
 {% endfor %}
+</div>
+
 
 
 <!--
