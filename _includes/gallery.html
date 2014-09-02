@@ -1,18 +1,16 @@
-<div class="home row">
 {% for project in site.data.projects %}
-{% if project.id == page.projectid %}
+<div class="home row">
     
   <div class="thumb-container small-12 medium-6 large-4 columns">
-    {% for thumb in project.thumb %}  
+    <!--{% for thumb in project.thumb %}-->  
       <a class="portfolio-thumb" href="{{ site.baseurl }}{{ project.permalink }}">
-        <img src="{{ project.thumb }}">
+        <img src="{{ site.baseurl }}{{ project.thumb }}">
       </a>
-    {% endfor %}
+    <!--{% endfor %}-->
   </div>
 
-{% endif %}
-{% endfor %}
 </div>
+{% endfor %}
 
 
 <!--
