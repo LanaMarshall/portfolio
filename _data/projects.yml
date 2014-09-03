@@ -60,7 +60,7 @@
   category: 
   publish: yes
   description: A short typographic animation created in AfterEffects. 
-  thumb: img/thumbnails/beatles-thumb.png
+  thumb: img/thumbnails/beatles-thumb.jpg
 
 
 - title: New York Toy Fair Animation
@@ -69,7 +69,7 @@
   category: 
   publish: yes
   description: An AfterEffects animation created using original vector graphics. 
-  thumb: img/thumbnails/toyfair-thumb.png
+  thumb: img/thumbnails/toyfair-thumb.jpg
 
 
 
