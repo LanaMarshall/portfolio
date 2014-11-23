@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Whole Foods</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Graphic Designer in Austin, TX">
+    <link rel="canonical" href="/whole-foods/">
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+
+    <!-- Font Awesome -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/foundation.css"> 
+
+</head>
+
+
+    <body>
+
+    <header id="header" class="clearfix">
+
+  <div class="contain center">
+    <div class="logo">
+      <h1 id="logo"><a href="">Lana Marshall</a></h1>
+    </div>
+    
+    <nav class="main-nav">
+        <a href="">Portfolio</a>
+        
+          
+          <a href="about/">About</a>
+          
+        
+          
+          <a href="contact/">Contact</a>
+          
+        
+          
+        
+          
+        
+        
+    </nav>
+  </div>
+
+</header>
+
+
+    <div class="contain center">
+      <div class="headroom clearfix">
+      
+  
+
+    <div class="portfolio-entry row">
+      
+      <!-- Project Images -->
+      <div class="small-12 medium-8 columns">
+        
+          <div class="project-img-full">
+              <img src="img/wfm/wfm-full-05.jpg">
+          </div>
+        
+          <div class="project-img-full">
+              <img src="img/wfm/wfm-full-01.png">
+          </div>
+        
+          <div class="project-img-full">
+              <img src="img/wfm/wfm-full-02.png">
+          </div>
+        
+      </div>
+        
+      <!-- Project Title and Description -->
+      <div class="project-text small-12 medium-4 columns">
+        <h1 class="main-headline">Whole Foods</h1>
+        <div class="project-description">
+          <p>Facebook graphics for the opening of several new Whole Foods Market locations.</p>
+        </div>
+      </div>
+
+    </div>
+
+  
+
+  
+
+  
+
+  
+
+
+
+<!-- Project Naviation -->
+<div class="portfolio-nav small-12 columns"> 
+  <div class="clearfix">&nbsp;</div> 
+  
+  <!-- Previous Project Link -->
+  <div class="prev-next-link left"> 
+     
+  </div> 
+
+  <!-- Next Project Link -->
+  <div class="prev-next-link right"> 
+     
+      <a href="/social-distillery/" title="next Post: ">next</a> 
+     
+  </div> 
+  
+  <div class="clear">&nbsp;</div> 
+</div>
+
+
+      </div>
+    </div>
+
+    
+
+<section id="footer">
+  <footer class="site-footer row">
+
+      <div class="copyright small-12 columns">
+        <p>© 2014 Lana Marshall</p>
+      </div>
+
+  </footer>
+</section>
+
+
+
+      <!-- jQuery -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+      <!-- Foundation JS -->
+
+      <!-- <script>
+        $(window).bind("load", function () {
+            var footer = $("#footer");
+            var pos = footer.position();
+            var height = $(window).height();
+            height = height - pos.top;
+            height = height - footer.height();
+            if (height > 0) {
+                footer.css({
+                    'margin-top': height + 'px'
+                });
+            }
+        });
+      </script> -->
+
+
+      <!-- Sticky Shrinking Header -->
+      <script src="js/classie.js"></script>
+      <script>
+        $(document).ready(function(){
+          function init() {
+              window.addEventListener('scroll', function(e){
+                  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                      shrinkOn = 100,
+                      header = document.querySelector("header");
+                  if (distanceY > shrinkOn) {
+                      classie.add(header,"smaller");
+                  } else {
+                      if (classie.has(header,"smaller")) {
+                          classie.remove(header,"smaller");
+                      }
+                  }
+              });
+          }
+          window.onload = init();
+        });
+      </script>
+
+
+      <!-- Sticky Footer
+      <script type="text/javascript">
+        $(document).ready(function(){
+            $(window).resize(function(){
+                var footerHeight = $('.footer').outerHeight();
+          var stickFooterPush = $('.push').height(footerHeight);  
+          $('.wrapper').css({'marginBottom':'-' + footerHeight + 'px'});
+            });   
+            $(window).resize();
+        });
+      </script>
+      -->
+
+  </body>
+</html>
