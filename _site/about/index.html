@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>About</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Graphic Designer in Austin, TX">
+    <link rel="canonical" href="/about/">
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+
+    <!-- Font Awesome -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/foundation.css"> 
+
+</head>
+
+
+    <body>
+
+    <header id="header" class="clearfix">
+
+  <div class="contain center">
+    <div class="logo">
+      <h1 id="logo"><a href="">Lana Marshall</a></h1>
+    </div>
+    
+    <nav class="main-nav">
+        <a href="">Portfolio</a>
+        
+          
+          <a href="about/">About</a>
+          
+        
+          
+          <a href="contact/">Contact</a>
+          
+        
+          
+        
+          
+        
+        
+    </nav>
+  </div>
+
+</header>
+
+
+    <div class="contain center">
+      <div class="headroom clearfix">
+      <div class="row">
+
+	<div class="page-img small-12 medium-6 columns">
+		<img src="img/headshot2.jpg">
+	</div>
+
+	<div class="small-12 medium-6 columns">	  
+	  <div class="post-header">
+	    <h1 class="main-headline">Hello, there!</h1>
+	  </div>
+
+	  <article class="post-content body-copy">
+	  <p>I’m Lana Marshall and I’m a graphic designer.</p>
+
+<p>An Austin native, I moved to New York fresh out of high school to attend Pratt Institute. After a comprehensive study of design, illustration and advertising, I earned my B.A. in Communications Design. I then returned to my hometown where I worked as a freelance graphic designer before joining the team at <a href="http://socialdistillery.com/" target="_blank">Social Distillery</a>, as their resident Graphic Designer.</p>
+
+<p>If you have questions about any of my work or would like a copy of my most recent resume, feel free to <a href="contact/">contact me.</a></p>
+
+	  </article>
+	</div>
+
+</div>
+      </div>
+    </div>
+
+    
+
+<section id="footer">
+  <footer class="site-footer row">
+
+      <div class="copyright small-12 columns">
+        <p>© 2014 Lana Marshall</p>
+      </div>
+
+  </footer>
+</section>
+
+
+
+      <!-- jQuery -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+      <!-- Foundation JS -->
+
+      <!-- <script>
+        $(window).bind("load", function () {
+            var footer = $("#footer");
+            var pos = footer.position();
+            var height = $(window).height();
+            height = height - pos.top;
+            height = height - footer.height();
+            if (height > 0) {
+                footer.css({
+                    'margin-top': height + 'px'
+                });
+            }
+        });
+      </script> -->
+
+
+      <!-- Sticky Shrinking Header -->
+      <script src="js/classie.js"></script>
+      <script>
+        $(document).ready(function(){
+          function init() {
+              window.addEventListener('scroll', function(e){
+                  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                      shrinkOn = 100,
+                      header = document.querySelector("header");
+                  if (distanceY > shrinkOn) {
+                      classie.add(header,"smaller");
+                  } else {
+                      if (classie.has(header,"smaller")) {
+                          classie.remove(header,"smaller");
+                      }
+                  }
+              });
+          }
+          window.onload = init();
+        });
+      </script>
+
+
+      <!-- Sticky Footer
+      <script type="text/javascript">
+        $(document).ready(function(){
+            $(window).resize(function(){
+                var footerHeight = $('.footer').outerHeight();
+          var stickFooterPush = $('.push').height(footerHeight);  
+          $('.wrapper').css({'marginBottom':'-' + footerHeight + 'px'});
+            });   
+            $(window).resize();
+        });
+      </script>
+      -->
+
+  </body>
+</html>
