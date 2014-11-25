@@ -10,18 +10,14 @@
     <link rel="canonical" href="/social-distillery/">
 
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600' rel='stylesheet' type='text/css'>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-
-    <!-- Font Awesome -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/main.css">
 
     <!-- Foundation CSS -->
-    <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/foundation.css"> 
 
 </head>
@@ -36,7 +32,7 @@
       <h1 id="logo"><a href="">Lana Marshall</a></h1>
     </div>
     
-    <nav class="main-nav">
+    <nav id="main-nav" class="main-nav">
         <a href="">Portfolio</a>
         
           
@@ -65,8 +61,6 @@
 
   
 
-  
-
     <div class="portfolio-entry row">
       
       <!-- Project Images -->
@@ -84,6 +78,8 @@
               <img src="img/sd/sd-card-01.jpg">
           </div>
         
+        <p>
+</p>
       </div>
         
       <!-- Project Title and Description -->
@@ -95,6 +91,12 @@
       </div>
 
     </div>
+
+  
+
+  
+
+  
 
   
 
@@ -144,23 +146,6 @@
       <!-- jQuery -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
-      <!-- Foundation JS -->
-
-      <!-- <script>
-        $(window).bind("load", function () {
-            var footer = $("#footer");
-            var pos = footer.position();
-            var height = $(window).height();
-            height = height - pos.top;
-            height = height - footer.height();
-            if (height > 0) {
-                footer.css({
-                    'margin-top': height + 'px'
-                });
-            }
-        });
-      </script> -->
-
 
       <!-- Sticky Shrinking Header -->
       <script src="js/classie.js"></script>
@@ -184,19 +169,16 @@
         });
       </script>
 
-
-      <!-- Sticky Footer
+      <!-- Selected Menu Link Styling -->
       <script type="text/javascript">
         $(document).ready(function(){
-            $(window).resize(function(){
-                var footerHeight = $('.footer').outerHeight();
-          var stickFooterPush = $('.push').height(footerHeight);  
-          $('.wrapper').css({'marginBottom':'-' + footerHeight + 'px'});
-            });   
-            $(window).resize();
+            $('#main-nav a').each(function(index) {
+                if(this.href.trim() == window.location)
+                    $(this).addClass("selected");
+            });
         });
       </script>
-      -->
+
 
   </body>
 </html>
