@@ -16,6 +16,19 @@
 
 
 - title: Social Distillery
+  id: sd-branding
+  permalink: social-distillery-branding/
+  category: 
+  publish: yes
+  description: "A modern brand refresh for Social Distillery, which included an updated logo and comprehensive brand guidlines."
+  thumb: img/sd-branding/sd-logo.png
+  imagefolder: img/sd-branding
+  images: 
+    - name: sd-logo.png
+    - name: before-after.png
+
+
+- title: Social Distillery
   id: sd
   permalink: social-distillery/
   category: 
@@ -29,6 +42,20 @@
     - name: sd-card-01.jpg
 
 
+- title: MakerSquare Initiative Logos
+  id: mks-logos
+  permalink: mks-logos/
+  category: 
+  publish: yes
+  description: Logos created for various initiatives of the MakerSquare program. 
+  thumb: img/mks-logos/mks-university.png
+  imagefolder: img/mks-logos
+  images:
+    - name: mks-university.png
+    - name: coding-corner.png
+    - name: mks-heroes.png
+
+
 - title: MakerSquare
   id: mks
   permalink: makersquare/
@@ -40,6 +67,19 @@
   images: 
     - name: mks-01.png
     - name: mks-03.png
+    - name: mks-02.png
+
+
+- title: Cancer Treatment Centers of America
+  id: ctca-women
+  permalink: ctca-womens-health/
+  category: 
+  publish: yes
+  description: An infographic used by Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  thumb: img/thumbnails/ctca-women-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-womens-health.png
 
 
 - title: Cancer Treatment Centers of America
@@ -72,4 +112,10 @@
   thumb: img/thumbnails/toyfair-thumb.jpg
 
 
-
+- title:
+  id: 
+  permalink: false
+  category: 
+  publish: 
+  description:
+  thumb: img/thumbnails/blank-thumb.png

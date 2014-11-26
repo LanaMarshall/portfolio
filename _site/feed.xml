@@ -3,10 +3,17 @@
   <channel>
     <title>Lana Marshall | Design | Art Direction</title>
     <description>Graphic Designer in Austin, TX</description>
+<<<<<<< HEAD
     <link>http://lanamarshall.com/http://lanamarshall.com//</link>
     <atom:link href="http://lanamarshall.com/http://lanamarshall.com//feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Wed, 26 Nov 2014 14:40:07 -0600</pubDate>
     <lastBuildDate>Wed, 26 Nov 2014 14:40:07 -0600</lastBuildDate>
+=======
+    <link>http://lanamarshall.com//</link>
+    <atom:link href="http://lanamarshall.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 26 Nov 2014 17:31:49 -0600</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 17:31:49 -0600</lastBuildDate>
+>>>>>>> staging
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -55,8 +62,28 @@
         <description>
 </description>
         <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+<<<<<<< HEAD
         <link>http://lanamarshall.com/http://lanamarshall.com//ctca/</link>
         <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//ctca/</guid>
+=======
+        <link>http://lanamarshall.com//ctca-womens-health/</link>
+        <guid isPermaLink="true">http://lanamarshall.com//ctca-womens-health/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Cancer Treatment Centers of America</title>
+        <description>
+</description>
+        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <link>http://lanamarshall.com//ctca/</link>
+        <guid isPermaLink="true">http://lanamarshall.com//ctca/</guid>
+>>>>>>> staging
         
         
         <category>jekyll</category>
@@ -89,6 +116,28 @@
         <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
         <link>http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</link>
         <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Social Distillery</title>
+        <description>
+</description>
+        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <link>http://lanamarshall.com//social-distillery-branding/</link>
+        <guid isPermaLink="true">http://lanamarshall.com//social-distillery-branding/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MakerSquare Initiative Logos</title>
+        <description>
+</description>
+        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <link>http://lanamarshall.com//mks-logos/</link>
+        <guid isPermaLink="true">http://lanamarshall.com//mks-logos/</guid>
         
         
       </item>
