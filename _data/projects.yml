@@ -70,6 +70,19 @@
     - name: mks-02.png
 
 
+- title: Pauly + Presley Logo Concept
+  id: pp-logo
+  permalink: pauly-presley/
+  category: 
+  publish: yes
+  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
+  thumb: img/pauly-presley/pp-logo-01.png
+  imagefolder: img/pauly-presley
+  images:
+    - name: pp-logo-01.png
+    - name: pp-logo-02.png
+
+
 - title: Cancer Treatment Centers of America
   id: ctca-women
   permalink: ctca-womens-health/
