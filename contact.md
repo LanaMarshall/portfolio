@@ -10,7 +10,7 @@ link1: tel:512-965-4437
 
 icon2: img/contact/email-icon.png
 name2: Email
-link2: mailto:lanakmarshall@gmail.com
+link2: mailto:lana@lanamarshall.com
 
 icon3: img/contact/linkedin-icon.png
 name3: LinkedIn
