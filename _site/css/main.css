@@ -265,6 +265,20 @@ header.smaller nav a {
 
 
 
+/* -------------------- THUMBNAIL GALLERY -------------------- */ 
+
+
+.contact-icon {
+    margin: 10px 0;
+    max-width: 100px;
+}
+
+.contact-icon:hover {
+    opacity: .8;
+}
+
+
+
 /* -------------------- FOOTER -------------------- */ 
 
 #footer {
