@@ -265,13 +265,13 @@ header.smaller nav a {
 
 
 
-/* -------------------- THUMBNAIL GALLERY -------------------- */ 
+/* -------------------- CONTACT PAGE -------------------- */ 
 
 
 .contact-icon {
     margin: 0px auto;
     padding: 10px 0px;
-    max-width: 100px;
+    max-width: 100%;
 }
 
 .contact-icon:hover {
