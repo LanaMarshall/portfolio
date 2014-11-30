@@ -208,6 +208,7 @@ header.smaller nav a {
 .thumb-container {
 	overflow: hidden;
 	margin: 1em 0;
+    padding: 0;
 }
 
 .portfolio-thumb:hover {
