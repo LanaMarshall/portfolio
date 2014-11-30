@@ -123,12 +123,3 @@
   publish: yes
   description: An After Effects animation created using original vector graphics. 
   thumb: img/thumbnails/toyfair-thumb.jpg
-
-
-- title:
-  id: 
-  permalink: false
-  category: 
-  publish: 
-  description:
-  thumb: img/thumbnails/blank-thumb.png
