@@ -207,7 +207,7 @@ header.smaller nav a {
 
 .thumb-container {
 	overflow: hidden;
-	margin: .4em;
+	margin: .5em 0;
     padding: 0;
 }
 
