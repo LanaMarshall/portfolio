@@ -102,10 +102,11 @@
   category: 
   publish: yes
   description: An infographic used by Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
-  thumb: img/thumbnails/ctca-women-thumb.png
+  thumb: img/thumbnails/ctca-women-thumb2.png
   imagefolder: img/ctca
   images:
     - name: ctca-womens-health.png
+    - name: ctca-landing-page-graphics.png
 
 
 - title: Cancer Treatment Centers of America
