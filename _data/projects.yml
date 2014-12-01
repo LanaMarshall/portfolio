@@ -92,7 +92,7 @@
   thumb: img/thumbnails/sd-koozies-thumb.jpg
   imagefolder: img/sd-koozies
   images: 
-    - name: sd-koozies-font.jpg
+    - name: sd-koozies-front.jpg
     - name: sd-koozies-back.jpg
 
 
