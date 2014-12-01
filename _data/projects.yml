@@ -105,8 +105,8 @@
   thumb: img/thumbnails/ctca-women-thumb2.png
   imagefolder: img/ctca
   images:
-    - name: ctca-womens-health.png
     - name: ctca-landing-page-graphics.png
+    - name: ctca-womens-health.png
 
 
 - title: Cancer Treatment Centers of America
