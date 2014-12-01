@@ -56,6 +56,19 @@
     - name: mks-heroes.png
 
 
+- title: Social Distillery
+  id: sd-koozies
+  permalink: social-distillery-koozies/
+  category: 
+  publish: yes
+  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-koozies-thumb.jpg
+  imagefolder: img/sd-koozies
+  images: 
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+
+
 - title: MakerSquare
   id: mks
   permalink: makersquare/
@@ -81,19 +94,6 @@
   images:
     - name: pp-logo-01.png
     - name: pp-logo-02.png
-
-
-- title: Social Distillery
-  id: sd-koozies
-  permalink: social-distillery-koozies/
-  category: 
-  publish: yes
-  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
-  thumb: img/thumbnails/sd-koozies-thumb.jpg
-  imagefolder: img/sd-koozies
-  images: 
-    - name: sd-koozies-front.jpg
-    - name: sd-koozies-back.jpg
 
 
 - title: Cancer Treatment Centers of America
