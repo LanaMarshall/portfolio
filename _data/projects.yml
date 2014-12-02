@@ -101,12 +101,27 @@
   permalink: ctca-womens-health/
   category: 
   publish: yes
-  description: An infographic used by Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  description: A series of landing page graphics and an infographic created for Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
   thumb: img/thumbnails/ctca-women-thumb2.png
   imagefolder: img/ctca
   images:
     - name: ctca-landing-page-graphics.png
     - name: ctca-womens-health.png
+
+
+- title: Other World Computing
+  id: owc-love
+  permalink: owc-valentines/
+  category: 
+  publish: yes
+  description: A series of landing page graphics and an infographic created for Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  thumb: img/thumbnails/owc-love-thumb.png
+  imagefolder: img/owc
+  images:
+    - name: owc-love-imac.jpg
+    - name: owc-love-cover.png
+    - name: owc-love-01.png
+    - name: owc-love-02.png
 
 
 - title: Cancer Treatment Centers of America
