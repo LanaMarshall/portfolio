@@ -5,7 +5,7 @@
   permalink: whole-foods/
   category: 
   publish: yes
-  description: Facebook graphics for the opening of several new Whole Foods Market locations.
+  description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
   thumb: img/thumbnails/wfm-thumb.jpg
   imagefolder: img/wfm
   images:
@@ -20,7 +20,7 @@
   permalink: social-distillery-branding/
   category: 
   publish: yes
-  description: "A modern brand refresh for Social Distillery, which included an updated logo and comprehensive brand guidlines."
+  description: "When Social Distillery's CEO came to me looking for a brand update, she wanted to keep the skyline motif of the logo she'd founded the company with, but give it a clean, modern facelift. I cleaned up the lines of the logo, simplified the details and color scheme and added new logotype. The logo update was just part of Social Distillery's brand refresh, which included comprehensive brand guidlines and new brand collateral."
   thumb: img/sd-branding/sd-logo.png
   imagefolder: img/sd-branding
   images: 
@@ -33,7 +33,7 @@
   permalink: social-distillery/
   category: 
   publish: yes
-  description: Client holiday gifts. 
+  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
   thumb: img/thumbnails/sd-wine-thumb.jpg
   imagefolder: img/sd
   images: 
@@ -47,7 +47,7 @@
   permalink: mks-logos/
   category: 
   publish: yes
-  description: Logos created for various initiatives of the MakerSquare program. 
+  description: "As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
   thumb: img/mks-logos/mks-university.png
   imagefolder: img/mks-logos
   images:
@@ -56,12 +56,25 @@
     - name: mks-heroes.png
 
 
+- title: Social Distillery
+  id: sd-koozies
+  permalink: social-distillery-koozies/
+  category: 
+  publish: yes
+  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-koozies-thumb.jpg
+  imagefolder: img/sd-koozies
+  images: 
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+
+
 - title: MakerSquare
   id: mks
   permalink: makersquare/
   category: 
   publish: yes
-  description: Graphics for social media. 
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014 for all their social media marketing needs. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
   thumb: img/mks/mks-01.png
   imagefolder: img/mks
   images: 
@@ -70,16 +83,45 @@
     - name: mks-02.png
 
 
+- title: Pauly + Presley Logo Concept
+  id: pp-logo
+  permalink: pauly-presley/
+  category: 
+  publish: yes
+  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
+  thumb: img/pauly-presley/pp-logo-01.png
+  imagefolder: img/pauly-presley
+  images:
+    - name: pp-logo-01.png
+    - name: pp-logo-02.png
+
+
 - title: Cancer Treatment Centers of America
   id: ctca-women
   permalink: ctca-womens-health/
   category: 
   publish: yes
-  description: An infographic used by Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
-  thumb: img/thumbnails/ctca-women-thumb.png
+  description: A series of landing page graphics and an infographic created for Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  thumb: img/thumbnails/ctca-women-thumb2.png
   imagefolder: img/ctca
   images:
+    - name: ctca-landing-page-graphics.png
     - name: ctca-womens-health.png
+
+
+- title: Other World Computing
+  id: owc-love
+  permalink: owc-valentines/
+  category: 
+  publish: yes
+  description: "Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.</br></br>I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine's theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.</br></br>The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR." 
+  thumb: img/thumbnails/owc-love-thumb.png
+  imagefolder: img/owc
+  images:
+    - name: owc-love-imac.jpg
+    - name: owc-love-cover.png
+    - name: owc-love-01.png
+    - name: owc-love-02.png
 
 
 - title: Cancer Treatment Centers of America
@@ -99,7 +141,7 @@
   permalink: beatles-animation/
   category: 
   publish: yes
-  description: A short typographic animation created in After Effects. 
+  description: A short typographic animation created in After Effects. This project was created during my time at Pratt Institute.
   thumb: img/thumbnails/beatles-thumb.jpg
 
 
@@ -108,14 +150,5 @@
   permalink: toyfair-animation/
   category: 
   publish: yes
-  description: An After Effects animation created using original vector graphics. 
+  description: An After Effects animation created using original vector graphics. This project was created during my time at Pratt Institute.
   thumb: img/thumbnails/toyfair-thumb.jpg
-
-
-- title:
-  id: 
-  permalink: false
-  category: 
-  publish: 
-  description:
-  thumb: img/thumbnails/blank-thumb.png

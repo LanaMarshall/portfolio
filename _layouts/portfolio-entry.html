@@ -6,25 +6,25 @@ layout: default
   {% if project.id == page.projectid %}
 
     <div class="portfolio-entry row">
-      
-      <!-- Project Images -->
-      <div class="small-12 medium-8 columns">
-        {% for image in project.images %}
-          <div class="project-img-full">
-              <img src="{{ site.baseurl }}{{ project.imagefolder }}/{{ image.name }}">
-          </div>
-        {% endfor %}
-        <p>{{ content }}</p>
-      </div>
-        
+
       <!-- Project Title and Description -->
       <div class="project-text small-12 medium-4 columns">
         <h1 class="main-headline">{{ project.title }}</h1>
         <div class="project-description">
           <p>{{ project.description }}</p>
         </div>
+      </div>      
+      
+      <!-- Project Images -->
+      <div class="small-12 medium-8 columns">
+        {% for image in project.images %}
+          <div class="project-img-full">
+              <img src="{{ site.url }}{{ project.imagefolder }}/{{ image.name }}">
+          </div>
+        {% endfor %}
+        <p>{{ content }}</p>
       </div>
-
+        
     </div>
 
   {% endif %}
@@ -38,16 +38,20 @@ layout: default
   <!-- Previous Project Link -->
   <div class="prev-next-link left"> 
     {% if page.next.url %} 
-      <a href="{{ site.baseurl }}{{page.next.url}}" title="Previous Post: {{page.previous.title}}">previous</a> 
+      <a href="{{ site.url }}{{page.next.url}}" title="Previous">previous</a> 
     {% endif %} 
   </div> 
 
   <!-- Next Project Link -->
   <div class="prev-next-link right"> 
     {% if page.previous.url %} 
-      <a href="{{ site.baseurl }}{{page.previous.url}}" title="next Post: {{page.next.title}}">next</a> 
+      <a href="{{ site.url }}{{page.previous.url}}" title="Next">next</a> 
     {% endif %} 
   </div> 
+  
+  <div class="clearfix">&nbsp;</div>
+
+  <!-- <div class="on-page-gallery">{% include gallery.html %}</div> -->
   
   <div class="clear">&nbsp;</div> 
 </div>

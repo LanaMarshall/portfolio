@@ -1,8 +1,22 @@
 ---
-layout: page
+layout: contact
 title: Contact
 headline: Interested in working together?
 permalink: contact/
----
 
-<a href="mailto:lanakmarshall@gmail.com">Let's Talk</a>
+icon1: img/contact/phone-icon.png
+name1: 512.965.4437
+link1: tel:512-965-4437
+
+icon2: img/contact/email-icon.png
+name2: Email
+link2: mailto:lana@lanamarshall.com
+
+icon3: img/contact/linkedin-icon.png
+name3: LinkedIn
+link3: http://www.linkedin.com/in/lanamarshall/
+
+icon4: img/contact/resume-icon.png
+name4: Resume
+link4: resume.pdf
+---
