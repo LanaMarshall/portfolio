@@ -22,18 +22,6 @@ body {
    clear: both;
 }
 
-.no-pad-right {
-    padding-right: 0;
-}
-
-.no-pad-left {
-    padding-left: 0;
-}
-
-.no-pad-all {
-    padding: 0;
-}
-
 /* -------------------- TEXT STYLING -------------------- */
 
 
@@ -227,6 +215,11 @@ header.smaller nav a {
 
 .on-page-gallery {
     margin: 1em 0;
+}
+
+.home .columns {
+    padding-left: .5em;
+    padding-right: .5em;
 }
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
