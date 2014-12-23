@@ -25,9 +25,9 @@
   imagefolder: img/sd-branding
   images: 
     - name: sd-logo.png
-    - name: before-after.png
     - name: sd-linkedin.png
     - name: sd-business-card.jpg
+    - name: before-after.png
 
 
 - title: Social Distillery
