@@ -26,6 +26,8 @@
   images: 
     - name: sd-logo.png
     - name: before-after.png
+    - name: sd-linkedin.png
+    - name: sd-business-card.jpg
 
 
 - title: Social Distillery
