@@ -176,13 +176,14 @@ header.smaller nav a {
 
     /* Styling on scroll down, mobile */
     header.smaller {
-        height: 4.4em;
+        height: 2.8em;
     }
 
     header.smaller h1#logo {
         height: 1.8em;
         line-height: 1.8em;
         font-size: 1em;
+        display: none;
     }
 
     header.smaller #logo a {
@@ -190,11 +191,11 @@ header.smaller nav a {
     }
 
     header.smaller nav {
-        height: 1.4em;
+        height: 1.8em;
     }
 
     header.smaller nav a {
-        line-height: 1.4em;
+        line-height: 2.8em;
     }
 }
 
@@ -276,9 +277,10 @@ header.smaller nav a {
 
 
 .contact-icon {
-    margin-bottom: 5px;
-    padding: 15px;
-    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;
+    /*padding: 15px;*/
+    max-width: 140px;
 }
 
 .contact-icon:hover {
