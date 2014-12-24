@@ -3,7 +3,7 @@ layout: page
 title: About
 headline: Hello, there!
 permalink: about/
-img: img/headshot2.jpg
+img: img/headshot.jpg
 ---
 
 I'm Lana Marshall and I'm a graphic designer.
