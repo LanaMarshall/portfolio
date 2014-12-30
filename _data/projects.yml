@@ -152,6 +152,7 @@
 - title: New York Toy Fair Animation
   id: toyfair
   permalink: toyfair-animation/
+  class: end
   category: 
   publish: yes
   description: An After Effects animation created using original vector graphics. This project was created during my time at Pratt Institute.
