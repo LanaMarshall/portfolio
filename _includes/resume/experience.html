@@ -1,0 +1,32 @@
+{% for experience in site.data.experience %}
+
+        <div class="block">
+            <div class="main-row">
+                {% for org in experience.org %}
+                    <div class="org">
+                        <h3>{{ experience.org }}</h3>
+                    </div>
+                {% endfor %}
+
+                <div class="when">
+                    <h3>{{ experience.when }}</h3>
+                </div>
+            </div>
+            <div class="sub-row">
+                <div class="role">
+                    <h4>{{ experience.role }}</h4>
+                </div>
+                <div class="location">
+                    <h4>{{ experience.location }}</h4>
+                </div>
+            </div>
+            {% if experience.bullets %}
+            <ul>
+                {% for bullet in experience.bullets %}
+                <li>{{ bullet | markdownify }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+
+{% endfor %}

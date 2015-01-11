@@ -1,11 +1,13 @@
 # Site settings
 title: Lana Marshall | Design | Art Direction 
-email: lanakmarshall@gmail.com
+email: hello@lanamarshall.com
+phone: 1-512-965-4437
 description: "Graphic Designer in Austin, TX"
 baseurl: 
 url: 
 twitter_username: lana7601
 github_username:  LanaMarshall
+linkedin_url: https://www.linkedin.com/in/lanamarshall
 
 # Build settings
 markdown: kramdown
