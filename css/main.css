@@ -32,10 +32,13 @@ body p, body li {
     color: #777777;
 }
 
+body h1 {
+    font-family: "klinic_slabmedium", serif;
+    font-size: 1.8em;
+    color: #777777;
+}
+
 .main-headline {
-	font-family: "Josefin Slab", serif;
-	font-size: 2em;
-	color: #777777;
 }
 
 
@@ -149,7 +152,6 @@ body p, body li {
 }
 
 .contact {
-    font-family: "Lato", sans-serif;
     font-size: 1em;
     font-weight: 300;
     color: #777777;

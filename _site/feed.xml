@@ -17,7 +17,7 @@
     <!-- Typekit Js -->
     <script src="//use.typekit.net/vqf0pzi.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
-    
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
 
@@ -29,6 +29,9 @@
 
     <!-- Foundation CSS -->
     <link rel="stylesheet" href="/css/foundation.css"> 
+
+    <!-- Klinic Slab CSS -->
+    <link rel="stylesheet" href="/css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
@@ -79,8 +82,8 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Jan 2015 12:29:02 -0600</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2015 12:29:02 -0600</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2015 13:36:08 -0600</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2015 13:36:08 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
