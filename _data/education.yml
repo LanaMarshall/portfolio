@@ -1,14 +1,15 @@
 - org:  MakerSquare
-  role:
   location: 'Austin, Texas'
   when: Summer 2014
-  bullets: 
-    - '12-Week Front-End Development Bootcamp'
+  bullets:
+    - 'Austin, Texas'
+    - Intensive 12-Week Front-End Development Bootcamp
 
 - org:  Pratt Institute
-  role: BFA Communications Design
   location: 'Brooklyn, New York'
   when: 2008 to 2012
   bullets: 
+    - 'Brooklyn, New York'
+    - BFA Communications Design
     - 'Emphasis in Graphic Design'
 

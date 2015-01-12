@@ -1,29 +1,22 @@
 {% for experience in site.data.experience %}
 
-        <div class="block">
-            <div class="main-row">
-                {% for org in experience.org %}
-                    <div class="org">
-                        <h3>{{ experience.org }}</h3>
-                    </div>
-                {% endfor %}
+        <div class="resume-block">
+        
+            <div class="org">
+                <h3>
+                    {{ experience.org }}
+                    <span class="when"> — {{ experience.when }}</span>
+                </h3>
+            </div>
 
-                <div class="when">
-                    <h3>{{ experience.when }}</h3>
-                </div>
+            <div class="role">
+                <h4>{{ experience.role }}</h4>
             </div>
-            <div class="sub-row">
-                <div class="role">
-                    <h4>{{ experience.role }}</h4>
-                </div>
-                <div class="location">
-                    <h4>{{ experience.location }}</h4>
-                </div>
-            </div>
+            
             {% if experience.bullets %}
-            <ul>
+            <ul class= "body-copy">
                 {% for bullet in experience.bullets %}
-                <li>{{ bullet | markdownify }}</li>
+                <li>{{ bullet }}</li>
                 {% endfor %}
             </ul>
             {% endif %}

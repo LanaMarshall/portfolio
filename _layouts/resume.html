@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="resume row">
+
+	
+	<!-- Logo and Contact Info Section -->
+	<div class="resume-contact text-center small-12 medium-4 columns">
+	    <h1 class="main-headline">{{ page.headline }}</h1>
+	    <div class="resume-contact ">
+	          	
+	        <p>{{ site.location }}</p>
+			<p><a href="{{ site.email }}">{{ site.email }}</a></p>
+			<p><a href="{{ site.phone }}">512.965.4437</a></p>
+			<p>{{ content }}</p>
+
+	    </div>
+	</div>   
+
+	<div class="resume small-12 medium-8 columns">
+		{% for section in site.data.sections %}
+			    
+			<div class="resume-section">
+			    <div><h2>{{ section.name }}</h2></div>
+			    {% include resume/{{ section.layout }} %}
+			</div>
+
+		{% endfor %}
+	</div>
+
+
+</div>

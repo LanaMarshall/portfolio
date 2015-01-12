@@ -1,0 +1,77 @@
+.resume h1 {
+	color: #6FD1AD;
+}
+
+.resume h2 {
+	font-family: "Josefin Slab", serif;
+	font-size: 1.3em;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #F09648;
+}
+
+.resume h3 {
+	font-family: "Josefin Slab", serif;
+	font-size: 1em;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #777777;
+}
+
+.resume h4 {
+	font-family: "Josefin Slab", serif;
+	font-size: 1em;
+	font-weight: 700;
+	font-style: italic;
+	color: #777777;
+	margin: 0;
+}
+
+.when {
+	font-family: "Josefin Slab", serif;
+	font-size: 1em;
+	font-weight: 400;
+	font-style: italic;
+	text-transform: none;
+	color: #777777;
+}
+
+.role {
+	font-family: "Josefin Slab", serif;
+	font-size: 1em;
+	font-weight: 700;
+	font-style: italic;
+	text-transform: none;
+	color: #777777;
+}
+
+.resume ul {
+	list-style: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+/*
+.resume li {
+	padding-top: 0;
+	font-family: "Lato", sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	color: #777777;
+}
+*/
+
+.resume-section {
+	margin-bottom: 50px;
+}
+
+.resume-block {
+	margin-bottom: 20px;
+}
+
+.skills .columns {
+	padding-left: 0;
+}

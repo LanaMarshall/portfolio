@@ -1,32 +1,20 @@
 {% for education in site.data.education %}
 
-        <div class="block">
-            <div class="main-row">
+    <div class="resume-block">
                 
-                <div class="org">
-                    <h3>{{ education.org }}</h3>
-                </div>
-
-                <div class="when">
-                    <h3>{{ education.when }}</h3>
-                </div>
-            </div>
-            <div class="sub-row">
-                <div class="role">
-                    <h4>{{ education.role }}</h4>
-                </div>
-                <div class="location">
-                    <h4>{{ education.location }}</h4>
-                </div>
-            </div>
-            
-            {% if education.bullets %}
-            <div>
-                {% for bullet in education.bullets %}
-                <p>{{ bullet | markdownify }}</p>
-                {% endfor %}
-            </div>
-            {% endif %}
+        <div class="org">
+            <h3>
+                {{ education.org }}
+                <span class="when"> — {{ education.when }}</span>
+            </h3>
         </div>
+
+            <ul class="bullets body-copy">
+                {% for bullet in education.bullets %}
+                    <li>{{ bullet }}</li>
+                {% endfor %}
+            </ul>
+    
+    </div>
 
 {% endfor %}

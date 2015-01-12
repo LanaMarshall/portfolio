@@ -6,12 +6,12 @@
 
 - name: Education
   id: education
-  layout: education
+  layout: education.html
 
 - name: Experience
   id: experience
-  layout: experience
+  layout: experience.html
 
-- name: Skills
-  id: skills
-  layout: skills
+- name: Capabilities
+  id: capabilities
+  layout: skills.html

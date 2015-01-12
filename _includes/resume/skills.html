@@ -1,0 +1,19 @@
+{% for skills in site.data.skills %}
+
+        <div class="resume-block skills small-12 medium-4 columns">
+                    
+            <div class="org">
+                <h3>{{ skills.category }}</h3>
+            </div>
+                
+            {% if skills.bullets %}
+                <ul class="body-copy">
+                    {% for bullet in skills.bullets %}
+                        <li>{{ bullet }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        
+        </div>
+
+{% endfor %}
