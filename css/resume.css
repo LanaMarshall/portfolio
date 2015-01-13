@@ -1,15 +1,26 @@
-/* -- Name, Left Column -- */
+/* -- Name, logo, info Left Column -- */
 .resume h1 {
 	font-family: 'nimbus-sans', sans-serif;
-	color: #6FD1AD;
+	font-weight: 300;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #777777;
+	padding-top: 20px;
 }
 
 .resume-contact a, .resume-contact li, .resume-contact p {
 	font-family: 'klinic_slablight', serif;
+	color: #777777;
 }
 
 .print-resume-link {
-	margin-top: 20px;
+	padding-top: 20px;
+}
+
+.resume-logomark{
+	max-width: 120px;
+	margin-bottom: 20px;
 }
 
 
