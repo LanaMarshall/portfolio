@@ -1,13 +1,13 @@
 {% for skills in site.data.skills %}
 
-        <div class="resume-block skills small-12 medium-4 columns">
+        <div class="skills-column resume-block small-12 medium-4 columns">
                     
             <div class="org">
                 <h3>{{ skills.category }}</h3>
             </div>
                 
             {% if skills.bullets %}
-                <ul class="body-copy">
+                <ul class="skills-list">
                     {% for bullet in skills.bullets %}
                         <li>{{ bullet }}</li>
                     {% endfor %}
