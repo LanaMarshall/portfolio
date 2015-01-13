@@ -2,8 +2,9 @@
 	color: #6FD1AD;
 }
 
+/* -- Section Titles -- */
 .resume h2 {
-	font-family: "Josefin Slab", serif;
+	font-family: 'klinic_slablight', serif;
 	font-size: 1.3em;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -11,16 +12,18 @@
 	color: #F09648;
 }
 
+/* -- Company Name -- */
 .resume h3 {
-	font-family: "Josefin Slab", serif;
+	font-family: 'klinic_slabbold', serif;
 	font-size: 1em;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #777777;
 }
 
+/* -- Company Role -- */
 .resume h4 {
-	font-family: "Josefin Slab", serif;
+	font-family: 'klinic_slabbold_italic', serif;
 	font-size: 1em;
 	font-weight: 700;
 	font-style: italic;
@@ -29,7 +32,7 @@
 }
 
 .when {
-	font-family: "Josefin Slab", serif;
+	font-family: 'klinic_slablight_italic', serif;
 	font-size: 1em;
 	font-weight: 400;
 	font-style: italic;

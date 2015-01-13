@@ -43,11 +43,11 @@ body h1 {
 
 
 
-.body-copy a {
+body a {
 	color: #F09648;
 }
 
-.body-copy a:hover {
+body a:hover {
 	color: #FF802B;
 }
 
@@ -176,6 +176,7 @@ footer {
 footer.row {
     margin-right: 0;
     margin-left: 0;
+    max-width: 100%;
 }
 
 .site-footer {
