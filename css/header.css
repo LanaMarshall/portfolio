@@ -43,17 +43,18 @@ header h1#logo {
 	color:#5BDEAE;
 }
 
-header nav {
+header ul {
     display: inline-block;
     float: right;
     height: 100px;
-}
+} 
 
-header nav a {
+header ul li a {
     line-height: 110px;
     margin-left: 20px;
     padding: 5px 2px;
     font-family: "nimbus-sans", sans-serif;
+    font-size: .9em;
 	font-weight: 300;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -70,6 +71,20 @@ header nav a {
 	color:#5BDEAE;
 	border-bottom: 1px solid #5BDEAE;
 }
+
+.main-nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+}
+
+.main-nav ul li { 
+    display: inline;
+}
+
+
 
 
 /* --- Selected Nav Link --- */
@@ -89,7 +104,7 @@ header.smaller h1#logo {
     line-height: 50px;
     font-size: 1.2em;
 }
-header.smaller nav a {
+header.smaller ul a {
     line-height: 50px;
 }
 
@@ -140,11 +155,11 @@ header.smaller nav a {
         color: #8a8a8a;
     }
 
-    header.smaller nav {
+    header.smaller ul {
         height: 1.8em;
     }
 
-    header.smaller nav a {
+    header.smaller ul a {
         line-height: 2.8em;
     }
 }
