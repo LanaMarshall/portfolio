@@ -52,7 +52,7 @@ header ul {
 header ul li a {
     line-height: 110px;
     margin-left: 20px;
-    padding: 5px 2px;
+    padding: 5px 2px 3px 2px;
     font-family: "nimbus-sans", sans-serif;
     font-size: .9em;
 	font-weight: 300;
