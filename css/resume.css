@@ -6,7 +6,6 @@
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: #777777;
-	padding-top: 20px;
 }
 
 .resume-contact a, .resume-contact li, .resume-contact p {
@@ -14,8 +13,15 @@
 	color: #777777;
 }
 
-.print-resume-link {
-	padding-top: 20px;
+.resume-print-link {
+	margin-top: 40px;
+}
+
+.resume-print-link a {
+	font-family: 'nimbus-sans', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #F09648;
 }
 
 .resume-logomark{
@@ -77,6 +83,6 @@
 	margin-bottom: 20px;
 }
 
-.resume-section .columns {
+.skills .columns {
 	padding-left: 0;
 }

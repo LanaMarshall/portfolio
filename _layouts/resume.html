@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="resume row">
+<div class="resume">
 
 	
 	<!-- Logo and Contact Info, left side on desktop -->
@@ -28,9 +28,9 @@ layout: default
 
 	<!-- Education, Experience and Skills sections -->
 	<!-- add new sections using sections.yml -->
-	<div class="resume small-12 medium-8 columns">
+	<div class="resume-right small-12 medium-6 columns end">
 		{% for section in site.data.sections %}    
-			<div class="resume-section">
+			<div class="resume-section row">
 			    <div><h2>{{ section.name }}</h2></div>
 			    {% include resume/{{ section.layout }} %}
 			</div>
