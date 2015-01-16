@@ -44,6 +44,8 @@ header h1#logo {
 	color:#5BDEAE;
 }
 
+
+/* --- header nav --- */ 
 header ul {
     display: inline-block;
     float: right;
