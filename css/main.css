@@ -82,7 +82,6 @@ body a:hover {
 }
 
 .project-description {
-	font-family: "Lato", sans-serif;
 	font-size: 1em;
 	color: #777777;
 }
@@ -185,12 +184,31 @@ footer.row {
 }
 
 .copyright p{
-	font-family: "Lato", sans-serif;
 	font-size: 12px;
 	letter-spacing: 2px;
 	color: #F2F2F2;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+footer .nav a {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #777777;
+    text-transform: uppercase;
+    margin: 0 7px;
+    padding-bottom: 3px;
+}
+
+footer .nav a:hover {
+    color: #F2F2F2;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+footer .nav ul {
+    margin-bottom: 12px;
+    padding-top: 10px;
 }
 
 html, body {
