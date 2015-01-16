@@ -74,6 +74,11 @@ body a:hover {
     padding-right: .5em;
 }
 
+.gallery-contain ul {
+    margin: 0;
+    padding: 0;
+}
+
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
 .project-img-full {
