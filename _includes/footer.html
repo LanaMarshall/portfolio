@@ -2,5 +2,5 @@
     <div class="row nav">
     	{% include nav.html %}
     </div>
-    <p>© 2015 {{ site.title }}</p>
+    <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
 </div>
