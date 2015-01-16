@@ -46,29 +46,24 @@
   <div class="contain center">
     
     <div class="logo">
-      <h1 id="logo"><a href="/">Lana Marshall</a></h1>
+    	<h1 id="logo"><a href="/">Lana Marshall</a></h1>
     </div>
     
-    <div id="main-nav" class="main-nav">
-
+    <div id="main-nav" class="nav"><ul>
     
-    <ul>
-        
-            <li>
-                <a href="/"> portfolio</a>
-            </li>
-        
-            <li>
-                <a href="/about/"> about</a>
-            </li>
-        
-            <li>
-                <a href="/contact/"> contact</a>
-            </li>
-        
-    </ul>
-
-</div>
+        <li>
+            <a href="/"> portfolio</a>
+        </li>
+    
+        <li>
+            <a href="/about/"> about</a>
+        </li>
+    
+        <li>
+            <a href="/contact/"> contact</a>
+        </li>
+    
+</ul>
 
 <!-- <a href="/">Portfolio</a>
         
@@ -87,7 +82,7 @@
           
           <a href="/resume/">Resume</a>
           
-         -->
+         --></div>
         
   </div>
 
@@ -102,8 +97,8 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Jan 2015 20:51:03 -0600</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 20:51:03 -0600</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 21:33:37 -0600</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 21:33:37 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
