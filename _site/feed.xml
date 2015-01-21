@@ -63,26 +63,7 @@
             <a href="/contact/"> contact</a>
         </li>
     
-</ul>
-
-<!-- <a href="/">Portfolio</a>
-        
-          
-          <a href="/about/">About</a>
-          
-        
-          
-          <a href="/contact/">Contact</a>
-          
-        
-          
-        
-          
-        
-          
-          <a href="/resume/">Resume</a>
-          
-         --></div>
+</ul></div>
         
   </div>
 
@@ -97,32 +78,17 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Jan 2015 23:14:26 -0600</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 23:14:26 -0600</lastBuildDate>
+    <pubDate>Wed, 21 Jan 2015 13:59:20 -0600</pubDate>
+    <lastBuildDate>Wed, 21 Jan 2015 13:59:20 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Whole Foods</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Mon, 18 Aug 2014 00:00:00 -0500</pubDate>
         <link>/whole-foods/</link>
         <guid isPermaLink="true">/whole-foods/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Social Distillery</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/social-distillery/</link>
-        <guid isPermaLink="true">/social-distillery/</guid>
         
         
       </item>
@@ -131,44 +97,43 @@
         <title>MakerSquare</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Thu, 14 Aug 2014 00:00:00 -0500</pubDate>
         <link>/makersquare/</link>
         <guid isPermaLink="true">/makersquare/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
       </item>
     
       <item>
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Tue, 12 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca-womens-health/</link>
         <guid isPermaLink="true">/ctca-womens-health/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
       </item>
     
       <item>
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Tue, 12 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca/</link>
         <guid isPermaLink="true">/ctca/</guid>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Social Distillery</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Aug 2014 00:00:00 -0500</pubDate>
+        <link>/social-distillery/</link>
+        <guid isPermaLink="true">/social-distillery/</guid>
         
-        <category>update</category>
         
       </item>
     
@@ -179,7 +144,7 @@
     &lt;iframe src=&quot;//player.vimeo.com/video/105262120?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;366&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 10 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/beatles-animation/</link>
         <guid isPermaLink="true">/beatles-animation/</guid>
         
@@ -193,7 +158,7 @@
     &lt;iframe src=&quot;//player.vimeo.com/video/105262119?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;365&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/toyfair-animation/</link>
         <guid isPermaLink="true">/toyfair-animation/</guid>
         
@@ -204,7 +169,7 @@
         <title>Social Distillery Koozies</title>
         <description>
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/social-distillery-koozies/</link>
         <guid isPermaLink="true">/social-distillery-koozies/</guid>
         
@@ -215,7 +180,7 @@
         <title>Social Distillery</title>
         <description>
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/social-distillery-branding/</link>
         <guid isPermaLink="true">/social-distillery-branding/</guid>
         
@@ -226,7 +191,7 @@
         <title>Pauly + Presley Logo Concept</title>
         <description>
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/pauly-presley/</link>
         <guid isPermaLink="true">/pauly-presley/</guid>
         
@@ -255,25 +220,6 @@
         </li>
     
 </ul>
-
-<!-- <a href="/">Portfolio</a>
-        
-          
-          <a href="/about/">About</a>
-          
-        
-          
-          <a href="/contact/">Contact</a>
-          
-        
-          
-        
-          
-        
-          
-          <a href="/resume/">Resume</a>
-          
-         -->
     </div>
     <p>© 2015 Lana Marshall | Design | Art Direction</p>
 </div>

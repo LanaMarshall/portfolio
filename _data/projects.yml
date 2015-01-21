@@ -1,6 +1,7 @@
 ---
 
 - title: Whole Foods
+  order: 1
   id: wfm
   permalink: whole-foods/
   category: 
@@ -16,6 +17,7 @@
 
 
 - title: Social Distillery
+  order: 2
   id: sd-branding
   permalink: social-distillery-branding/
   category: 
@@ -32,6 +34,7 @@
 
 
 - title: Social Distillery
+  order: 3
   id: sd
   permalink: social-distillery/
   category: 
@@ -46,6 +49,7 @@
 
 
 - title: MakerSquare Initiative Logos
+  order: 4
   id: mks-logos
   permalink: mks-logos/
   category: 
@@ -60,6 +64,7 @@
 
 
 - title: Social Distillery
+  order: 5
   id: sd-koozies
   permalink: social-distillery-koozies/
   category: 
@@ -73,6 +78,7 @@
 
 
 - title: MakerSquare
+  order: 6
   id: mks
   permalink: makersquare/
   category: 
@@ -87,6 +93,7 @@
 
 
 - title: Pauly + Presley Logo Concept
+  order: 7
   id: pp-logo
   permalink: pauly-presley/
   category: 
@@ -102,6 +109,7 @@
 
 
 - title: Cancer Treatment Centers of America
+  order: 8
   id: ctca-women
   permalink: ctca-womens-health/
   category: 
@@ -115,6 +123,7 @@
 
 
 - title: Other World Computing
+  order: 9
   id: owc-love
   permalink: owc-valentines/
   category: 
@@ -130,6 +139,7 @@
 
 
 - title: Cancer Treatment Centers of America
+  order: 10
   id: ctca
   permalink: ctca/
   category: 
@@ -142,6 +152,7 @@
 
 
 - title: '"Happiness is a Warm Gun" Animation'
+  order: 11
   id: beatles
   permalink: beatles-animation/
   category: 
@@ -151,6 +162,7 @@
 
 
 - title: New York Toy Fair Animation
+  order: 12
   id: toyfair
   permalink: toyfair-animation/
   class: end

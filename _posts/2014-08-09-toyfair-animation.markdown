@@ -3,7 +3,7 @@ layout: portfolio-entry
 title:  "Toyfair Animation"
 projectid: toyfair
 permalink: toyfair-animation/
-date:   2014-08-09 09:30:47
+order: {{ project.order }}
 ---
 
 <div class="videoWrapper">

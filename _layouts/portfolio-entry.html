@@ -35,24 +35,14 @@ layout: default
 <div class="portfolio-nav small-12 columns"> 
   <div class="clearfix">&nbsp;</div> 
   
-  <!-- Previous Project Link -->
-  <div class="prev-next-link left"> 
-    {% if page.next.url %} 
-      <a href="{{ site.url }}{{page.next.url}}" title="Previous">previous</a> 
-    {% endif %} 
-  </div> 
-
-  <!-- Next Project Link -->
-  <div class="prev-next-link right"> 
-    {% if page.previous.url %} 
-      <a href="{{ site.url }}{{page.previous.url}}" title="Next">next</a> 
-    {% endif %} 
-  </div> 
+  {% include project_nav.html %}
   
   <div class="clearfix">&nbsp;</div>
 
-  <div class="on-page-gallery">{% include gallery.html %}</div>
+  <div class="on-page-gallery">
+    {% include gallery.html %}
+  </div>
   
   <div class="clear">&nbsp;</div> 
-</div>
+</div> 
 
