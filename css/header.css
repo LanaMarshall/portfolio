@@ -55,9 +55,9 @@ header ul {
 header ul li a {
     line-height: 110px;
     margin-left: 20px;
-    padding: 5px 2px 3px 2px;
+    padding: 10px 2px 3px 2px;
     font-family: "nimbus-sans", sans-serif;
-    font-size: .9em;
+    font-size: .85em;
 	font-weight: 300;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -139,7 +139,7 @@ header.smaller ul a {
     .nav a {
         line-height: 2em;
         margin: 0 .5em;
-        font-size: .9em;
+        font-size: .85em;
     }
 
     /* Styling on scroll down, mobile */
@@ -164,5 +164,9 @@ header.smaller ul a {
 
     header.smaller ul a {
         line-height: 2.8em;
+    }
+
+    header ul{
+        float: none;
     }
 }
