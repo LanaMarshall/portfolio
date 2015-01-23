@@ -44,6 +44,17 @@ header h1#logo {
 	color:#5BDEAE;
 }
 
+header img {
+    float: left;
+    margin-right: 12px;
+    max-width: 60px;
+    margin-top: 17px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
 
 /* --- header nav --- */ 
 header ul {
@@ -111,6 +122,10 @@ header.smaller ul a {
     line-height: 50px;
 }
 
+header.smaller img {
+    max-width: 30px;
+    margin-top: 8px;
+}
 
 /* --- Mobile Styling --- */
 
@@ -129,6 +144,9 @@ header.smaller ul a {
     }
     header #logo a {
         color: #6FD1AD;
+    }
+    header img {
+    display: none;
     }
     .nav {
         display: block;
