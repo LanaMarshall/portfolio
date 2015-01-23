@@ -8,7 +8,7 @@ layout: default
     <div class="portfolio-entry row">
 
       <!-- Project Title and Description -->
-      <div class="project-text small-12 medium-4 columns">
+      <div class="project-text small-12 medium-4 medium-push-8 columns">
         <h1 class="main-headline">{{ project.title }}</h1>
         <div class="project-description">
           <p>{{ project.description }}</p>
@@ -16,7 +16,7 @@ layout: default
       </div>      
       
       <!-- Project Images -->
-      <div class="small-12 medium-8 columns">
+      <div class="small-12 medium-8 medium-pull-4 columns">
         {% for image in project.images %}
           <div class="project-img-full">
               <img src="/{{ project.imagefolder }}/{{ image.name }}">

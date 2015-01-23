@@ -55,11 +55,11 @@
   category: 
   publish: yes
   description: "As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
-  thumb: img/thumbnails/mks-logos-thumb.png
+  thumb: img/thumbnails/mks-university-thumb.png
   imagefolder: img/mks-logos
   images:
-    - name: mks-university.png
-    - name: coding-corner.png
+    - name: mks-university2.png
+    - name: mks-coding-corner2.png
     - name: mks-heroes.png
 
 
