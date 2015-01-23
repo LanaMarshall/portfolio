@@ -94,6 +94,7 @@ body a:hover {
 .portfolio-nav {
 	border-top: 1px solid #999999;
 	margin: 60px 0px;
+    padding-top: 30px;
 }
 
 .prev-next-link a {
