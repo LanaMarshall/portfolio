@@ -169,7 +169,3 @@
   publish: yes
   description: An After Effects animation created using original vector graphics. This project was created during my time at Pratt Institute.
   thumb: img/thumbnails/toyfair-thumb.jpg
-  imagefolder: img/toy-fair
-  images:
-    - name: toyfair-brochure-inside.jpg
-    - name: toyfair-brochure-front.jpg
