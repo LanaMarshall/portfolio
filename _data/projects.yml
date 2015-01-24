@@ -33,19 +33,20 @@
     - name: before-after.png
 
 
-- title: Social Distillery
-  order: 3
-  id: sd
-  permalink: social-distillery/
+- title: Pauly + Presley Logo Concept
+  order: 7
+  id: pp-logo
+  permalink: pauly-presley/
   category: 
   publish: yes
-  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
-  thumb: img/thumbnails/sd-wine-thumb.jpg
-  imagefolder: img/sd
-  images: 
-    - name: sd-wine-bottles.jpg
-    - name: sd-card-02.jpg
-    - name: sd-card-01.jpg
+  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
+  thumb: img/thumbnails/pp-card-single.jpg
+  imagefolder: img/pauly-presley
+  images:
+    - name: pp-window-sign.jpg
+    - name: pp-business-cards.jpg
+    - name: pp-logo-01.png
+    - name: pp-logo-02.png
 
 
 - title: MakerSquare Initiative Logos
@@ -91,21 +92,6 @@
     - name: mks-02.png
 
 
-- title: Pauly + Presley Logo Concept
-  order: 7
-  id: pp-logo
-  permalink: pauly-presley/
-  category: 
-  publish: yes
-  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
-  thumb: img/thumbnails/pp-card-single.jpg
-  imagefolder: img/pauly-presley
-  images:
-    - name: pp-window-sign.jpg
-    - name: pp-business-cards.jpg
-    - name: pp-logo-01.png
-    - name: pp-logo-02.png
-
 
 - title: Cancer Treatment Centers of America
   order: 8
@@ -150,6 +136,21 @@
     - name: ctca-menshealth.png
 
 
+- title: Social Distillery
+  order: 3
+  id: sd
+  permalink: social-distillery/
+  category: 
+  publish: yes
+  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
+  thumb: img/thumbnails/sd-wine-thumb.jpg
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: sd-card-02.jpg
+    - name: sd-card-01.jpg
+
+
 - title: '"Happiness is a Warm Gun" Animation'
   order: 11
   id: beatles
@@ -160,12 +161,12 @@
   thumb: img/thumbnails/beatles-thumb.jpg
 
 
-- title: New York Toy Fair Animation
+- title: 'New York Toy Fair Animation & Brochure'
   order: 12
   id: toyfair
   permalink: toyfair-animation/
   class: end
   category: 
   publish: yes
-  description: An After Effects animation created using original vector graphics. This project was created during my time at Pratt Institute.
+  description: An illustrated brochure and corresponding After Effects animation for the New York Toy Fair. This project was created during my time at Pratt Institute.
   thumb: img/thumbnails/toyfair-thumb.jpg
