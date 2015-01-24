@@ -117,10 +117,11 @@
   thumb: img/thumbnails/owc-love-thumb.png
   imagefolder: img/owc
   images:
-    - name: owc-love-imac.jpg
+    - name: owc-macbook1.jpg
+    - name: owc-post1.png
+    - name: owc-post2.png
+    - name: owc-post3.png
     - name: owc-love-cover.png
-    - name: owc-love-01.png
-    - name: owc-love-02.png
 
 
 - title: Cancer Treatment Centers of America
