@@ -148,13 +148,17 @@ body a:hover {
 
 .contact-icon {
     margin: 0 auto;
-    padding: 20px 0;
+    padding: 25px 0 15px 0;
     /*padding: 15px;*/
     max-width: 140px;
 }
 
 .contact-icon:hover {
     opacity: .8;
+}
+
+.contact-icons-container {
+    margin-top:50px;
 }
 
 .contact {
@@ -170,6 +174,11 @@ body a:hover {
 .contact a:hover {
     color: #FF802B;
 }
+
+p.contact {
+    margin:0;
+}
+
 
 /* -------------------- FOOTER -------------------- */ 
 
