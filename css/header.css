@@ -11,7 +11,7 @@ header {
     z-index: 999;
     background-color: rgba(255, 255, 255, 0.95);
     border-bottom: 1px solid #c2c2c2;
-    padding: 0px 20px;
+    padding: 0px 15px;
     -webkit-transition: height 0.3s;
     -moz-transition: height 0.3s;
     -ms-transition: height 0.3s;
@@ -22,11 +22,11 @@ header {
 header h1#logo {
     display: inline-block;
     height: 100px;
-    line-height: 100px;
+    line-height: 90px;
     margin: 0;
     float: left;
     font-family: "klinic_slablight", serif;
-    font-size: 2em;
+    font-size: 30px;
     text-transform: uppercase;
     color: #8a8a8a;
     -webkit-transition: all 0.3s;
@@ -41,14 +41,12 @@ header h1#logo {
 }
 
 #logo a:hover {
-	color:#5BDEAE;
+	color:#6FD1AD;
 }
 
 header img {
-    float: left;
     margin-right: 12px;
     max-width: 60px;
-    margin-top: 17px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -61,14 +59,13 @@ header ul {
     display: inline-block;
     float: right;
     height: 100px;
+    line-height: 100px;
 } 
 
-header ul li a {
-    line-height: 110px;
-    margin-left: 20px;
-    padding: 10px 2px 3px 2px;
+header li a {
+    padding-bottom: 4px;
     font-family: "nimbus-sans", sans-serif;
-    font-size: .85em;
+    font-size: 13px;
 	font-weight: 300;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -82,13 +79,12 @@ header ul li a {
 }
 
 .nav a:hover {
-	color:#5BDEAE;
-	border-bottom: 1px solid #5BDEAE;
+	color:#6FD1AD;
+	border-bottom: 1px solid #6FD1AD;
 }
 
 .nav ul {
     margin: 0;
-    padding: 0;
     list-style-type: none;
     list-style: none;
     text-align: center;
@@ -96,6 +92,7 @@ header ul li a {
 
 .nav ul li { 
     display: inline;
+    padding: 0 5px;
 }
 
 
@@ -104,7 +101,7 @@ header ul li a {
 /* --- Selected Nav Link --- */
 .selected { 
     color: #6FD1AD;
-    border-bottom: 1px solid #5BDEAE;
+    border-bottom: 1px solid #6FD1AD;
     }
 
 
@@ -115,8 +112,12 @@ header.smaller {
 }
 header.smaller h1#logo {
     height: 50px;
+    line-height: 45px;
+    font-size: 20px;
+}
+header.smaller ul {
+    height: 50px;
     line-height: 50px;
-    font-size: 1.2em;
 }
 header.smaller ul a {
     line-height: 50px;
@@ -124,67 +125,68 @@ header.smaller ul a {
 
 header.smaller img {
     max-width: 30px;
-    margin-top: 8px;
 }
 
 /* --- Mobile Styling --- */
 
 @media all and (max-width: 660px) {
     header {
-    	height: 7.3em;
+    	height: 120px;
     }
     header h1#logo {
         display: block;
         float: none;
-        height: 2.2em;
-        line-height: 2.2em;
+        height: 50px;
+        line-height: 50px;
         text-align: center;
-        font-size: 1.7em;
-        margin-top: .3em;
-    }
-    header #logo a {
-        color: #6FD1AD;
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 10px;
     }
     header img {
-    display: none;
+        max-height: 100%;
     }
     .nav {
         display: block;
         float: none;
         text-align: center;
-        height: 2em;
     }
     .nav a {
-        line-height: 2em;
-        margin: 0 .5em;
-        font-size: .85em;
+        font-size: 13px;
+    }
+
+    header ul {
+        float: none;
+        height: 45px;
+        line-height: 30px;
     }
 
     /* Styling on scroll down, mobile */
     header.smaller {
-        height: 2.8em;
+        height: 50px;
     }
 
-    header.smaller h1#logo {
-        height: 1.8em;
-        line-height: 1.8em;
-        font-size: 1em;
+    header.smaller span {
         display: none;
     }
 
-    header.smaller #logo a {
-        color: #8a8a8a;
+    header.smaller h1#logo {
+        float: left;
+        margin: 8px 0;
     }
 
     header.smaller ul {
-        height: 1.8em;
+        height: 50px;
+        line-height: 50px;
+        display: inline-block;
+        float: right;
     }
 
-    header.smaller ul a {
-        line-height: 2.8em;
+    header.smaller img {
+        float: left;
     }
 
-    header ul{
-        float: none;
+    header.smaller .nav {
     }
 }
+
