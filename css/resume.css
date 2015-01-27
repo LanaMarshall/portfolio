@@ -67,6 +67,10 @@
 	color: #777777;
 }
 
+.when:before {
+	content:' — ';
+}
+
 .resume ul {
 	list-style: none;
 	list-style-type: none;
@@ -88,7 +92,7 @@
 	padding-left: 0;
 }
 
-/* --- Skills Mobile Styling --- */
+/* --- Mobile Styling --- */
 @media all and (max-width: 40em) {
     .skills-list li {
     	display: inline;
@@ -97,6 +101,12 @@
     	content: ', ';
     }
     .skills-list li:last-child:after {
+    	content: none;
+    }
+    .when {
+    	display: block;
+    }
+    .when:before {
     	content: none;
     }
 

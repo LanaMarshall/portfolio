@@ -83,6 +83,7 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <pubDate>Tue, 27 Jan 2015 15:22:54 -0600</pubDate>
     <lastBuildDate>Tue, 27 Jan 2015 15:22:54 -0600</lastBuildDate>
@@ -90,6 +91,10 @@
     <pubDate>Fri, 23 Jan 2015 14:55:02 -0600</pubDate>
     <lastBuildDate>Fri, 23 Jan 2015 14:55:02 -0600</lastBuildDate>
 >>>>>>> Stashed changes
+=======
+    <pubDate>Tue, 27 Jan 2015 15:20:40 -0600</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2015 15:20:40 -0600</lastBuildDate>
+>>>>>>> staging
     <generator>Jekyll v2.5.3</generator>
     
       <item>
