@@ -1,0 +1,93 @@
+/* -- Name, logo, info Left Column -- */
+.resume h1 {
+	font-family: 'nimbus-sans', sans-serif;
+	font-weight: 300;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #777777;
+}
+
+.resume-contact a, .resume-contact li, .resume-contact p {
+	font-family: 'klinic_slablight', serif;
+	color: #777777;
+}
+
+.resume-print-link {
+	margin-top: 40px;
+}
+
+.resume-print-link a {
+	font-family: 'nimbus-sans', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #F09648;
+}
+
+.resume-logomark{
+	max-width: 120px;
+	margin-bottom: 20px;
+}
+
+
+/* -- Section Titles -- */
+.resume h2 {
+	font-family: 'klinic_slablight', serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #F09648;
+}
+
+/* -- Company Name -- */
+.resume h3 {
+	font-family: 'klinic_slabbold', serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #777777;
+	margin: 0;
+}
+
+/* -- Company Role -- */
+.resume h4 {
+	font-family: 'klinic_slabbold_italic', serif;
+	font-size: 1em;
+	color: #777777;
+	margin: 0;
+}
+
+.resume li {
+	padding-top: 0;
+}
+
+.when {
+	font-family: 'klinic_slablight_italic', serif;
+	font-size: 1em;
+	text-transform: none;
+	color: #777777;
+}
+
+.resume ul {
+	list-style: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+.resume-section {
+	margin-bottom: 50px;
+}
+
+.resume-block {
+	margin-bottom: 20px;
+}
+
+.skills .columns {
+	padding-left: 0;
+}
+
+
+.skills-list li {
+
+}
