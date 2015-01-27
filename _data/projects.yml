@@ -1,6 +1,7 @@
 ---
 
 - title: Whole Foods
+  order: 1
   id: wfm
   permalink: whole-foods/
   category: 
@@ -16,12 +17,13 @@
 
 
 - title: Social Distillery
+  order: 2
   id: sd-branding
   permalink: social-distillery-branding/
   category: 
   publish: yes
   description: "When Social Distillery's CEO came to me looking for a brand update, she wanted to keep the skyline motif of the logo she'd founded the company with, but give it a clean, modern facelift. I cleaned up the lines of the logo, simplified the details and color scheme and added new logotype. The logo update was just part of Social Distillery's brand refresh, which included comprehensive brand guidlines and new brand collateral."
-  thumb: img/sd-branding/sd-logo.png
+  thumb: img/thumbnails/sd-notebook-thumb.jpg
   imagefolder: img/sd-branding
   images: 
     - name: sd-logo.png
@@ -31,35 +33,38 @@
     - name: before-after.png
 
 
-- title: Social Distillery
-  id: sd
-  permalink: social-distillery/
+- title: Pauly + Presley Logo Concept
+  order: 7
+  id: pp-logo
+  permalink: pauly-presley/
   category: 
   publish: yes
-  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
-  thumb: img/thumbnails/sd-wine-thumb.jpg
-  imagefolder: img/sd
-  images: 
-    - name: sd-wine-bottles.jpg
-    - name: sd-card-02.jpg
-    - name: sd-card-01.jpg
+  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
+  thumb: img/thumbnails/pp-card-single.jpg
+  imagefolder: img/pauly-presley
+  images:
+    - name: pp-window-sign.jpg
+    - name: pp-business-cards.jpg
+    - name: pp-logo-01.png
+    - name: pp-logo-02.png
 
 
 - title: MakerSquare Initiative Logos
+  order: 4
   id: mks-logos
   permalink: mks-logos/
   category: 
   publish: yes
   description: "As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
-  thumb: img/thumbnails/mks-logos-thumb.png
+  thumb: img/thumbnails/mks-university-thumb.png
   imagefolder: img/mks-logos
   images:
-    - name: mks-university.png
-    - name: coding-corner.png
-    - name: mks-heroes.png
+    - name: mks-university2.png
+    - name: mks-coding-corner2.png
 
 
 - title: Social Distillery
+  order: 5
   id: sd-koozies
   permalink: social-distillery-koozies/
   category: 
@@ -73,6 +78,7 @@
 
 
 - title: MakerSquare
+  order: 6
   id: mks
   permalink: makersquare/
   category: 
@@ -86,22 +92,9 @@
     - name: mks-02.png
 
 
-- title: Pauly + Presley Logo Concept
-  id: pp-logo
-  permalink: pauly-presley/
-  category: 
-  publish: yes
-  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
-  thumb: img/pauly-presley/pp-logo-01.png
-  imagefolder: img/pauly-presley
-  images:
-    - name: pp-window-sign.jpg
-    - name: pp-business-cards.jpg
-    - name: pp-logo-01.png
-    - name: pp-logo-02.png
-
 
 - title: Cancer Treatment Centers of America
+  order: 8
   id: ctca-women
   permalink: ctca-womens-health/
   category: 
@@ -115,6 +108,7 @@
 
 
 - title: Other World Computing
+  order: 9
   id: owc-love
   permalink: owc-valentines/
   category: 
@@ -123,13 +117,15 @@
   thumb: img/thumbnails/owc-love-thumb.png
   imagefolder: img/owc
   images:
-    - name: owc-love-imac.jpg
+    - name: owc-macbook1.jpg
+    - name: owc-post1.png
+    - name: owc-post2.png
+    - name: owc-post3.png
     - name: owc-love-cover.png
-    - name: owc-love-01.png
-    - name: owc-love-02.png
 
 
 - title: Cancer Treatment Centers of America
+  order: 10
   id: ctca
   permalink: ctca/
   category: 
@@ -141,7 +137,23 @@
     - name: ctca-menshealth.png
 
 
+- title: Social Distillery
+  order: 3
+  id: sd
+  permalink: social-distillery/
+  category: 
+  publish: yes
+  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
+  thumb: img/thumbnails/sd-wine-thumb.jpg
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: sd-card-02.jpg
+    - name: sd-card-01.jpg
+
+
 - title: '"Happiness is a Warm Gun" Animation'
+  order: 11
   id: beatles
   permalink: beatles-animation/
   category: 
@@ -150,11 +162,12 @@
   thumb: img/thumbnails/beatles-thumb.jpg
 
 
-- title: New York Toy Fair Animation
+- title: 'New York Toy Fair Animation & Brochure'
+  order: 12
   id: toyfair
   permalink: toyfair-animation/
   class: end
   category: 
   publish: yes
-  description: An After Effects animation created using original vector graphics. This project was created during my time at Pratt Institute.
+  description: An illustrated brochure and corresponding After Effects animation for the New York Toy Fair. This project was created during my time at Pratt Institute.
   thumb: img/thumbnails/toyfair-thumb.jpg

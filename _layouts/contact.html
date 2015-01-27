@@ -15,39 +15,22 @@ layout: default
 </div>
 	
 <div class="contact-icons-container row">
-	<div class="contact-icons-container small-12 small-centered medium-6 medium-centered large-6 large-centered columns">
-		<div class="small-4 columns center">
-			<div class="contact-icon center">
-				<a href="{{ page.link1 }}" target="_blank">
-					<img src="/{{ page.icon1 }}">
-				</a>
-			</div>
-			<p class="contact text-center">
-				<a href="{{ page.link1 }}">{{ page.name1 }}</a>
-			</p>
-		</div>
+	<div class="small-10 small-centered columns">
+		<div class="small-12 small-centered medium-12 medium-centered large-12 large-centered columns">
+			
+			{% for contact in site.data.contact_page %}	
+				<div class="small-6 medium-3 columns center">
+					<div class="contact-icon center">
+						<a href="{{ contact.link }}" target="{{ contact.target }}">
+							<img src="/{{ contact.icon }}">
+						</a>
+					</div>
+					<p class="contact text-center">
+						<a href="{{ contact.link }}">{{ contact.title }}</a>
+					</p>
+				</div>
+			{% endfor %}
 
-		<div class="small-4 columns center">
-			<div class="contact-icon center">
-				<a href="{{ page.link2 }}">
-					<img src="/{{ page.icon2 }}">
-				</a>
-			</div>
-			<p class="contact text-center">
-				<a href="{{ page.link2 }}" target="_blank">{{ page.name2 }}</a>
-			</p>
 		</div>
-
-		<div class="small-4 columns center">
-			<div class="contact-icon center">	
-				<a href="{{ page.link3 }}" target="_blank">
-					<img src="/{{ page.icon3 }}">
-				</a>
-			</div>
-			<p class="contact text-center">
-				<a href="{{ page.link3 }}" target="_blank">{{ page.name3 }}</a>
-			</p>
-		</div>
-
 	</div>
 </div>

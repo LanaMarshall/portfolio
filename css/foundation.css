@@ -4728,7 +4728,7 @@ label.error {
     display: block;
     height: auto;
     float: left;
-    padding: 0 0.625rem 1.25rem; }
+    padding: 0 0.4rem .8rem; }
 
 @media only screen {
   .small-block-grid-1 > li {

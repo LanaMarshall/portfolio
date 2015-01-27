@@ -3,5 +3,5 @@ layout: portfolio-entry
 title:  "MakerSquare Initiative Logos"
 projectid: mks-logos
 permalink: mks-logos/
-date:   2014-08-09 09:30:47
+order: {{ project.order }}
 ---

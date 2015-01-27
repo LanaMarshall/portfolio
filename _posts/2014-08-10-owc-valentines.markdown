@@ -3,7 +3,7 @@ layout: portfolio-entry
 title:  "Other World Computing"
 projectid: owc-love
 permalink: owc-valentines/
-date:   2014-08-09 09:30:47
+order: {{ project.order }}
 ---
 
 <!-- Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.

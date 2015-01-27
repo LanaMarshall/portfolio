@@ -1,26 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Lana Marshall | Design | Art Direction</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Graphic Designer in Austin, TX">
+    <link rel="canonical" href="/feed.xml">
+
+    <!-- Google Fonts -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>-->
+    
+    <!-- Typekit Js -->
+    <script src="//use.typekit.net/vqf0pzi.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- Header CSS -->
+    <link rel="stylesheet" href="/css/header.css">
+
+    <!-- Resume CSS -->
+    <link rel="stylesheet" href="/css/resume.css">
+
+    <!-- Foundation CSS -->
+    <link rel="stylesheet" href="/css/foundation.css"> 
+
+    <!-- Klinic Slab CSS -->
+    <link rel="stylesheet" href="/css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+</head>
+
+
+  <body>
+
+    <header id="header" class="clearfix">
+
+  <div class="contain center">
+    
+    <div class="logo">
+    	<h1 id="logo"><a href="/"><img src="/img/logomark.png"><span>Lana Marshall</span></a></h1>
+    </div>
+    
+    <div id="main-nav" class="nav"><ul>
+    
+        <li>
+            <a href="/"> portfolio</a>
+        </li>
+    
+        <li>
+            <a href="/about/"> about</a>
+        </li>
+    
+        <li>
+            <a href="/contact/"> contact</a>
+        </li>
+    
+</ul></div>
+        
+  </div>
+
+</header>
+
+
+    <div class="contain center headroom clearfix">
+      <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lana Marshall | Design | Art Direction</title>
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Mon, 26 Jan 2015 20:32:56 -0600</pubDate>
     <lastBuildDate>Mon, 26 Jan 2015 20:32:56 -0600</lastBuildDate>
+=======
+    <pubDate>Mon, 26 Jan 2015 20:30:07 -0600</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2015 20:30:07 -0600</lastBuildDate>
+>>>>>>> staging
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Whole Foods</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/whole-foods/</link>
         <guid isPermaLink="true">/whole-foods/</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
@@ -28,9 +102,35 @@
         <title>Social Distillery</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/social-distillery/</link>
         <guid isPermaLink="true">/social-distillery/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Other World Computing</title>
+        <description>&lt;!-- Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.
+
+I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine&#39;s theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.
+
+The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR. --&gt;
+</description>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
+        <link>/owc-valentines/</link>
+        <guid isPermaLink="true">/owc-valentines/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MakerSquare Initiative Logos</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
+        <link>/mks-logos/</link>
+        <guid isPermaLink="true">/mks-logos/</guid>
         
         
       </item>
@@ -39,55 +139,43 @@
         <title>MakerSquare</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/makersquare/</link>
         <guid isPermaLink="true">/makersquare/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
       </item>
     
       <item>
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca-womens-health/</link>
         <guid isPermaLink="true">/ctca-womens-health/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
       </item>
     
       <item>
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca/</link>
         <guid isPermaLink="true">/ctca/</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
         <title>Beatles Animation</title>
-        <description>&lt;div class=&quot;videoWrapper&quot;&gt;
+        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
     &lt;!-- Copy &amp; Pasted from YouTube --&gt;
     &lt;iframe src=&quot;//player.vimeo.com/video/105262120?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;366&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 10 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/beatles-animation/</link>
         <guid isPermaLink="true">/beatles-animation/</guid>
         
@@ -96,12 +184,20 @@
     
       <item>
         <title>Toyfair Animation</title>
-        <description>&lt;div class=&quot;videoWrapper&quot;&gt;
+        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
     &lt;!-- Copy &amp; Pasted from YouTube --&gt;
     &lt;iframe src=&quot;//player.vimeo.com/video/105262119?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;365&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;project-img-full&quot;&gt;
+    &lt;img src=&quot;/img/toy-fair/toyfair-brochure-inside.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project-img-full&quot;&gt;
+    &lt;img src=&quot;/img/toy-fair/toyfair-brochure-front.jpg&quot; /&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/toyfair-animation/</link>
         <guid isPermaLink="true">/toyfair-animation/</guid>
         
@@ -112,34 +208,77 @@
         <title>Social Distillery Koozies</title>
         <description>
 </description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
+        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
         <link>/social-distillery-koozies/</link>
         <guid isPermaLink="true">/social-distillery-koozies/</guid>
         
         
       </item>
     
-      <item>
-        <title>Social Distillery</title>
-        <description>
-</description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/social-distillery-branding/</link>
-        <guid isPermaLink="true">/social-distillery-branding/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pauly + Presley Logo Concept</title>
-        <description>
-</description>
-        <pubDate>Sat, 09 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/pauly-presley/</link>
-        <guid isPermaLink="true">/pauly-presley/</guid>
-        
-        
-      </item>
-    
   </channel>
 </rss>
+
+    </div>
+
+    <footer  class="site-footer row"><div class="copyright small-12 columns">
+    <div class="row nav">
+    	<ul>
+    
+        <li>
+            <a href="/"> portfolio</a>
+        </li>
+    
+        <li>
+            <a href="/about/"> about</a>
+        </li>
+    
+        <li>
+            <a href="/contact/"> contact</a>
+        </li>
+    
+</ul>
+    </div>
+    <p>© 2015 Lana Marshall | Design | Art Direction</p>
+</div>
+</footer>
+
+
+      <!-- jQuery -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+
+      <!-- Sticky Shrinking Header -->
+      <script src="/js/classie.js"></script>
+      <script>
+        $(document).ready(function(){
+          function init() {
+              window.addEventListener('scroll', function(e){
+                  var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+                      shrinkOn = 100,
+                      header = document.querySelector("header");
+                  if (distanceY > shrinkOn) {
+                      classie.add(header,"smaller");
+                  } else {
+                      if (classie.has(header,"smaller")) {
+                          classie.remove(header,"smaller");
+                      }
+                  }
+              });
+          }
+          window.onload = init();
+        });
+      </script>
+
+      <!-- Selected Menu Link Styling -->
+      <script type="text/javascript">
+        $(document).ready(function(){
+            $('#main-nav a').each(function(index) {
+                if(this.href.trim() == window.location)
+                    $(this).addClass("selected");
+            });
+        });
+      </script>
+
+
+  </body>
+</html>

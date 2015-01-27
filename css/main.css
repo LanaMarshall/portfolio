@@ -1,5 +1,5 @@
 body {
-	background-color: #F2F2F2;
+    background-color: #F2F2F2;
 }
 
 .contain {
@@ -25,180 +25,31 @@ body {
 /* -------------------- TEXT STYLING -------------------- */
 
 
+body p, body li {
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    color: #777777;
+}
+
+body h1 {
+    font-family: "klinic_slabmedium", serif;
+    font-size: 1.8em;
+    color: #777777;
+}
+
 .main-headline {
-	font-family: "Josefin Slab", serif;
-	font-size: 2em;
-	color: #777777;
 }
 
-.body-copy p{
-	font-family: "Lato", sans-serif;
-	font-size: 2em;
-	font-weight: 300;
-	color: #777777;
-}
 
-.body-copy a {
+
+body a {
 	color: #F09648;
 }
 
-.body-copy a:hover {
+body a:hover {
 	color: #FF802B;
 }
-
-
-/* -------------------- HEADER -------------------- */ 
-
-
-header {
-    width: 100%;
-    height: 100px;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 999;
-    background-color: rgba(255, 255, 255, 0.95);
-    border-bottom: 1px solid #c2c2c2;
-    padding: 0px 20px;
-    -webkit-transition: height 0.3s;
-    -moz-transition: height 0.3s;
-    -ms-transition: height 0.3s;
-    -o-transition: height 0.3s;
-    transition: height 0.3s;
-}
-
-header h1#logo {
-    display: inline-block;
-    height: 100px;
-    line-height: 100px;
-    float: left;
-    font-family: "Josefin Slab", serif;
-    font-size: 1.8em;
-    text-transform: uppercase;
-    color: #8a8a8a;
-    font-weight: 600;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-}
-
-#logo a {
-	color: #8a8a8a;
-}
-
-#logo a:hover {
-	color:#5BDEAE;
-}
-
-header nav {
-    display: inline-block;
-    float: right;
-    height: 100px;
-}
-
-header nav a {
-    line-height: 110px;
-    margin-left: 20px;
-    padding: 5px 2px;
-    font-family: "Lato", sans-serif;
-	font-weight: 300;
-	text-decoration: none;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	color: #8a8a8a;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-}
-
-.main-nav a:hover {
-	color:#5BDEAE;
-	border-bottom: 1px solid #5BDEAE;
-}
-
-
-/* --- Selected Nav Link --- */
-.selected { 
-    color: #6FD1AD;
-    border-bottom: 1px solid #5BDEAE;
-    }
-
-
-/* --- styling on scroll down, desktop --- */
-
-header.smaller {
-    height: 50px;
-}
-header.smaller h1#logo {
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.2em;
-}
-header.smaller nav a {
-    line-height: 50px;
-}
-
-
-/* --- Mobile Styling --- */
-
-@media all and (max-width: 660px) {
-    header {
-    	height: 7.3em;
-    }
-    header h1#logo {
-        display: block;
-        float: none;
-        height: 2.2em;
-        line-height: 2.2em;
-        text-align: center;
-        font-size: 1.7em;
-        margin-top: .3em;
-    }
-    header #logo a {
-        color: #6FD1AD;
-    }
-    .main-nav {
-        display: block;
-        float: none;
-        text-align: center;
-        height: 2em;
-    }
-    .main-nav a {
-        line-height: 2em;
-        margin: 0 .5em;
-        font-size: .9em;
-    }
-
-    /* Styling on scroll down, mobile */
-    header.smaller {
-        height: 2.8em;
-    }
-
-    header.smaller h1#logo {
-        height: 1.8em;
-        line-height: 1.8em;
-        font-size: 1em;
-        display: none;
-    }
-
-    header.smaller #logo a {
-        color: #8a8a8a;
-    }
-
-    header.smaller nav {
-        height: 1.8em;
-    }
-
-    header.smaller nav a {
-        line-height: 2.8em;
-    }
-}
-
 
 
 
@@ -223,6 +74,11 @@ header.smaller nav a {
     padding-right: .5em;
 }
 
+.gallery-contain ul {
+    margin: 0;
+    padding: 0;
+}
+
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
 .project-img-full {
@@ -231,7 +87,6 @@ header.smaller nav a {
 }
 
 .project-description {
-	font-family: "Lato", sans-serif;
 	font-size: 1em;
 	color: #777777;
 }
@@ -239,10 +94,10 @@ header.smaller nav a {
 .portfolio-nav {
 	border-top: 1px solid #999999;
 	margin: 60px 0px;
+    padding-top: 30px;
 }
 
 .prev-next-link a {
-	font-family: "Lato", sans-serif;
 	font-weight: 400;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -256,14 +111,15 @@ header.smaller nav a {
 
 /* --- responsive width video player --- */
 
-.videoWrapper {
+.video-wrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
+    margin-bottom: 20px;
 }
 
-.videoWrapper iframe {
+.video-wrapper iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -292,7 +148,7 @@ header.smaller nav a {
 
 .contact-icon {
     margin: 0 auto;
-    padding: 20px 0;
+    padding: 25px 0 15px 0;
     /*padding: 15px;*/
     max-width: 140px;
 }
@@ -301,8 +157,11 @@ header.smaller nav a {
     opacity: .8;
 }
 
+.contact-icons-container {
+    margin-top:50px;
+}
+
 .contact {
-    font-family: "Lato", sans-serif;
     font-size: 1em;
     font-weight: 300;
     color: #777777;
@@ -316,11 +175,23 @@ header.smaller nav a {
     color: #FF802B;
 }
 
+p.contact {
+    margin:0;
+}
+
+
 /* -------------------- FOOTER -------------------- */ 
 
-#footer {
+footer {
 	background-color: #6FD1AD;
 	width: 100%;
+    max-width: 100%;
+}
+
+footer.row {
+    margin-right: 0;
+    margin-left: 0;
+    max-width: 100%;
 }
 
 .site-footer {
@@ -329,12 +200,31 @@ header.smaller nav a {
 }
 
 .copyright p{
-	font-family: "Lato", sans-serif;
 	font-size: 12px;
 	letter-spacing: 2px;
 	color: #F2F2F2;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+footer .nav a {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #777777;
+    text-transform: uppercase;
+    margin: 0 7px;
+    padding-bottom: 3px;
+}
+
+footer .nav a:hover {
+    color: #F2F2F2;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+footer .nav ul {
+    margin-bottom: 12px;
+    padding-top: 10px;
 }
 
 html, body {

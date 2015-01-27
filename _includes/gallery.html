@@ -1,4 +1,18 @@
-<div class="home row">
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">	    	
+	{% for project in site.data.projects %}
+		{% for thumb in project.thumb %}     
+			<li>      
+		        <a class="portfolio-thumb" href="/{{ project.permalink }}">
+		        	<img src="/{{ project.thumb }}">
+		        </a>
+			</li>
+		{% endfor %}
+	{% endfor %}
+</ul>
+
+
+
+<!-- <div class="home row">
 
   {% for project in site.data.projects %}
 	{% for thumb in project.thumb %} 
@@ -12,5 +26,5 @@
 	{% endfor %}
   {% endfor %}
 
-</div>
+</div> -->
 

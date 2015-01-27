@@ -1,0 +1,32 @@
+- category: Software
+  bullets: 
+    - 'Mac OS X'
+    - 'Illustrator'
+    - 'InDesign'
+    - 'Photoshop'
+    - 'After Effects'
+    - 'Dreamweaver'
+    - 'MS Office'
+    - 'Flash'
+
+- category: Design
+  bullets: 
+    - Digital
+    - Print
+    - Packaging
+    - Branding
+    - Social Media
+    - Motion Graphics
+    - Silkscreen
+    - Photography
+
+- category: Web
+  bullets: 
+    - HTML
+    - CSS
+    - GitHub
+    - Foundation
+    - Jekyll
+    - Javascript
+    - JQuery
+    - SEO

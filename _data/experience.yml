@@ -1,0 +1,31 @@
+- org:  Social Distillery
+  role: Creative Director
+  location: 'Austin, Texas'
+  when: September 2014 to Present
+  bullets: 
+    - Led and carried out a revamp of Social Distillery’s branding.
+    - Delivered internal and external graphic requests. 
+    - Oversaw ideation and execution of campaigns. 
+    - Managed design intern.
+
+- org: Social Distillery
+  role: Graphic Designer
+  location: 'Austin, Texas'
+  when: December 2012 to September 2014
+  bullets: 
+    - Designed content and created consistent branding across various social media channels for clients. Managed intern.
+
+- org: Social Distillery
+  role: Design Intern
+  location: 'Austin, Texas'
+  when: July 2012 to December 2012
+  bullets: 
+    - Maintained all internal graphic design standards. 
+    - Executed dayto-day social graphics for Social Distillery’s clients.
+
+- org: Hyatt Regency San Antonio
+  role: Freelance Graphic Designer
+  location: 'San Antonio, Texas'
+  when: June 2012
+  bullets:
+    - Designed promotional material for the hotel’s restaurant.
