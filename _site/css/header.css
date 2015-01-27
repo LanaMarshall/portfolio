@@ -1,0 +1,192 @@
+/* -------------------- HEADER -------------------- */ 
+
+
+header {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-bottom: 1px solid #c2c2c2;
+    padding: 0px 15px;
+    -webkit-transition: height 0.3s;
+    -moz-transition: height 0.3s;
+    -ms-transition: height 0.3s;
+    -o-transition: height 0.3s;
+    transition: height 0.3s;
+}
+
+header h1#logo {
+    display: inline-block;
+    height: 100px;
+    line-height: 90px;
+    margin: 0;
+    float: left;
+    font-family: "klinic_slablight", serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #8a8a8a;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#logo a {
+	color: #8a8a8a;
+}
+
+#logo a:hover {
+	color:#6FD1AD;
+}
+
+header img {
+    margin-right: 12px;
+    max-width: 60px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+/* --- header nav --- */ 
+header ul {
+    display: inline-block;
+    float: right;
+    height: 100px;
+    line-height: 100px;
+} 
+
+header li a {
+    padding-bottom: 4px;
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 13px;
+	font-weight: 300;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #8a8a8a;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.nav a:hover {
+	color:#6FD1AD;
+	border-bottom: 1px solid #6FD1AD;
+}
+
+.nav ul {
+    margin: 0;
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+}
+
+.nav ul li { 
+    display: inline;
+    padding: 0 5px;
+}
+
+
+
+
+/* --- Selected Nav Link --- */
+.selected { 
+    color: #6FD1AD;
+    border-bottom: 1px solid #6FD1AD;
+    }
+
+
+/* --- styling on scroll down, desktop --- */
+
+header.smaller {
+    height: 50px;
+}
+header.smaller h1#logo {
+    height: 50px;
+    line-height: 45px;
+    font-size: 20px;
+}
+header.smaller ul {
+    height: 50px;
+    line-height: 50px;
+}
+header.smaller ul a {
+    line-height: 50px;
+}
+
+header.smaller img {
+    max-width: 30px;
+}
+
+/* --- Mobile Styling --- */
+
+@media all and (max-width: 660px) {
+    header {
+    	height: 120px;
+    }
+    header h1#logo {
+        display: block;
+        float: none;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    header img {
+        max-height: 100%;
+    }
+    .nav {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .nav a {
+        font-size: 13px;
+    }
+
+    header ul {
+        float: none;
+        height: 45px;
+        line-height: 30px;
+    }
+
+    /* Styling on scroll down, mobile */
+    header.smaller {
+        height: 50px;
+    }
+
+    header.smaller span {
+        display: none;
+    }
+
+    header.smaller h1#logo {
+        float: left;
+        margin: 8px 0;
+    }
+
+    header.smaller ul {
+        height: 50px;
+        line-height: 50px;
+        display: inline-block;
+        float: right;
+    }
+
+    header.smaller img {
+        float: left;
+    }
+
+    header.smaller .nav {
+    }
+}
+
