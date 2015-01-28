@@ -60,7 +60,9 @@
   imagefolder: img/mks-logos
   images:
     - name: mks-university2.png
+    - name: mks-university-comp.png
     - name: mks-coding-corner2.png
+    - name: mks-coding-corner-comp.png
 
 
 - title: Social Distillery
