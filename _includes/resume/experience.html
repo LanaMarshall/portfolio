@@ -1,0 +1,26 @@
+{% for experience in site.data.experience %}
+
+    <div class="resume-block">
+    
+        <div class="org">
+            <h3>
+                {{ experience.org }}
+                <span class="when">{{ experience.when }}</span>
+            </h3>
+        </div>
+
+        <div class="role">
+            <h4>{{ experience.role }}</h4>
+        </div>
+        
+        {% if experience.bullets %}
+            <ul class= "role-description">
+                {% for bullet in experience.bullets %}
+                    <li>+ {{ bullet }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+    </div>
+
+{% endfor %}
