@@ -1,86 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//whole-foods/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//owc-valentines/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//mks-logos/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//makersquare/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//ctca-womens-health/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//ctca/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//beatles-animation/</loc>
-    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</loc>
-    <lastmod>2014-08-09T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery-koozies/</loc>
-    <lastmod>2014-08-09T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery-branding/</loc>
-    <lastmod>2014-08-09T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//pauly-presley/</loc>
-    <lastmod>2014-08-09T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//about/</loc>
-    <lastmod>2015-02-16T19:50:03-06:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2015-02-16T20:31:40-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//contact/</loc>
-    <lastmod>2015-02-16T19:50:03-06:00</lastmod>
+    <loc>/contact/</loc>
+    <lastmod>2015-02-16T20:31:40-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//</loc>
-    <lastmod>2015-02-16T19:50:03-06:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2015-02-16T20:31:40-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//resume/</loc>
-    <lastmod>2015-02-16T19:50:03-06:00</lastmod>
+    <loc>/resume/</loc>
+    <lastmod>2015-02-16T20:31:40-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

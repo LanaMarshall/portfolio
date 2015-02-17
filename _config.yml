@@ -1,8 +1,8 @@
 # Site settings
 title: Lana Marshall | Design | Art Direction 
 description: "Graphic Designer in Austin, TX"
-baseurl: "http://lanamarshall.com/"
-url: "http://lanamarshall.com/"
+baseurl: 
+url: 
 
 logomark: /img/logomark.png
 email: hello@lanamarshall.com
