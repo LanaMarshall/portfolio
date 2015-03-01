@@ -78,9 +78,31 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Feb 2015 19:41:15 -0600</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2015 19:41:15 -0600</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2015 01:02:32 -0600</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2015 01:02:32 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>SXSW Happy Hour</title>
+        <description>
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 -0600</pubDate>
+        <link>/happy-hour/</link>
+        <guid isPermaLink="true">/happy-hour/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>People Pattern Animated Illustrations</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
+        <link>/people-pattern/</link>
+        <guid isPermaLink="true">/people-pattern/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Whole Foods</title>
@@ -173,39 +195,6 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/beatles-animation/</link>
         <guid isPermaLink="true">/beatles-animation/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Toyfair Animation</title>
-        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
-    &lt;!-- Copy &amp; Pasted from YouTube --&gt;
-    &lt;iframe src=&quot;//player.vimeo.com/video/105262119?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;365&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;project-img-full&quot;&gt;
-    &lt;img src=&quot;/img/toy-fair/toyfair-brochure-inside.jpg&quot; /&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;project-img-full&quot;&gt;
-    &lt;img src=&quot;/img/toy-fair/toyfair-brochure-front.jpg&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/toyfair-animation/</link>
-        <guid isPermaLink="true">/toyfair-animation/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Social Distillery Koozies</title>
-        <description>
-</description>
-        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/social-distillery-koozies/</link>
-        <guid isPermaLink="true">/social-distillery-koozies/</guid>
         
         
       </item>
