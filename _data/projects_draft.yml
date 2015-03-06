@@ -11,3 +11,17 @@
     - name: mks-01.png
     - name: mks-03.png
     - name: mks-02.png
+
+
+- title: Social Distillery
+  order: 5
+  id: sd-koozies
+  permalink: social-distillery-koozies/
+  category: 
+  publish: yes
+  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-koozies-thumb.jpg
+  imagefolder: img/koozies
+  images: 
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg

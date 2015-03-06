@@ -16,7 +16,7 @@
         {% if experience.bullets %}
             <ul class= "role-description">
                 {% for bullet in experience.bullets %}
-                    <li>+ {{ bullet }}</li>
+                    <li>{{ bullet }}</li>
                 {% endfor %}
             </ul>
         {% endif %}

@@ -7,7 +7,7 @@
   category: 
   publish: yes
   description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
-  thumb: img/thumbnails/wfm-thumb.jpg
+  thumb: img/wfm/wfm-poa-01.jpg
   imagefolder: img/wfm
   images:
     - name: wfm-poa-01.jpg
@@ -71,9 +71,6 @@
     - name: mks-university-comp.png
     - name: mks-coding-corner2.png
     - name: mks-coding-corner-comp.png
-    - name: mks-01.png
-    - name: mks-03.png
-    - name: mks-02.png
 
 
 - title: Other World Computing
@@ -133,6 +130,34 @@
     - name: ctca-womens-health.png
 
 
+- title: Social Distillery Shirts
+  id: sd-shirts
+  permalink: sd-shirts/
+  description: ""
+  thumb: img/thumbnails/sd-shirts-thumb.jpg
+  imagefolder: img/sd-shirts
+  images: 
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    - name: sd-shirt-mens.jpg
+    - name: sd-shirt-womens.jpg
+
+
+- title: MakerSquare
+  order: 6
+  id: mks
+  permalink: makersquare/
+  category: 
+  publish: yes
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
+  thumb: img/mks/mks-01.png
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
+
+
 - title: Social Distillery
   order: 5
   id: sd-koozies
@@ -174,6 +199,16 @@
     - name: sd-wine-bottles.jpg
     - name: gifttags1.jpg
     - name: gifttags2.jpg
+
+
+- title: Cancer Treatment Centers of America
+  id: ctca-breastcancer
+  permalink: ctca-breastcancer/
+  description: An infographic used to promote Breast Cancer Awareness Month across social media. 
+  thumb: img/thumbnails/ctca-breastcancer-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-breastcancer.png
 
 
 - title: '"Happiness is a Warm Gun" Animation'

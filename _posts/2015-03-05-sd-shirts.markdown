@@ -1,0 +1,7 @@
+---
+layout: portfolio-entry
+title:  "Social Distillery Shirts"
+projectid: sd-shirts
+permalink: sd-shirts/
+order: {{ project.order }}
+---

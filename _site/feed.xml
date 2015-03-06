@@ -78,9 +78,31 @@
     <description>Graphic Designer in Austin, TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Mar 2015 01:02:32 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2015 01:02:32 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2015 19:55:33 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2015 19:55:33 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Social Distillery Shirts</title>
+        <description>
+</description>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 -0600</pubDate>
+        <link>/sd-shirts/</link>
+        <guid isPermaLink="true">/sd-shirts/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CTCA Breast Cancer Awareness Infographic</title>
+        <description>
+</description>
+        <pubDate>Wed, 04 Mar 2015 00:00:00 -0600</pubDate>
+        <link>/ctca-breastcancer/</link>
+        <guid isPermaLink="true">/ctca-breastcancer/</guid>
+        
+        
+      </item>
     
       <item>
         <title>SXSW Happy Hour</title>
@@ -170,31 +192,6 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca-womens-health/</link>
         <guid isPermaLink="true">/ctca-womens-health/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cancer Treatment Centers of America</title>
-        <description>
-</description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/ctca/</link>
-        <guid isPermaLink="true">/ctca/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Beatles Animation</title>
-        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
-    &lt;!-- Copy &amp; Pasted from YouTube --&gt;
-    &lt;iframe src=&quot;//player.vimeo.com/video/105262120?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;650&quot; height=&quot;366&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/beatles-animation/</link>
-        <guid isPermaLink="true">/beatles-animation/</guid>
         
         
       </item>
