@@ -8,6 +8,6 @@ img: img/headshot.jpg
 
 I'm Lana Marshall and I'm a graphic designer.
 
-An Austin native, I moved to New York fresh out of high school to attend Pratt Institute. After a comprehensive study of design, illustration and advertising, I earned my B.A. in Communications Design. I then returned to my hometown where I worked as a freelance graphic designer before joining the team at <a href="http://socialdistillery.com/" target="_blank">Social Distillery</a>, as their resident Graphic Designer and Creative Director.
+An Austin native, I moved to New York fresh out of high school to attend Pratt Institute. After a comprehensive study of design, illustration and advertising, I earned my B.A. in Communications Design. I then returned to my hometown where I worked as a freelance graphic designer before joining the team at <a href="http://socialdistillery.com/" target="_blank">Social Distillery</a>, establishing the role of Graphic Designer and working my way up to Creative Director.
 
-If you have questions about any of my work or would like a copy of my most recent resume, feel free to <a href="/contact/">contact me.</a>
+If you have questions about any of my work or are interested in working together, feel free to <a href="/contact/">contact me.</a>
