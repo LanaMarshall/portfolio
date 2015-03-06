@@ -58,6 +58,11 @@
 
 .resume li {
 	padding-top: 0;
+	font-size: .9em;
+}
+
+.resume-contact li {
+	font-size: 1em;
 }
 
 .when {
