@@ -58,6 +58,11 @@
 
 .resume li {
 	padding-top: 0;
+	font-size: .9em;
+}
+
+.resume-contact li {
+	font-size: 1em;
 }
 
 .when {
@@ -71,13 +76,21 @@
 	content:' — ';
 }
 
-.resume ul {
-	list-style: none;
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
+.resume ul, .role-description ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
 }
 
+.role-description li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.role-description li:before {
+  content: "+";
+  padding-right: 5px;
+}
 
 .resume-section {
 	margin-bottom: 50px;

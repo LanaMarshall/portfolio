@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+<<<<<<< HEAD
     <loc>http://lanamarshall.com/http://lanamarshall.com//whole-foods/</loc>
+=======
+    <loc>/sd-shirts/</loc>
+    <lastmod>2015-03-05T00:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/ctca-breastcancer/</loc>
+    <lastmod>2015-03-04T00:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/happy-hour/</loc>
+    <lastmod>2015-02-25T00:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/people-pattern/</loc>
+    <lastmod>2015-02-20T00:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/whole-foods/</loc>
+>>>>>>> staging
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -61,26 +85,46 @@
     <priority>0.8</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://lanamarshall.com/http://lanamarshall.com//about/</loc>
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
+=======
+    <loc>/about/</loc>
+    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://lanamarshall.com/http://lanamarshall.com//contact/</loc>
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
+=======
+    <loc>/contact/</loc>
+    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://lanamarshall.com/http://lanamarshall.com//</loc>
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
+=======
+    <loc>/</loc>
+    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://lanamarshall.com/http://lanamarshall.com//resume/</loc>
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
+=======
+    <loc>/resume/</loc>
+    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

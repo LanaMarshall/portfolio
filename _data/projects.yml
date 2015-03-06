@@ -7,13 +7,21 @@
   category: 
   publish: yes
   description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
-  thumb: img/thumbnails/wfm-thumb.jpg
+  thumb: img/wfm/wfm-poa-01.jpg
   imagefolder: img/wfm
   images:
-    - name: wfm-full-06.jpg
-    - name: wfm-full-05.jpg
-    - name: wfm-full-01.png
-    - name: wfm-full-02.png
+    - name: wfm-poa-01.jpg
+    - name: wfm-poa-02.jpg
+    - name: wfm-poa-04.jpg
+    - name: wfm-la-01.jpg
+    - name: wfm-la-02.jpg
+    - name: wfm-la-03.jpg
+    - name: wfm-clv-01.jpg
+    - name: wfm-clv-02.jpg
+    - name: wfm-hlv-01.jpg
+    - name: wfm-hlv-02.jpg
+    - name: wfm-champ-01.jpg
+    - name: wfm-champ-02.jpg
 
 
 - title: Social Distillery
@@ -64,6 +72,7 @@
     - name: mks-coding-corner2.png
     - name: mks-coding-corner-comp.png
 
+
 - title: Other World Computing
   order: 9
   id: owc-love
@@ -81,19 +90,29 @@
     - name: owc-love-cover.png
 
 
-- title: MakerSquare
-  order: 6
-  id: mks
-  permalink: makersquare/
-  category: 
-  publish: yes
-  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014 for all their social media marketing needs. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
-  thumb: img/mks/mks-01.png
-  imagefolder: img/mks
+- title: SXSW Happy Hour
+  id: happy-hour
+  permalink: happy-hour/
+  description: 'Various graphics used to promote a SXSW Happy Hour hosted by People Pattern, Social Distillery and Wee Golf.'
+  thumb: img/thumbnails/sxsw-happyhour-thumb.jpg
+  imagefolder: img/happy-hour
+  images:
+    - name: happyhour-facebook.jpg
+    - name: happyhour-email.jpg
+    - name: happyhour-eventbrite.jpg
+    - name: happyhour-tote2.jpg
+
+
+- title: People Pattern Animated Illustrations
+  id: people-pattern
+  permalink: people-pattern/
+  description: "Two animated illustration concepts created as part of People Pattern's website redesign."
+  thumb: img/thumbnails/pp-horse-thumb.gif
+  imagefolder: img/people-pattern
   images: 
-    - name: mks-01.png
-    - name: mks-03.png
-    - name: mks-02.png
+    - name: pp-horse.gif
+    - name: pp-walkman.gif
+    - name: pp-sketches.jpg
 
 
 
@@ -111,6 +130,34 @@
     - name: ctca-womens-health.png
 
 
+- title: Social Distillery Shirts
+  id: sd-shirts
+  permalink: sd-shirts/
+  description: ""
+  thumb: img/thumbnails/sd-shirts-thumb.jpg
+  imagefolder: img/sd-shirts
+  images: 
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    - name: sd-shirt-mens.jpg
+    - name: sd-shirt-womens.jpg
+
+
+- title: MakerSquare
+  order: 6
+  id: mks
+  permalink: makersquare/
+  category: 
+  publish: yes
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
+  thumb: img/mks/mks-01.png
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
+
+
 - title: Social Distillery
   order: 5
   id: sd-koozies
@@ -123,6 +170,7 @@
   images: 
     - name: sd-koozies-front.jpg
     - name: sd-koozies-back.jpg
+
 
 
 - title: Cancer Treatment Centers of America
@@ -153,6 +201,16 @@
     - name: gifttags2.jpg
 
 
+- title: Cancer Treatment Centers of America
+  id: ctca-breastcancer
+  permalink: ctca-breastcancer/
+  description: An infographic used to promote Breast Cancer Awareness Month across social media. 
+  thumb: img/thumbnails/ctca-breastcancer-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-breastcancer.png
+
+
 - title: '"Happiness is a Warm Gun" Animation'
   order: 11
   id: beatles
@@ -167,8 +225,7 @@
   order: 12
   id: toyfair
   permalink: toyfair-animation/
-  class: end
   category: 
   publish: yes
   description: An illustrated brochure and corresponding After Effects animation for the New York Toy Fair. This project was created during my time at Pratt Institute.
-  thumb: img/thumbnails/toyfair-thumb.jpg
+  thumb: img/thumbnails/toyfair-thumb3.jpg
