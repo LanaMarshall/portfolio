@@ -30,7 +30,7 @@
   permalink: social-distillery-branding/
   category: 
   publish: yes
-  description: "When Social Distillery's CEO came to me looking for a brand update, she wanted to keep the skyline motif of the logo she'd founded the company with, but give it a clean, modern facelift. I cleaned up the lines of the logo, simplified the details and color scheme and added new logotype. The logo update was just part of Social Distillery's brand refresh, which included comprehensive brand guidlines and new brand collateral."
+  description: "When Social Distillery's CEO came to me looking for a brand update, she wanted to keep the skyline motif of the logo she'd founded the company with, but give it a clean, modern facelift. I cleaned up the lines of the logo, simplified the details and color scheme and added new logotype. The logo update was just part of Social Distillery's brand refresh, which included comprehensive brand guidelines and new brand collateral."
   thumb: img/thumbnails/sd-notebook-thumb.jpg
   imagefolder: img/sd-branding
   images: 
@@ -106,13 +106,15 @@
 - title: People Pattern Animated Illustrations
   id: people-pattern
   permalink: people-pattern/
-  description: "Two animated illustration concepts created as part of People Pattern's website redesign."
+  description: "Two animated illustration concepts created as part of People Pattern's website redesign. These illustrations would be part of a short narrative about what the company does, told through a series of home page sliders."
   thumb: img/thumbnails/pp-horse-thumb.gif
   imagefolder: img/people-pattern
   images: 
+    - name: pp-sketches.jpg
     - name: pp-horse.gif
     - name: pp-walkman.gif
-    - name: pp-sketches.jpg
+    - name: pp-iphone.jpg
+    - name: pp-browser.png
 
 
 
@@ -133,7 +135,7 @@
 - title: Social Distillery Shirts
   id: sd-shirts
   permalink: sd-shirts/
-  description: ""
+  description: "Some fun brand swag for Social Distillery."
   thumb: img/thumbnails/sd-shirts-thumb.jpg
   imagefolder: img/sd-shirts
   images: 

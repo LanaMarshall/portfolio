@@ -183,6 +183,7 @@ p.contact {
 /* -------------------- FOOTER -------------------- */ 
 
 footer {
+    background-image: url("/img/turq-diamonds.png");
 	background-color: #6FD1AD;
 	width: 100%;
     max-width: 100%;
@@ -195,7 +196,7 @@ footer.row {
 }
 
 .site-footer {
-	padding: 30px 0;
+	padding: 50px 0;
 	width:100%;
 }
 

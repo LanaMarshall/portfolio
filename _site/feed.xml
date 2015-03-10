@@ -89,8 +89,13 @@
 =======
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Thu, 05 Mar 2015 20:10:44 -0600</pubDate>
     <lastBuildDate>Thu, 05 Mar 2015 20:10:44 -0600</lastBuildDate>
+>>>>>>> staging
+=======
+    <pubDate>Mon, 09 Mar 2015 19:38:22 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2015 19:38:22 -0500</lastBuildDate>
 >>>>>>> staging
     <generator>Jekyll v2.5.3</generator>
     

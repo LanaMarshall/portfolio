@@ -90,7 +90,11 @@
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
 =======
     <loc>/about/</loc>
+<<<<<<< HEAD
     <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
+=======
+    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
 >>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -101,7 +105,11 @@
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
 =======
     <loc>/contact/</loc>
+<<<<<<< HEAD
     <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
+=======
+    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
 >>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -112,7 +120,11 @@
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
 =======
     <loc>/</loc>
+<<<<<<< HEAD
     <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
+=======
+    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
 >>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -123,7 +135,11 @@
     <lastmod>2015-03-01T16:22:29-06:00</lastmod>
 =======
     <loc>/resume/</loc>
+<<<<<<< HEAD
     <lastmod>2015-03-05T20:10:44-06:00</lastmod>
+>>>>>>> staging
+=======
+    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
 >>>>>>> staging
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

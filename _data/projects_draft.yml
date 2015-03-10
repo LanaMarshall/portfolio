@@ -25,3 +25,16 @@
   images: 
     - name: sd-koozies-front.jpg
     - name: sd-koozies-back.jpg
+
+
+- title: Social Distillery Shirts
+  id: sd-shirts
+  permalink: sd-shirts/
+  description: "Some brand swag for Social Distillery. I wanted to create something that was more than just a logo slapped on a t-shirt. I wanted to create shirts that people would actually want to wear."
+  thumb: img/thumbnails/sd-shirts-thumb.jpg
+  imagefolder: img/sd-shirts
+  images: 
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    - name: sd-shirt-mens.jpg
+    - name: sd-shirt-womens.jpg
