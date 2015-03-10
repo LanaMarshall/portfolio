@@ -106,13 +106,15 @@
 - title: People Pattern Animated Illustrations
   id: people-pattern
   permalink: people-pattern/
-  description: "Two animated illustration concepts created as part of People Pattern's website redesign."
+  description: "Two animated illustration concepts created as part of People Pattern's website redesign. These illustrations would be part of a short narrative about what the company does, told through a series of home page sliders."
   thumb: img/thumbnails/pp-horse-thumb.gif
   imagefolder: img/people-pattern
   images: 
+    - name: pp-sketches.jpg
     - name: pp-horse.gif
     - name: pp-walkman.gif
-    - name: pp-sketches.jpg
+    - name: pp-iphone.jpg
+    - name: pp-browser.png
 
 
 
@@ -133,7 +135,7 @@
 - title: Social Distillery Shirts
   id: sd-shirts
   permalink: sd-shirts/
-  description: ""
+  description: "Some fun brand swag for Social Distillery."
   thumb: img/thumbnails/sd-shirts-thumb.jpg
   imagefolder: img/sd-shirts
   images: 
