@@ -12,7 +12,7 @@
     <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
 
 
-    <link rel="canonical" href="http://lanamarshall.com/http://lanamarshall.com//feed.xml">
+    <link rel="canonical" href="/feed.xml">
 
     <!-- Google Fonts -->
     <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
@@ -78,42 +78,19 @@
   <channel>
     <title>Lana Marshall | Design | Art Direction</title>
     <description>Graphic Designer in Austin, TX</description>
-<<<<<<< HEAD
-    <link>http://lanamarshall.com/http://lanamarshall.com//</link>
-    <atom:link href="http://lanamarshall.com/http://lanamarshall.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Mar 2015 16:22:29 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2015 16:22:29 -0600</lastBuildDate>
-=======
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <pubDate>Thu, 05 Mar 2015 20:10:44 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2015 20:10:44 -0600</lastBuildDate>
->>>>>>> staging
-=======
-    <pubDate>Mon, 09 Mar 2015 19:38:22 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2015 19:38:22 -0500</lastBuildDate>
->>>>>>> staging
-=======
-    <pubDate>Thu, 02 Apr 2015 13:14:18 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2015 13:14:18 -0500</lastBuildDate>
->>>>>>> staging
+    <pubDate>Tue, 05 May 2015 10:51:47 -0500</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 10:51:47 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Social Distillery Shirts</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//whole-foods/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//whole-foods/</guid>
-=======
         <pubDate>Thu, 05 Mar 2015 00:00:00 -0600</pubDate>
         <link>/sd-shirts/</link>
         <guid isPermaLink="true">/sd-shirts/</guid>
->>>>>>> staging
         
         
       </item>
@@ -122,15 +99,9 @@
         <title>CTCA Breast Cancer Awareness Infographic</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//social-distillery/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//social-distillery/</guid>
-=======
         <pubDate>Wed, 04 Mar 2015 00:00:00 -0600</pubDate>
         <link>/ctca-breastcancer/</link>
         <guid isPermaLink="true">/ctca-breastcancer/</guid>
->>>>>>> staging
         
         
       </item>
@@ -139,15 +110,9 @@
         <title>SXSW Happy Hour</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//owc-valentines/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//owc-valentines/</guid>
-=======
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0600</pubDate>
         <link>/happy-hour/</link>
         <guid isPermaLink="true">/happy-hour/</guid>
->>>>>>> staging
         
         
       </item>
@@ -156,15 +121,9 @@
         <title>People Pattern Animated Illustrations</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//mks-logos/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//mks-logos/</guid>
-=======
         <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
         <link>/people-pattern/</link>
         <guid isPermaLink="true">/people-pattern/</guid>
->>>>>>> staging
         
         
       </item>
@@ -174,13 +133,8 @@
         <description>
 </description>
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-<<<<<<< HEAD
-        <link>http://lanamarshall.com/http://lanamarshall.com//makersquare/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//makersquare/</guid>
-=======
         <link>/whole-foods/</link>
         <guid isPermaLink="true">/whole-foods/</guid>
->>>>>>> staging
         
         
       </item>
@@ -190,13 +144,8 @@
         <description>
 </description>
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-<<<<<<< HEAD
-        <link>http://lanamarshall.com/http://lanamarshall.com//ctca-womens-health/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//ctca-womens-health/</guid>
-=======
         <link>/social-distillery/</link>
         <guid isPermaLink="true">/social-distillery/</guid>
->>>>>>> staging
         
         
       </item>
@@ -210,13 +159,8 @@ I was responsible for leading the project in creative direction. Since the campa
 The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR. --&gt;
 </description>
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-<<<<<<< HEAD
-        <link>http://lanamarshall.com/http://lanamarshall.com//ctca/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//ctca/</guid>
-=======
         <link>/owc-valentines/</link>
         <guid isPermaLink="true">/owc-valentines/</guid>
->>>>>>> staging
         
         
       </item>
@@ -226,13 +170,8 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <description>
 </description>
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-<<<<<<< HEAD
-        <link>http://lanamarshall.com/http://lanamarshall.com//beatles-animation/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//beatles-animation/</guid>
-=======
         <link>/mks-logos/</link>
         <guid isPermaLink="true">/mks-logos/</guid>
->>>>>>> staging
         
         
       </item>
@@ -241,15 +180,9 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <title>MakerSquare</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</guid>
-=======
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/makersquare/</link>
         <guid isPermaLink="true">/makersquare/</guid>
->>>>>>> staging
         
         
       </item>
@@ -258,15 +191,9 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-<<<<<<< HEAD
-        <pubDate>Sat, 09 Aug 2014 00:00:00 -0500</pubDate>
-        <link>http://lanamarshall.com/http://lanamarshall.com//social-distillery-koozies/</link>
-        <guid isPermaLink="true">http://lanamarshall.com/http://lanamarshall.com//social-distillery-koozies/</guid>
-=======
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
         <link>/ctca-womens-health/</link>
         <guid isPermaLink="true">/ctca-womens-health/</guid>
->>>>>>> staging
         
         
       </item>
