@@ -242,6 +242,14 @@ header.smaller img {
 
     header.smaller .nav {
     }
+
+    .nav a {
+        font-size: 12px;
+    }
+
+    .nav ul li {
+        padding: 0 4px;
+    }
 }
 
 
