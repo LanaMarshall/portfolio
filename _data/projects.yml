@@ -175,17 +175,32 @@
 
 
 
+- title: JW Marriott Austin SXSW Campaign
+  id: griffin-hunt
+  permalink: griffin-hunt/
+  description: "For SXSW 2015, the newly-opened JW Marriott Austin wanted a campaign that would engage and build relationships with its audience. And they wanted it in a week. The Social Distillery team came up with the #GriffinHunt. We hid 10 griffins (part of the brand's logo) on local business around downtown Austin in the form of window clings. People were encouraged to find a griffin and Tweet or Instagram a photo of it with #GriffinHunt. This served as their entry to win one of a week's worth of giveaways from JW Marriott. Between our #GriffinHunt hashtag (280K+ impressions), our locally targeted social ads (90K+ impressions), and our organic promotions (62K+), we received over 430K in impressions, plus our reach from pedestrian traffic. Our campaign also helped grow the JW Marriott Austin community by 5% over the span of a week, with members who continue to engage regularly."
+  thumb: img/thumbnails/jwm-thumb.jpg
+  imagefolder: img/jwm
+  images: 
+    - name: griffinhunt-ig.jpg
+    - name: griffinhunt-web-mockup.jpg
+    - name: austinrocks-griffin.jpg
+    - name: griffinhunt-iphone4.jpg
+    - name: toyjoy-griffin.jpg
+
+
 - title: Cancer Treatment Centers of America
   order: 10
   id: ctca
   permalink: ctca/
   category: 
   publish: yes
-  description: An infographic used to promote a Men's Health initiative across social media. 
+  description: Two more infographics created for different CTCA social media initiatives. 
   thumb: img/thumbnails/ctca-thumb.png
   imagefolder: img/ctca
   images:
     - name: ctca-menshealth.png
+    - name: ctca-breastcancer.png
 
 
 - title: Social Distillery
@@ -202,15 +217,6 @@
     - name: gifttags1.jpg
     - name: gifttags2.jpg
 
-
-- title: Cancer Treatment Centers of America
-  id: ctca-breastcancer
-  permalink: ctca-breastcancer/
-  description: An infographic used to promote Breast Cancer Awareness Month across social media. 
-  thumb: img/thumbnails/ctca-breastcancer-thumb.png
-  imagefolder: img/ctca
-  images:
-    - name: ctca-breastcancer.png
 
 
 - title: '"Happiness is a Warm Gun" Animation'
