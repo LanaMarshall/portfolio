@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
-    <loc>http://lanamarshall.com/http://lanamarshall.com//whole-foods/</loc>
-=======
     <loc>/sd-shirts/</loc>
     <lastmod>2015-03-05T00:00:00-06:00</lastmod>
     <priority>0.8</priority>
@@ -25,138 +22,85 @@
   </url>
   <url>
     <loc>/whole-foods/</loc>
->>>>>>> staging
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery/</loc>
+    <loc>/social-distillery/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//owc-valentines/</loc>
+    <loc>/owc-valentines/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//mks-logos/</loc>
+    <loc>/mks-logos/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//makersquare/</loc>
+    <loc>/makersquare/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//ctca-womens-health/</loc>
+    <loc>/ctca-womens-health/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//ctca/</loc>
+    <loc>/ctca/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//beatles-animation/</loc>
+    <loc>/beatles-animation/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//toyfair-animation/</loc>
+    <loc>/toyfair-animation/</loc>
     <lastmod>2014-08-09T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery-koozies/</loc>
+    <loc>/social-distillery-koozies/</loc>
     <lastmod>2014-08-09T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//social-distillery-branding/</loc>
+    <loc>/social-distillery-branding/</loc>
     <lastmod>2014-08-09T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://lanamarshall.com/http://lanamarshall.com//pauly-presley/</loc>
+    <loc>/pauly-presley/</loc>
     <lastmod>2014-08-09T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://lanamarshall.com/http://lanamarshall.com//about/</loc>
-    <lastmod>2015-03-01T16:22:29-06:00</lastmod>
-=======
     <loc>/about/</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-04-02T13:14:18-05:00</lastmod>
->>>>>>> staging
+    <lastmod>2015-05-05T10:51:47-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://lanamarshall.com/http://lanamarshall.com//contact/</loc>
-    <lastmod>2015-03-01T16:22:29-06:00</lastmod>
-=======
     <loc>/contact/</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-04-02T13:14:18-05:00</lastmod>
->>>>>>> staging
+    <lastmod>2015-05-05T10:51:47-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://lanamarshall.com/http://lanamarshall.com//</loc>
-    <lastmod>2015-03-01T16:22:29-06:00</lastmod>
-=======
     <loc>/</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-04-02T13:14:18-05:00</lastmod>
->>>>>>> staging
+    <lastmod>2015-05-05T10:51:47-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://lanamarshall.com/http://lanamarshall.com//resume/</loc>
-    <lastmod>2015-03-01T16:22:29-06:00</lastmod>
-=======
     <loc>/resume/</loc>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastmod>2015-03-05T20:10:44-06:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-03-09T19:38:22-05:00</lastmod>
->>>>>>> staging
-=======
-    <lastmod>2015-04-02T13:14:18-05:00</lastmod>
->>>>>>> staging
+    <lastmod>2015-05-05T10:51:47-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
