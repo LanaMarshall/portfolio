@@ -233,16 +233,18 @@ header.smaller img {
         height: 50px;
         line-height: 50px;
         display: inline-block;
-        float: right;
+        float: none;
     }
 
     header.smaller img {
         float: left;
+        display: none;
     }
 
     header.smaller .nav {
     }
 
+<<<<<<< Updated upstream
     .nav a {
         font-size: 12px;
     }
@@ -252,6 +254,8 @@ header.smaller img {
     }
 
     
+=======
+>>>>>>> Stashed changes
 }
 
 
