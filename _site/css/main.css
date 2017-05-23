@@ -362,6 +362,7 @@ header.smaller img {
 
 .contact-icons-container {
     margin-top:50px;
+    min-height: calc(100vh - 470px);
 }
 
 .contact {
