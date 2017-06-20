@@ -132,17 +132,19 @@
     - name: ctca-womens-health.png
 
 
-- title: Social Distillery Shirts
-  id: sd-shirts
-  permalink: sd-shirts/
-  description: "Some fun brand swag for Social Distillery."
+- title: Social Distillery Swag
+  id: sd-swag
+  permalink: sd-swag/
+  description: "Some fun brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
   thumb: img/thumbnails/sd-shirts-thumb.jpg
-  imagefolder: img/sd-shirts
+  imagefolder: img/sd-swag
   images: 
     - name: sd-shirts-both.jpg
     - name: sd-shirts-design.png
-    - name: sd-shirt-mens.jpg
-    - name: sd-shirt-womens.jpg
+    #- name: sd-shirt-mens.jpg
+    #- name: sd-shirt-womens.jpg
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
 
 
 - title: MakerSquare
@@ -160,18 +162,18 @@
     - name: mks-02.png
 
 
-- title: Social Distillery
-  order: 5
-  id: sd-koozies
-  permalink: social-distillery-koozies/
-  category: 
-  publish: yes
-  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
-  thumb: img/thumbnails/sd-koozies-thumb.jpg
-  imagefolder: img/koozies
-  images: 
-    - name: sd-koozies-front.jpg
-    - name: sd-koozies-back.jpg
+#- title: Social Distillery
+#  order: 5
+#  id: sd-koozies
+#  permalink: social-distillery-koozies/
+#  category: 
+#  publish: yes
+#  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+#  thumb: img/thumbnails/sd-koozies-thumb.jpg
+#  imagefolder: img/koozies
+#  images: 
+#    - name: sd-koozies-front.jpg
+#    - name: sd-koozies-back.jpg
 
 
 
