@@ -57,20 +57,24 @@
     - name: pp-logo-02.png
 
 
-- title: MakerSquare Initiative Logos
+- title: MakerSquare Initiative Logos and Marketing Graphics
   order: 4
-  id: mks-logos
-  permalink: mks-logos/
+  id: makersquare
+  permalink: makersquare/
   category: 
   publish: yes
-  description: "As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. As the program grew, the MakerSquare team created new initiatives and scholarships (MakerSquare University and Coding Corner) designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created. These examples represent just a few of the marketing graphics and logos I created for MakerSquare."  
+  #As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
   thumb: img/thumbnails/mks-university-thumb.png
-  imagefolder: img/mks-logos
+  imagefolder: img/makersquare
   images:
     - name: mks-university2.png
     - name: mks-university-comp.png
     - name: mks-coding-corner2.png
     - name: mks-coding-corner-comp.png
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
 
 
 - title: Other World Computing
@@ -147,19 +151,19 @@
     - name: sd-koozies-back.jpg
 
 
-- title: MakerSquare
-  order: 6
-  id: mks
-  permalink: makersquare/
-  category: 
-  publish: yes
-  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
-  thumb: img/mks/mks-01.png
-  imagefolder: img/mks
-  images: 
-    - name: mks-01.png
-    - name: mks-03.png
-    - name: mks-02.png
+#- title: MakerSquare
+#  order: 6
+#  id: mks
+#  permalink: makersquare/
+#  category: 
+#  publish: yes
+#  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
+#  thumb: img/mks/mks-01.png
+#  imagefolder: img/mks
+#  images: 
+#    - name: mks-01.png
+#    - name: mks-03.png
+#    - name: mks-02.png
 
 
 #- title: Social Distillery

@@ -41,7 +41,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/mks-logos/</loc>
+    <loc>http://localhost:4000/makersquare/</loc>
     <lastmod>2014-08-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -87,25 +87,25 @@
   </url>
   <url>
     <loc>http://localhost:4000/about/</loc>
-    <lastmod>2017-06-20T13:54:54-05:00</lastmod>
+    <lastmod>2017-06-20T14:20:44-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/contact/</loc>
-    <lastmod>2017-06-20T13:54:54-05:00</lastmod>
+    <lastmod>2017-06-20T14:20:44-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2017-06-20T13:54:54-05:00</lastmod>
+    <lastmod>2017-06-20T14:20:44-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://localhost:4000/resume/</loc>
-    <lastmod>2017-06-20T13:54:54-05:00</lastmod>
+    <lastmod>2017-06-20T14:20:44-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,7 @@
 ---
 layout: portfolio-entry
 title:  "MakerSquare Initiative Logos"
-projectid: mks-logos
-permalink: mks-logos/
+projectid: makersquare
+permalink: makersquare/
 order: {{ project.order }}
 ---
