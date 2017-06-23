@@ -1,6 +1,6 @@
 ---
 layout: portfolio-entry
-title:  "MakerSquare Initiative Logos"
+title:  "MakerSquare Logos and Marketing"
 projectid: makersquare
 permalink: makersquare/
 order: {{ project.order }}

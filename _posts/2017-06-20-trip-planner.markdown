@@ -1,8 +1,9 @@
 ---
 layout: portfolio-entry
-title:  "Social Distillery Swag"
-projectid: sd-swag
-permalink: sd-swag/
+title:  "Trip Planner"
+projectid: trip-planner
+permalink: trip-planner/
 order: {{ project.order }}
 published: {{ project.published }}
 ---
+
