@@ -7,7 +7,3 @@ order: {{ project.order }}
 published: {{ project.published }}
 ---
 
-<div class="video-wrapper">
-    <!-- Copy & Pasted from YouTube -->
-    <iframe src="https://player.vimeo.com/video/205441657" width="650" height="366" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>

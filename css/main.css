@@ -289,6 +289,30 @@ header.smaller img {
 	float:left;
 }
 
+.project-img-caption {
+    text-align: left;
+    margin-top: 8px;
+    padding-top: 5px;
+    background-color:;
+    border-top: solid #dbdbdb 2px;
+}
+
+.project-img-caption p {
+    margin: 0px;
+    font-size: .8em;
+    font-weight: 400;
+    letter-spacing: .01em;
+    color: #adadad;
+}
+
+.project-img-caption h2 {
+    font-family: "klinic_slabbold_italic", serif;
+    font-size: 1em;
+    margin: 0;
+    color: #999;
+
+}
+
 .project-description {
 	font-size: 1em;
 	color: #777777;

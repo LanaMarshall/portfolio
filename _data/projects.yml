@@ -1,32 +1,35 @@
 ---
 
 - title: RideTap
-  order: 
+  weight: 1
   id: ridetap
   permalink: ridetap/
   category: 
   published: true
-  description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
+  description: "RideScout, an Austin startup known for their trip planning app, hired me as a freelancer to create an animated explainer video for their new SDK and mobility network RideTap. The new SDK allowed apps to offer multimodal, real-time transportation options to their users. </br></br> After completing a series of illustrations and animating them into a one minute video, I was invited to join the RideScout team as a full time Visual Designer to be there for the ideation and launch of RideTap. Once on team RideScout (later moovel), I created a logo, marketing materials, email banners, landing pages and UI design for RideTap and more. </br></br> In May 2016, the RideTap pilot launched in Portland, Oregon with Lyft and Car2go accessible through the TriMet mobile ticketing app, Portland's public transportation agency app."
+  learn-more-link: "https://medium.com/@moovelUS/introducing-ridetap-moovels-new-connected-transportation-network-688aa1c533a1"
+  learn-more-text: "Read more about RideTap"
   thumb: img/wfm/wfm-poa-01.jpg
+  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
   imagefolder: img/wfm
+  images:
 
 
 - title: Trip Planner
-  order: 
+  weight: 2
   id: trip-planner
   permalink: trip-planner/
   category: 
   published: true
   description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
   thumb: img/wfm/wfm-poa-01.jpg
-  video: "//player.vimeo.com/video/105262119?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
   imagefolder: img/wfm
   images:
     - name: wfm-poa-01.jpg
 
 
 - title: Whole Foods
-  order: 10
+  weight: 3
   id: wfm
   permalink: whole-foods/
   category: 
@@ -36,11 +39,14 @@
   imagefolder: img/wfm
   images:
     - name: wfm-poa-01.jpg
+      header: "Big Idea"
+      caption: "Does this thing work?"
     - name: wfm-poa-02.jpg
     - name: wfm-poa-04.jpg
     - name: wfm-la-01.jpg
     - name: wfm-la-02.jpg
     - name: wfm-la-03.jpg
+      caption: "how about this"
     - name: wfm-clv-01.jpg
     - name: wfm-clv-02.jpg
     - name: wfm-hlv-01.jpg
@@ -50,7 +56,7 @@
 
 
 - title: Social Distillery
-  order: 2
+  weight: 4
   id: sd-branding
   permalink: social-distillery-branding/
   category: 
@@ -67,7 +73,7 @@
 
 
 - title: Pauly + Presley Logo Concept
-  order: 7
+  weight: 5
   id: pp-logo
   permalink: pauly-presley/
   category: 
@@ -83,12 +89,12 @@
 
 
 - title: MakerSquare Initiative Logos and Marketing Graphics
-  order: 4
+  weight: 6
   id: makersquare
   permalink: makersquare/
   category: 
   published: true
-  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. As the program grew, the MakerSquare team created new initiatives and scholarships (MakerSquare University and Coding Corner) designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created. These examples represent just a few of the marketing graphics and logos I created for MakerSquare."  
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. </br></br>As the program grew, the MakerSquare team created new initiatives and scholarships (MakerSquare University and Coding Corner) designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created. These examples represent just a few of the marketing graphics and logos I created for MakerSquare."  
   #As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
   thumb: img/thumbnails/mks-university-thumb.png
   imagefolder: img/makersquare
@@ -103,7 +109,7 @@
 
 
 - title: Other World Computing
-  order: 9
+  weight: 7
   id: owc-love
   permalink: owc-valentines/
   category: 
@@ -120,6 +126,7 @@
 
 
 - title: SXSW Happy Hour
+  weight: 8
   id: happy-hour
   permalink: happy-hour/
   description: 'Various graphics used to promote a SXSW Happy Hour hosted by People Pattern, Social Distillery and Wee Golf.'
@@ -133,6 +140,7 @@
 
 
 - title: People Pattern Animated Illustrations
+  weight: 9
   id: people-pattern
   permalink: people-pattern/
   description: "Two animated illustration concepts created as part of People Pattern's website redesign. These illustrations would be part of a short narrative about what the company does, told through a series of home page sliders."
@@ -148,7 +156,7 @@
 
 
 - title: Cancer Treatment Centers of America
-  order: 8
+  weight: 10
   id: ctca-women
   permalink: ctca-womens-health/
   category: 
@@ -162,6 +170,7 @@
 
 
 - title: Social Distillery Swag
+  weight: 11
   id: sd-swag
   permalink: sd-swag/
   description: "Some fun brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
@@ -178,7 +187,7 @@
 
 
 - title: Cancer Treatment Centers of America
-  order: 10
+  weight: 12
   id: ctca
   permalink: ctca/
   category: 
@@ -193,6 +202,7 @@
 
 
 - title: JW Marriott Austin SXSW Campaign
+  weight: 13
   id: griffin-hunt
   permalink: griffin-hunt/
   description: "For SXSW 2015, the newly-opened JW Marriott Austin wanted a campaign that would engage and build relationships with its audience. And they wanted it in a week. The Social Distillery team came up with the #GriffinHunt. We hid 10 griffins (part of the brand's logo) on local business around downtown Austin in the form of window clings. People were encouraged to find a griffin and Tweet or Instagram a photo of it with #GriffinHunt. This served as their entry to win one of a week's worth of giveaways from JW Marriott. Between our #GriffinHunt hashtag (280K+ impressions), our locally targeted social ads (90K+ impressions), and our organic promotions (62K+), we received over 430K in impressions, plus our reach from pedestrian traffic. Our campaign also helped grow the JW Marriott Austin community by 5% over the span of a week, with members who continue to engage regularly."
@@ -209,6 +219,7 @@
 
 
 - title: Social Distillery
+  weight: 14
   id: sd
   permalink: social-distillery/
   category: 
@@ -224,6 +235,7 @@
 
 
 - title: '"Happiness is a Warm Gun" Animation'
+  weight: 15
   id: beatles
   permalink: beatles-animation/
   category: 
@@ -233,7 +245,10 @@
   video: "//player.vimeo.com/video/105262120?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
 
 
+
+
 - title: 'New York Toy Fair Animation & Brochure'
+  weight: 16
   id: toyfair
   permalink: toyfair-animation/
   category: 

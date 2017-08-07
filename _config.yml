@@ -13,6 +13,8 @@ linkedin: https://www.linkedin.com/in/lanamarshall
 twitter_username: lana7601
 github_username:  LanaMarshall
 
+port: 1117
+
 
 # Build settings
 markdown: kramdown
