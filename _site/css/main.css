@@ -286,7 +286,11 @@ header.smaller img {
 
 .project-img-full {
 	padding: 10px 0px 30px 0px;
-	float:left;
+}
+
+.project-img-full img {
+    display: block;
+    margin: auto;
 }
 
 .project-img-caption {
