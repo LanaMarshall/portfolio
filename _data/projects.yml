@@ -9,10 +9,21 @@
   description: "RideScout, an Austin startup known for their trip planning app, hired me as a freelancer to create an animated explainer video for their new SDK and mobility network RideTap. The new SDK allowed apps to offer multimodal, real-time transportation options to their users. </br></br> After completing a series of illustrations and animating them into a one minute video, I was invited to join the RideScout team as a full time Visual Designer to be there for the ideation and launch of RideTap. Once on team RideScout (later moovel), I created a logo, marketing materials, email banners, landing pages and UI design for RideTap and more. </br></br> In May 2016, the RideTap pilot launched in Portland, Oregon with Lyft and Car2go accessible through the TriMet mobile ticketing app, Portland's public transportation agency app."
   learn-more-link: "https://medium.com/@moovelUS/introducing-ridetap-moovels-new-connected-transportation-network-688aa1c533a1"
   learn-more-text: "Read more about RideTap"
-  thumb: img/wfm/wfm-poa-01.jpg
+  thumb: img/ridetap/rt-hands.png
   video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
-  imagefolder: img/wfm
+  imagefolder: img/ridetap
   images:
+    - name: rt-logo.png
+    - name: rt-logo-sketch3.jpg
+    - name: rt-phone-hands.png
+    - name: rt-multimodal.png
+    - name: rt-network.png
+    - name: rt-use-cases.png
+    - name: rt-email-banner.jpg
+    - name: rt-zipcar.png
+    - name: rt-demo.gif
+    - name: rt-dev-site1.jpg
+    - name: rt-dev-site2.jpg
 
 
 - title: Trip Planner
