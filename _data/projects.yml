@@ -15,13 +15,14 @@
   images:
     - name: rt-logo.png
     - name: rt-logo-sketch3.jpg
+    - name: rt-demo.gif
     - name: rt-phone-hands.png
     - name: rt-multimodal.png
     - name: rt-network.png
     - name: rt-use-cases.png
     - name: rt-email-banner.jpg
-    - name: rt-zipcar.png
-    - name: rt-demo.gif
+    - name: rt-zipcar2.png
+    - name: rt-zipcar3.png
     - name: rt-dev-site1.jpg
     - name: rt-dev-site2.jpg
 
