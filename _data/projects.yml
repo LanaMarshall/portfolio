@@ -9,7 +9,7 @@
   description: "RideScout, an Austin startup known for their trip planning app, hired me as a freelancer to create an animated explainer video for their new SDK and mobility network RideTap. The new SDK allowed apps to offer multimodal, real-time transportation options to their users. </br></br> After completing a series of illustrations and animating them into a one minute video, I was invited to join the RideScout team as a full time Visual Designer to be there for the ideation and launch of RideTap. Once on team RideScout (later moovel), I created a logo, marketing materials, email banners, landing pages and UI design for RideTap and more. </br></br> In May 2016, the RideTap pilot launched in Portland, Oregon with Lyft and Car2go accessible through the TriMet mobile ticketing app, Portland's public transportation agency app."
   learn-more-link: "https://medium.com/@moovelUS/introducing-ridetap-moovels-new-connected-transportation-network-688aa1c533a1"
   learn-more-text: "Read more about RideTap"
-  thumb: img/ridetap/rt-hands.png
+  thumb: img/ridetap/rt-thumb2.png
   video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
   imagefolder: img/ridetap
   images:
@@ -33,11 +33,11 @@
   permalink: trip-planner/
   category: 
   published: true
-  description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
-  thumb: img/wfm/wfm-poa-01.jpg
-  imagefolder: img/wfm
+  description: "After Austin-based RideScout and Portland-based GlobeSherpa began the process of merging to form moovel North America, the offices joined forces to help revamp the white label mobile ticketing app that had been developed by the Portland team and used by transit agencies around the country. One thing lacking in the existing app was a trip planning tool. The moovel team set out to make a clean, functional and user-friendly trip planner that could be utilized in a variety of settings and transit systems. </br></br> My role in this project was UI design. I worked closely with product managers to help translate user testing feedback into design improvements."
+  thumb: img/trip-planner/tp-thumb.jpg
+  imagefolder: img/trip-planner
   images:
-    - name: wfm-poa-01.jpg
+    - name: tp-phone-hand.jpg
 
 
 - title: Whole Foods
