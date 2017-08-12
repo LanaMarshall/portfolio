@@ -4,15 +4,15 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Lana Marshall | Design | Art Direction</title>
+    <title>Lana Marshall | Design | Creative</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="Graphic Designer in Austin, TX">
+    <meta name="description" content="Seattle Visual Designer and Creative">
 
     <!-- Google Verification -->
     <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
 
 
-    <link rel="canonical" href="/feed.xml">
+    <link rel="canonical" href="http://localhost:1117/feed.xml">
 
     <!-- Google Fonts -->
     <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
@@ -80,21 +80,21 @@
       <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lana Marshall | Design | Art Direction</title>
-    <description>Graphic Designer in Austin, TX</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Jul 2015 12:25:59 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2015 12:25:59 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>Lana Marshall | Design | Creative</title>
+    <description>Seattle Visual Designer and Creative</description>
+    <link>http://localhost:1117/</link>
+    <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 11 Aug 2017 18:30:05 -0700</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2017 18:30:05 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>JW Marriott Austin Griffin Hunt</title>
         <description>
 </description>
-        <pubDate>Mon, 16 Mar 2015 00:00:00 -0500</pubDate>
-        <link>/griffin-hunt/</link>
-        <guid isPermaLink="true">/griffin-hunt/</guid>
+        <pubDate>Mon, 16 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/griffin-hunt/</link>
+        <guid isPermaLink="true">http://localhost:1117/griffin-hunt/</guid>
         
         
       </item>
@@ -103,9 +103,9 @@
         <title>Social Distillery Shirts</title>
         <description>
 </description>
-        <pubDate>Thu, 05 Mar 2015 00:00:00 -0600</pubDate>
-        <link>/sd-shirts/</link>
-        <guid isPermaLink="true">/sd-shirts/</guid>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/sd-shirts/</link>
+        <guid isPermaLink="true">http://localhost:1117/sd-shirts/</guid>
         
         
       </item>
@@ -114,9 +114,9 @@
         <title>CTCA Breast Cancer Awareness Infographic</title>
         <description>
 </description>
-        <pubDate>Wed, 04 Mar 2015 00:00:00 -0600</pubDate>
-        <link>/ctca-breastcancer/</link>
-        <guid isPermaLink="true">/ctca-breastcancer/</guid>
+        <pubDate>Wed, 04 Mar 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/ctca-breastcancer/</link>
+        <guid isPermaLink="true">http://localhost:1117/ctca-breastcancer/</guid>
         
         
       </item>
@@ -125,9 +125,9 @@
         <title>SXSW Happy Hour</title>
         <description>
 </description>
-        <pubDate>Wed, 25 Feb 2015 00:00:00 -0600</pubDate>
-        <link>/happy-hour/</link>
-        <guid isPermaLink="true">/happy-hour/</guid>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/happy-hour/</link>
+        <guid isPermaLink="true">http://localhost:1117/happy-hour/</guid>
         
         
       </item>
@@ -136,9 +136,9 @@
         <title>People Pattern Animated Illustrations</title>
         <description>
 </description>
-        <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
-        <link>/people-pattern/</link>
-        <guid isPermaLink="true">/people-pattern/</guid>
+        <pubDate>Fri, 20 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:1117/people-pattern/</link>
+        <guid isPermaLink="true">http://localhost:1117/people-pattern/</guid>
         
         
       </item>
@@ -147,9 +147,9 @@
         <title>Whole Foods</title>
         <description>
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/whole-foods/</link>
-        <guid isPermaLink="true">/whole-foods/</guid>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/whole-foods/</link>
+        <guid isPermaLink="true">http://localhost:1117/whole-foods/</guid>
         
         
       </item>
@@ -158,9 +158,9 @@
         <title>Social Distillery</title>
         <description>
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/social-distillery/</link>
-        <guid isPermaLink="true">/social-distillery/</guid>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/social-distillery/</link>
+        <guid isPermaLink="true">http://localhost:1117/social-distillery/</guid>
         
         
       </item>
@@ -169,13 +169,13 @@
         <title>Other World Computing</title>
         <description>&lt;!-- Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.
 
-I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine&#39;s theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.
+I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine's theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.
 
 The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR. --&gt;
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/owc-valentines/</link>
-        <guid isPermaLink="true">/owc-valentines/</guid>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/owc-valentines/</link>
+        <guid isPermaLink="true">http://localhost:1117/owc-valentines/</guid>
         
         
       </item>
@@ -184,9 +184,9 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <title>MakerSquare Initiative Logos</title>
         <description>
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/mks-logos/</link>
-        <guid isPermaLink="true">/mks-logos/</guid>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/mks-logos/</link>
+        <guid isPermaLink="true">http://localhost:1117/mks-logos/</guid>
         
         
       </item>
@@ -195,9 +195,9 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
         <title>MakerSquare</title>
         <description>
 </description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
-        <link>/makersquare/</link>
-        <guid isPermaLink="true">/makersquare/</guid>
+        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/makersquare/</link>
+        <guid isPermaLink="true">http://localhost:1117/makersquare/</guid>
         
         
       </item>
@@ -229,7 +229,7 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
     
 </ul>
     </div>
-    <p>© 2015 Lana Marshall | Design | Art Direction</p>
+    <p>© 2017 Lana Marshall | Design | Creative</p>
 </div>
 </footer>
 
