@@ -13,16 +13,38 @@ layout: default
         <div class="project-description">
           <p>{{ project.description }}</p>
         </div>
+        <div>
+          <p><a href= "{{ project.learn-more-link }}" target="_blank"> {{ project.learn-more-text }}</a></p>
+        </div>
       </div>      
       
-      <!-- Project Images -->
+      <!-- Project Video and Images-->
+
       <div class="small-12 medium-8 medium-pull-4 columns">
+        
+        {% for video in project.video %}  
+          <div class="video-wrapper"> 
+              <iframe src="{{ project.video }}" width="650" height="365" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+          </div>
+        {% endfor %}
+
         {% for image in project.images %}
           <div class="project-img-full">
               <img src="/{{ project.imagefolder }}/{{ image.name }}">
+              
+
+              {% if image.caption %}
+                <div class= "project-img-caption"> {% if image.header %} 
+                  <h2>{{ image.header }}</h2> {% endif %}
+                  <p>{{ image.caption }}</p>
+                </div>
+              {% endif %}
+          
           </div>
         {% endfor %}
+
         <p>{{ content }}</p>        
+      
       </div>
         
     </div>
