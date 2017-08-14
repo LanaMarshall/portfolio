@@ -32,10 +32,13 @@ layout: default
           <div class="project-img-full">
               <img src="/{{ project.imagefolder }}/{{ image.name }}">
               
-
+              <!-- Headlines and Captions Under Project Images -->
               {% if image.caption %}
-                <div class= "project-img-caption"> {% if image.header %} 
-                  <h3>{{ image.header }}</h3> {% endif %}
+                <div class= "project-img-caption"> 
+                  {% if image.header %} 
+                    <h3>{{ image.header }}</h3> 
+                  {% endif %}
+                  
                   <p>{{ image.caption }}</p>
                 </div>
               {% endif %}

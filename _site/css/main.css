@@ -292,17 +292,25 @@ header.smaller img {
 	padding: 10px 0px 30px 0px;
 }
 
+/* Center Project Images */
 .project-img-full img {
     display: block;
     margin: auto;
 }
 
-div .portfolio-img-column .project-img-caption {
-    text-align: left;
+/* Image Caption Div Styling */
+.project-img-caption {
     margin-top: 15px;
     padding: 10px 0 30px 0;
-    background-color:;
     border-top: solid #dbdbdb 2px;
+}
+
+/* Caption Text Styling */
+.portfolio-img-column .project-img-caption h3 {
+    font-family: 'klinic_slabbold_italic', serif;
+    font-size: 1.2em;
+    margin: 0 0 5px 0;
+    color: #999;
 }
 
 .portfolio-img-column .project-img-caption p {
@@ -314,23 +322,18 @@ div .portfolio-img-column .project-img-caption {
     line-height: 180%
 }
 
-.portfolio-img-column .project-img-caption h3 {
-    font-family: 'klinic_slabbold_italic', serif;
-    font-size: 1.2em;
-    margin: 0 0 5px 0;
-    color: #999;
-
-}
-
 .project-img-caption p br {
    line-height: 240%;
 }
 
+
+/* Project Overview Text Styling */
 p .project-description {
 	font-size: 1em;
 	color: #777777;
 }
 
+/* misc */
 .portfolio-nav {
 	border-top: 1px solid #999999;
 	margin: 60px 0px;
