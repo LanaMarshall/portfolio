@@ -84,6 +84,7 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Mon, 14 Aug 2017 13:01:49 -0700</pubDate>
     <lastBuildDate>Mon, 14 Aug 2017 13:01:49 -0700</lastBuildDate>
 =======
