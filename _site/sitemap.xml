@@ -87,25 +87,25 @@
   </url>
   <url>
     <loc>http://localhost:1117/about/</loc>
-    <lastmod>2017-08-14T14:17:10-07:00</lastmod>
+    <lastmod>2017-08-14T14:42:24-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:1117/contact/</loc>
-    <lastmod>2017-08-14T14:17:10-07:00</lastmod>
+    <lastmod>2017-08-14T14:42:24-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:1117/</loc>
-    <lastmod>2017-08-14T14:17:10-07:00</lastmod>
+    <lastmod>2017-08-14T14:42:24-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://localhost:1117/resume/</loc>
-    <lastmod>2017-08-14T14:17:10-07:00</lastmod>
+    <lastmod>2017-08-14T14:42:24-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
