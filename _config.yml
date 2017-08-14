@@ -1,8 +1,15 @@
 # Site settings
+<<<<<<< HEAD
 title: Lana Marshall | Design | Art Direction 
 description: "Design and Creative in Seattle, WA"
 baseurl: "http://lanamarshall.com/"
 url: "http://lanamarshall.com/"
+=======
+title: Lana Marshall | Design | Creative 
+description: "Seattle Visual Designer and Creative"
+baseurl: 
+url: 
+>>>>>>> staging
 
 logomark: /img/logomark.png
 email: hello@lanamarshall.com
@@ -12,6 +19,8 @@ resume: /files/LanaMarshall_resume.pdf
 linkedin: https://www.linkedin.com/in/lanamarshall
 twitter_username: lana7601
 github_username:  LanaMarshall
+
+port: 1117
 
 
 # Build settings
