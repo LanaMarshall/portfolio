@@ -51,6 +51,10 @@ body a:hover {
 	color: #FF802B;
 }
 
+body h3 {
+    font-family: "klinic_slabbold_italic", serif;
+}
+
 
 /* -------------------- HEADER -------------------- */ 
 
