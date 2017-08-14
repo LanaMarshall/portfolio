@@ -312,7 +312,7 @@ header.smaller img {
     border-top: solid #dbdbdb 2px;
 }
 
-.project-img-caption p {
+.portfolio-img-column .project-img-caption p {
     margin: 0px;
     font-size: .85em;
     font-weight: 400;
@@ -321,7 +321,7 @@ header.smaller img {
     line-height: 180%
 }
 
-.project-img-caption h3 {
+.portfolio-img-column .project-img-caption h3 {
     font-family: 'klinic_slabbold_italic', serif;
     font-size: 1.2em;
     margin: 0 0 5px 0;
