@@ -82,14 +82,11 @@
   imagefolder: img/wfm
   images:
     - name: wfm-poa-01.jpg
-      header: "Big Idea"
-      caption: "Does this thing work?"
     - name: wfm-poa-02.jpg
     - name: wfm-poa-04.jpg
     - name: wfm-la-01.jpg
     - name: wfm-la-02.jpg
     - name: wfm-la-03.jpg
-      caption: "how about this"
     - name: wfm-clv-01.jpg
     - name: wfm-clv-02.jpg
     - name: wfm-hlv-01.jpg
