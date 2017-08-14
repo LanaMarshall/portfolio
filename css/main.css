@@ -26,14 +26,14 @@ body {
 
 
 body p, body li {
-    font-family: "nimbus-sans", sans-serif;
+    font-family: 'nimbus-sans', sans-serif;
     font-size: 1em;
     font-weight: 300;
     color: #777777;
 }
 
 body h1 {
-    font-family: "klinic_slabmedium", serif;
+    font-family: 'klinic_slabmedium', serif;
     font-size: 1.8em;
     color: #777777;
 }
@@ -52,7 +52,7 @@ body a:hover {
 }
 
 body h3 {
-    font-family: "klinic_slabbold_italic", serif;
+    font-family: 'klinic_slabbold_italic', serif;
 }
 
 
@@ -322,7 +322,7 @@ header.smaller img {
 }
 
 .project-img-caption h3 {
-    font-family: "klinic_slabbold_italic", serif;
+    font-family: 'klinic_slabbold_italic', serif;
     font-size: 1.2em;
     margin: 0 0 5px 0;
     color: #999;
