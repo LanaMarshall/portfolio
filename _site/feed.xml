@@ -86,11 +86,16 @@
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <pubDate>Mon, 14 Aug 2017 15:37:26 -0700</pubDate>
     <lastBuildDate>Mon, 14 Aug 2017 15:37:26 -0700</lastBuildDate>
 =======
     <pubDate>Mon, 14 Aug 2017 15:35:37 -0700</pubDate>
     <lastBuildDate>Mon, 14 Aug 2017 15:35:37 -0700</lastBuildDate>
+>>>>>>> staging
+=======
+    <pubDate>Fri, 18 Aug 2017 17:03:02 -0700</pubDate>
+    <lastBuildDate>Fri, 18 Aug 2017 17:03:02 -0700</lastBuildDate>
 >>>>>>> staging
     <generator>Jekyll v3.4.3</generator>
     
