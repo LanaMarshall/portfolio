@@ -3,19 +3,19 @@
   <channel>
     <title>Lana Marshall</title>
     <description>Graphic Designer in Austin, TX</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 23 Nov 2014 17:19:32 -0600</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2014 17:19:32 -0600</lastBuildDate>
-    <generator>Jekyll v2.1.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Sep 2017 16:11:09 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 16:11:09 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Whole Foods</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/whole-foods/</link>
-        <guid isPermaLink="true">/whole-foods/</guid>
+        <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
+        <link>http://localhost:4000/whole-foods/</link>
+        <guid isPermaLink="true">http://localhost:4000/whole-foods/</guid>
         
         
         <category>jekyll</category>
@@ -25,23 +25,12 @@
       </item>
     
       <item>
-        <title>Social Distillery</title>
-        <description>
-</description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/social-distillery/</link>
-        <guid isPermaLink="true">/social-distillery/</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>MakerSquare</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/makersquare/</link>
-        <guid isPermaLink="true">/makersquare/</guid>
+        <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
+        <link>http://localhost:4000/makersquare/</link>
+        <guid isPermaLink="true">http://localhost:4000/makersquare/</guid>
         
         
         <category>jekyll</category>
@@ -54,14 +43,25 @@
         <title>Cancer Treatment Centers of America</title>
         <description>
 </description>
-        <pubDate>Mon, 18 Aug 2014 04:30:47 -0500</pubDate>
-        <link>/ctca/</link>
-        <guid isPermaLink="true">/ctca/</guid>
+        <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
+        <link>http://localhost:4000/ctca/</link>
+        <guid isPermaLink="true">http://localhost:4000/ctca/</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Social Distillery</title>
+        <description>
+</description>
+        <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
+        <link>http://localhost:4000/social-distillery/</link>
+        <guid isPermaLink="true">http://localhost:4000/social-distillery/</guid>
+        
         
       </item>
     
