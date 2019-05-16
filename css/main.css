@@ -283,7 +283,7 @@ header.smaller img {
 
 .gallery-contain ul {
     margin: 0;
-    padding: 0;
+    padding: 0 4em 0 4em;
 }
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
