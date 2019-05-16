@@ -1,4 +1,32 @@
 ---
+- title: Microsoft
+  weight: 0
+  id: microsoft
+  permalink: microsoft/
+  category: 
+  published: true
+  description: "Please contact me for a sampling of my Microsoft work."
+  learn-more-link: "mailto:hello@lanamarshall.com"
+  learn-more-text: "Contact me"
+  thumb: img/microsoft/ms-logo.png
+  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+  imagefolder: img/microsoft
+  images:
+    - name: rt-logo.png
+    - name: rt-logo-sketch3.jpg
+    - name: rt-demo.gif
+    - name: rt-phone-hands.png
+    - name: rt-multimodal.png
+    - name: rt-network.png
+    - name: rt-use-cases.png
+    - name: rt-email-banner.jpg
+    - name: rt-zipcar2.png
+    - name: rt-zipcar3.png
+    - name: rt-dev-site1.jpg
+    - name: rt-dev-site2.jpg
+
+
+
 
 - title: RideTap
   weight: 1

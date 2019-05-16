@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% for project in site.data.projects%}
+  {% if project.id == page.projectid %}
+
+    <div class="portfolio-entry row">
+
+      <!-- Project Title and Description -->
+      <div class="project-text small-12 medium-12 columns">
+        <h1 class="main-headline">{{ project.title }}</h1>
+        <div class="locked-project-description">
+          <p>{{ project.description }}</p>
+        </div>
+        <div>
+          <p><a href= "{{ project.learn-more-link }}" target="_blank"> {{ project.learn-more-text }}</a></p>
+        </div>
+      </div>      
+
+        
+    </div>
+
+  {% endif %}
+{% endfor %}
+
+
+<!-- Project Naviation -->
+<div class="portfolio-nav small-12 columns">
+
+  <div class="on-page-gallery row">
+    {% include gallery.html %}
+  </div>
+
+</div> 
+

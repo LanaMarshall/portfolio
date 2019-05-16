@@ -371,6 +371,13 @@ p .project-description {
 }
 
 
+/* Locked Project Page Text Styling */
+p .locked-project-description {
+    margin:0 auto;
+    font-size: 1em;
+    text-align: center;
+    color: #777777;
+}
 
 /* -------------------- ABOUT PAGE -------------------- */
 
