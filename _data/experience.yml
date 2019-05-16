@@ -1,3 +1,12 @@
+- org:  Microsoft
+  role: Designer II
+  location: 'Redmond, Washington'
+  when: November 2017 to April 2019
+  bullets: 
+    - 'UI/UX for mobile apps in public transportation and mobility industry.'
+    - 'Collaborated with the product design team and developers to craft beautiful user experiences.' 
+    - 'Created illustrations and motion graphics for marketing team.'
+
 - org:  moovel
   role: Visual Designer
   location: 'Austin, Texas'

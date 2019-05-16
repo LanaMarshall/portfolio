@@ -25,5 +25,5 @@ port: 1117
 markdown: kramdown
 permalink: none
 
-gems:
+plugins:
   - jekyll-sitemap
