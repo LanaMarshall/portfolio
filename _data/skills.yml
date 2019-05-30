@@ -4,8 +4,11 @@
     - 'InDesign'
     - 'Photoshop'
     - 'After Effects'
+    - 'XD'
+    - 'Figma'
     - 'Sketch'
     - 'InVision'
+
 
 - category: Design
   bullets: 
@@ -13,8 +16,11 @@
     - Digital
     - Print
     - Branding
+    - Iconography
+    - Illustration
     - Motion Graphics
     - Photography
+
 
 - category: Web
   bullets: 
@@ -24,3 +30,4 @@
     - Javascript
     - Wordpress
     - SEO
+
