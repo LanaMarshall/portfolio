@@ -1,20 +1,10 @@
 # Site settings
-<<<<<<< HEAD
-title: Lana Marshall
-email: lanakmarshall@gmail.com
-description: "Graphic Designer in Austin, TX"
-baseurl: 
-url: 
-=======
-title: Lana Marshall | Design | Art Direction 
-description: "Design and Creative in Seattle, WA"
-baseurl: "http://lanamarshall.com/"
-url: "http://lanamarshall.com/"
 
 title: Lana Marshall | Design | Creative 
 description: "Seattle Visual Designer and Creative"
-baseurl: 
-url: 
+#baseurl: 
+#url: 
+
 
 logomark: /img/logomark.png
 email: hello@lanamarshall.com
@@ -22,7 +12,7 @@ phone: 1-512-965-4437
 location: 'Seattle, WA'
 resume: /files/LanaMarshall_resume.pdf
 linkedin: https://www.linkedin.com/in/lanamarshall
->>>>>>> staging
+
 twitter_username: lana7601
 github_username:  LanaMarshall
 
