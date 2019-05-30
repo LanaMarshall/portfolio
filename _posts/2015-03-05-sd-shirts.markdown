@@ -1,0 +1,8 @@
+---
+layout: portfolio-entry
+title:  "Social Distillery Swag"
+projectid: sd-swag
+permalink: sd-swag/
+order: {{ project.order }}
+published: {{ project.published }}
+---

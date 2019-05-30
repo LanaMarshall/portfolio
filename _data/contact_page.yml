@@ -1,0 +1,18 @@
+- title: 512.965.4437
+  link: tel:512-965-4437
+  icon: img/contact/phone-icon.png
+  target:
+
+- title: Email
+  link: mailto:hello@lanamarshall.com
+  icon: img/contact/email-icon.png
+  target:
+
+- title: LinkedIn
+  link: http://www.linkedin.com/in/lanamarshall/
+  icon: img/contact/linkedin-icon.png
+  target: _blank
+
+- title: Resume
+  link: /resume
+  icon: img/contact/resume-icon.png

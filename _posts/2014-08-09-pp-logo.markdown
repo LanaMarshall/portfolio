@@ -1,0 +1,8 @@
+---
+layout: portfolio-entry
+title:  "Pauly + Presley Logo Concept"
+projectid: pp-logo
+permalink: pauly-presley/
+order: {{ project.order }}
+published: true
+---

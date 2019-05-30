@@ -1,0 +1,33 @@
+- category: Software
+  bullets: 
+    - 'Illustrator'
+    - 'InDesign'
+    - 'Photoshop'
+    - 'After Effects'
+    - 'XD'
+    - 'Figma'
+    - 'Sketch'
+    - 'InVision'
+
+
+- category: Design
+  bullets: 
+    - 'UI/UX'
+    - Digital
+    - Print
+    - Branding
+    - Iconography
+    - Illustration
+    - Motion Graphics
+    - Photography
+
+
+- category: Web
+  bullets: 
+    - HTML
+    - CSS
+    - GitHub
+    - Javascript
+    - Wordpress
+    - SEO
+

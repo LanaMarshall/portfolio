@@ -1,0 +1,126 @@
+/* -- Name, logo, info Left Column -- */
+.resume h1 {
+	font-family: 'nimbus-sans', sans-serif;
+	font-weight: 300;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #777777;
+}
+
+.resume-contact a, .resume-contact li, .resume-contact p {
+	font-family: 'klinic_slablight', serif;
+	color: #777777;
+}
+
+.resume-print-link {
+	margin-top: 40px;
+}
+
+.resume-print-link a {
+	font-family: 'nimbus-sans', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #F09648;
+}
+
+.resume-logomark{
+	max-width: 120px;
+	margin-bottom: 20px;
+}
+
+
+/* -- Section Titles -- */
+.resume h2 {
+	font-family: 'klinic_slablight', serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #F09648;
+}
+
+/* -- Company Name -- */
+.resume h3 {
+	font-family: 'klinic_slabbold', serif;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #777777;
+	margin: 0;
+}
+
+/* -- Company Role -- */
+.resume h4 {
+	font-family: 'klinic_slabbold_italic', serif;
+	font-size: 1em;
+	color: #777777;
+	margin: 0;
+}
+
+.resume li {
+	padding-top: 0;
+	font-size: .9em;
+}
+
+.resume-contact li {
+	font-size: 1em;
+}
+
+.when {
+	font-family: 'klinic_slablight_italic', serif;
+	font-size: 1em;
+	text-transform: none;
+	color: #777777;
+}
+
+.when:before {
+	content:' — ';
+}
+
+.resume ul, .role-description ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.role-description li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.role-description li:before {
+  content: "+";
+  padding-right: 5px;
+}
+
+.resume-section {
+	margin-bottom: 50px;
+}
+
+.resume-block {
+	margin-bottom: 20px;
+}
+
+/* --- Skills Columns --- */
+.skills .columns {
+	padding-left: 0;
+}
+
+/* --- Mobile Styling --- */
+@media all and (max-width: 40em) {
+    .skills-list li {
+    	display: inline;
+    }
+    .skills-list li:after {
+    	content: ', ';
+    }
+    .skills-list li:last-child:after {
+    	content: none;
+    }
+    .when {
+    	display: block;
+    }
+    .when:before {
+    	content: none;
+    }
+
+}

@@ -1,0 +1,11 @@
+- text: ' work'
+  url: /
+
+- text: ' about'
+  url: /about/
+
+- text: ' contact'
+  url: /contact/
+
+- text: ' resume'
+  url: /resume/

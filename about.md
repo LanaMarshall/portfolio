@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: about
 title: About
-headline: Hello, there!
+headline: Hello!
 permalink: about/
-img: img/headshot2.jpg
+img: img/headshot-2019.jpg
 ---
 
-I'm Lana Marshall and I'm a graphic designer.
+I'm Lana Marshall and I'm a Designer living and working in {{ site.location }}.
 
-An Austin native, I moved to New York fresh out of high school to attend Pratt Institute. After a comprehensive study of design, illustration and advertising, I earned my B.A. in Communications Design. I then returned to my hometown where I worked as a freelance graphic designer before joining the team at <a href="http://socialdistillery.com/" target="_blank">Social Distillery</a>, as their resident Graphic Designer.
+Born and raised in Austin, Texas, I moved to New York fresh out of high school to attend Pratt Institute. After graduating with my B.A. in Communications Design, I returned to Austin and worked as a freelance designer before joining the team at Social Distillery, a social media marketing startup, establishing the role of Graphic Designer within the agency and working my way up to Creative Director. In 2015, I delved back into the freelance world, which ultimately led me to moovel North America (formerly RideScout). At moovel, I worked with the product design team to create beautiful, functional user experiences for mobile apps in the public transportation and mobility industries until the company closed it's Austin offices. 
 
-If you have questions about any of my work or would like a copy of my most recent resume, feel free to <a href="{{ site.baseurl }}contact/">contact me.</a>
+In July 2017, I relocated to Seattle. After a year and a half working as a Visual Designer at Microsoft, I'm currently seeking my next big creative opportunity.
+
+If you have questions about my work or are interested in working together, please feel free to <a href="/contact/">get in touch</a>.

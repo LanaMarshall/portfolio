@@ -1,0 +1,147 @@
+- title: MakerSquare
+  order: 6
+  id: mks
+  permalink: makersquare/
+  category: 
+  publish: yes
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
+  thumb: img/mks/mks-01.png
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
+
+
+- title: Social Distillery
+  order: 5
+  id: sd-koozies
+  permalink: social-distillery-koozies/
+  category: 
+  publish: yes
+  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-koozies-thumb.jpg
+  imagefolder: img/koozies
+  images: 
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+
+
+- title: Social Distillery Shirts
+  id: sd-shirts
+  permalink: sd-shirts/
+  description: "Some brand swag for Social Distillery. I wanted to create something that was more than just a logo slapped on a t-shirt. I wanted to create shirts that people would actually want to wear."
+  thumb: img/thumbnails/sd-shirts-thumb.jpg
+  imagefolder: img/sd-shirts
+  images: 
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    - name: sd-shirt-mens.jpg
+    - name: sd-shirt-womens.jpg
+
+
+
+- title: JW Marriott Austin SXSW Campaign
+  id: griffin-hunt
+  permalink: griffin-hunt/
+  description: "For SXSW 2015, the newly-opened JW Marriott Austin wanted a campaign that would engage and build relationships with its audience. And they wanted it in a week. The Social Distillery team came up with the #GriffinHunt. We hid 10 griffins (found in the brand's logomark) on local business around downtown Austin in the form of window clings. People were encouraged to find a griffin and Tweet or Instagram a photo of it with #GriffinHunt. This served as their entry to win one of a week's worth of giveaways from JW Marriott. Between our #GriffinHunt hashtag (280K+ impressions), our locally targeted social ads (90K+ impressions), and our organic promotions (62K+), we received over 430K in impressions, plus our reach from pedestrian traffic. Our campaign also helped grow the JW Marriott Austin community by 5% over the span of a week, with members who continue to engage regularly."
+  thumb: img/thumbnails/jwm-thumb.jpg
+  imagefolder: img/jwm
+  images: 
+    - name: griffinhunt-facebook.jpg
+    - name: griffinhunt-web-mockup.jpg
+    - name: austinrocks-griffin.jpg
+    - name: griffinhunt-iphone1.jpg
+    - name: griffinhunt-iphone2.jpg
+    - name: toyjoy-griffin.jpg
+
+
+- title: Cancer Treatment Centers of America
+  id: ctca-breastcancer
+  permalink: ctca-breastcancer/
+  description: An infographic used to promote Breast Cancer Awareness Month across social media. 
+  thumb: img/thumbnails/ctca-breastcancer-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-breastcancer.png
+
+
+
+- title: Social Distillery
+  order: 5
+  id: sd-koozies
+  permalink: social-distillery-koozies/
+  category: 
+  published: false
+  description: "Some brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-koozies-thumb.jpg
+  imagefolder: img/koozies
+  images: 
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+
+
+- title: MakerSquare
+  order: 6
+  id: mks
+  permalink: makersquare/
+  category: 
+  published: false
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. These examples represent just a few of the graphics I created for the MakerSquare Facebook page."
+  thumb: img/mks/mks-01.png
+  imagefolder: img/mks
+  images: 
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
+
+
+
+
+
+# removed May 2019
+
+- title: Social Distillery
+  weight: 14
+  id: sd
+  permalink: social-distillery/
+  category: 
+  published: true
+  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
+  thumb: img/thumbnails/sd-wine-thumb.jpg
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: gifttags1.jpg
+    - name: gifttags2.jpg
+
+
+    
+- title: '"Happiness is a Warm Gun" Animation'
+  weight: 15
+  id: beatles
+  permalink: beatles-animation/
+  category: 
+  published: false
+  description: A short typographic animation created in After Effects. This project was created during my time at Pratt Institute.
+  thumb: img/thumbnails/beatles-thumb.jpg
+  video: "//player.vimeo.com/video/105262120?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+
+
+
+
+- title: 'New York Toy Fair Animation & Brochure'
+  weight: 16
+  id: toyfair
+  permalink: toyfair-animation/
+  category: 
+  published: true
+  description: An illustrated brochure and corresponding After Effects animation for the New York Toy Fair. This project was created during my time at Pratt Institute.
+  thumb: img/thumbnails/toyfair-thumb3.jpg
+  video: "//player.vimeo.com/video/105262119?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+  imagefolder: img/toy-fair
+  images:
+    - name: toyfair-brochure-inside.jpg
+    - name: toyfair-brochure-front.jpg
+
+

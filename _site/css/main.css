@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
 	background-color: #F2F2F2;
+=======
+    background-color: #ffffff;
+>>>>>>> staging
 }
 
 .contain {
@@ -11,7 +15,11 @@ body {
 }
 
 .headroom {
+<<<<<<< HEAD
 	padding: 180px 0px 100px 0px;
+=======
+	padding: 9em 0em 6em 0em;
+>>>>>>> staging
 }
 
 .clearfix:after {
@@ -22,6 +30,7 @@ body {
    clear: both;
 }
 
+<<<<<<< HEAD
 
 /* -------------------- TEXT STYLING -------------------- */
 
@@ -47,6 +56,41 @@ body {
 	color: #FF802B;
 }
 
+=======
+/* -------------------- TEXT STYLING -------------------- */
+
+
+body p, body li {
+    font-family: 'nimbus-sans', sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    color: #777777;
+}
+
+body h1 {
+    font-family: 'klinic_slabmedium', serif;
+    font-size: 1.8em;
+    color: #777777;
+}
+
+.main-headline {
+}
+
+
+
+body a {
+	color: #F09648;
+}
+
+body a:hover {
+	color: #FF802B;
+}
+
+body h3 {
+    font-family: 'klinic_slabbold_italic', serif;
+}
+
+>>>>>>> staging
 
 /* -------------------- HEADER -------------------- */ 
 
@@ -59,9 +103,15 @@ header {
     top: 0;
     left: 0;
     z-index: 999;
+<<<<<<< HEAD
     background-color: #ffffff;
     border-bottom: 1px solid #999999;
     padding: 0px 20px;
+=======
+    background-color: rgba(255, 255, 255, 0.95);
+    border-bottom: 1px solid #c2c2c2;
+    padding: 0px 15px;
+>>>>>>> staging
     -webkit-transition: height 0.3s;
     -moz-transition: height 0.3s;
     -ms-transition: height 0.3s;
@@ -72,6 +122,7 @@ header {
 header h1#logo {
     display: inline-block;
     height: 100px;
+<<<<<<< HEAD
     line-height: 100px;
     float: left;
     font-family: "Josefin Slab", serif;
@@ -79,6 +130,15 @@ header h1#logo {
     text-transform: uppercase;
     color: #8a8a8a;
     font-weight: 600;
+=======
+    line-height: 90px;
+    margin: 0;
+    float: left;
+    font-family: "klinic_slablight", serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #8a8a8a;
+>>>>>>> staging
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -87,6 +147,7 @@ header h1#logo {
 }
 
 #logo a {
+<<<<<<< HEAD
 	color: #8a8a8a;
 }
 
@@ -108,6 +169,17 @@ header nav a {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #8a8a8a;
+=======
+    color: #8a8a8a;
+}
+
+#logo a:hover {
+    color:#6FD1AD;
+}
+
+header img {
+    margin-right: 12px;
+    max-width: 60px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
@@ -115,18 +187,75 @@ header nav a {
     transition: all 0.3s;
 }
 
+/* --- header nav --- */ 
+header ul {
+    display: inline-block;
+    float: right;
+    height: 100px;
+    line-height: 100px;
+} 
+
+header li a {
+    padding-bottom: 4px;
+    font-family: "nimbus-sans", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #8a8a8a;
+>>>>>>> staging
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+<<<<<<< HEAD
 .main-nav a:hover {
 	color:#5BDEAE;
 	border-bottom: 1px solid #5BDEAE;
 }
 
 /* Styling on scroll down, desktop */
+=======
+.nav a:hover {
+    color:#6FD1AD;
+    border-bottom: 1px solid #6FD1AD;
+}
+
+.nav ul {
+    margin: 0;
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+}
+
+.nav ul li { 
+    display: inline;
+    padding: 0 5px;
+}
+
+
+
+
+/* --- Selected Nav Link --- */
+.selected { 
+    color: #6FD1AD;
+    border-bottom: 1px solid #6FD1AD;
+    }
+
+
+/* --- styling on scroll down, desktop --- */
+>>>>>>> staging
 
 header.smaller {
     height: 50px;
 }
 header.smaller h1#logo {
     height: 50px;
+<<<<<<< HEAD
     line-height: 50px;
     font-size: 1.2em;
 }
@@ -140,10 +269,33 @@ header.smaller nav a {
 @media all and (max-width: 660px) {
     header {
     	height: 7.3em;
+=======
+    line-height: 45px;
+    font-size: 20px;
+}
+header.smaller ul {
+    height: 50px;
+    line-height: 50px;
+}
+header.smaller ul a {
+    line-height: 50px;
+}
+
+header.smaller img {
+    max-width: 30px;
+}
+
+/* --- Mobile Styling --- */
+
+@media all and (max-width: 660px) {
+    header {
+        height: 120px;
+>>>>>>> staging
     }
     header h1#logo {
         display: block;
         float: none;
+<<<<<<< HEAD
         height: 2.2em;
         line-height: 2.2em;
         text-align: center;
@@ -187,11 +339,80 @@ header.smaller nav a {
 }
 
 
+=======
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    header img {
+        max-height: 100%;
+    }
+    .nav {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .nav a {
+        font-size: 13px;
+    }
+
+    header ul {
+        float: none;
+        height: 45px;
+        line-height: 30px;
+    }
+
+    /* Styling on scroll down, mobile */
+    header.smaller {
+        height: 50px;
+    }
+
+    header.smaller span {
+        display: none;
+    }
+
+    header.smaller h1#logo {
+        float: left;
+        margin: 8px 0;
+    }
+
+    header.smaller ul {
+        height: 50px;
+        line-height: 50px;
+        display: inline-block;
+        float: right;
+    }
+
+    header.smaller img {
+        float: left;
+    }
+
+    header.smaller .nav {
+    }
+
+    .nav a {
+        font-size: 12px;
+    }
+
+    .nav ul li {
+        padding: 0 4px;
+    }
+
+    
+}
+
+
+
+>>>>>>> staging
 /* -------------------- THUMBNAIL GALLERY -------------------- */ 
 
 
 .thumb-container {
 	overflow: hidden;
+<<<<<<< HEAD
 	margin: 10px 0;
 }
 
@@ -199,20 +420,86 @@ header.smaller nav a {
 	opacity: .8;
 }
 
+=======
+	margin: .5em 0;
+}
+
+.portfolio-thumb:hover {
+	opacity: .7;
+}
+
+.on-page-gallery {
+    margin: 1em 0;
+}
+
+.home .columns {
+    padding-left: .5em;
+    padding-right: .5em;
+}
+
+.gallery-contain ul {
+    margin: 0;
+    padding: 0 4em 0 4em;
+}
+>>>>>>> staging
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
 .project-img-full {
+<<<<<<< HEAD
 	padding: 10px 0px 50px 0px;
 	float:left;
 }
 
 .project-description {
 	font-family: "Lato", sans-serif;
+=======
+	padding: 10px 0px 30px 0px;
+}
+
+/* Center Project Images */
+.project-img-full img {
+    display: block;
+    margin: auto;
+}
+
+/* Image Caption Div Styling */
+.project-img-caption {
+    margin-top: 15px;
+    padding: 10px 0 30px 0;
+    border-top: solid #dbdbdb 2px;
+}
+
+/* Caption Text Styling */
+.portfolio-img-column .project-img-caption h3 {
+    font-family: 'klinic_slabbold_italic', serif;
+    font-size: 1.2em;
+    margin: 0 0 5px 0;
+    color: #999;
+}
+
+.portfolio-img-column .project-img-caption p {
+    margin: 0px;
+    font-size: .85em;
+    font-weight: 400;
+    letter-spacing: .01em;
+    color: #adadad;
+    line-height: 180%
+}
+
+.project-img-caption p br {
+   line-height: 240%;
+}
+
+
+/* Project Overview Text Styling */
+p .project-description {
+>>>>>>> staging
 	font-size: 1em;
 	color: #777777;
 }
 
+<<<<<<< HEAD
 .portfolio-nav {
 	border-top: 1px solid #999999;
 	margin: 60px 0px;
@@ -220,6 +507,16 @@ header.smaller nav a {
 
 .prev-next-link a {
 	font-family: "Lato", sans-serif;
+=======
+/* misc */
+.portfolio-nav {
+	border-top: 1px solid #999999;
+	margin: 60px 0px;
+    padding-top: 30px;
+}
+
+.prev-next-link a {
+>>>>>>> staging
 	font-weight: 400;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -231,6 +528,7 @@ header.smaller nav a {
 	color: #5BDEAE;
 }
 
+<<<<<<< HEAD
 
 /* -------------------- FOOTER -------------------- */ 
 
@@ -241,11 +539,112 @@ header.smaller nav a {
 
 .site-footer {
 	padding: 30px 0;
+=======
+/* --- responsive width video player --- */
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    margin-bottom: 20px;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Locked Project Page Text Styling */
+p .locked-project-description {
+    margin:0 auto;
+    font-size: 1em;
+    text-align: center;
+    color: #777777;
+}
+
+/* -------------------- ABOUT PAGE -------------------- */
+
+.page-img {
+    margin-bottom: 40px;
+}
+
+.about-copy p {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.8em;
+}
+
+
+
+/* -------------------- CONTACT PAGE -------------------- */ 
+
+
+.contact-icon {
+    margin: 0 auto;
+    padding: 35px 0 15px 0;
+    /*padding: 15px;*/
+    max-width: 140px;
+}
+
+.contact-icon:hover {
+    opacity: .8;
+}
+
+.contact-icons-container {
+    margin-top:50px;
+    min-height: calc(100vh - 470px);
+}
+
+.contact {
+    font-size: 16px;
+    font-weight: 300;
+    color: #777777;
+}
+
+.contact a {
+    color: #F09648;
+}
+
+.contact a:hover {
+    color: #FF802B;
+}
+
+p.contact {
+    margin:0;
+}
+
+
+/* -------------------- FOOTER -------------------- */ 
+
+footer {
+    background-image: url("/img/turq-diamonds.png");
+	background-color: #6FD1AD;
+	width: 100%;
+    max-width: 100%;
+}
+
+footer.row {
+    margin-right: 0;
+    margin-left: 0;
+    max-width: 100%;
+}
+
+.site-footer {
+	padding: 50px 0;
+>>>>>>> staging
 	width:100%;
 }
 
 .copyright p{
+<<<<<<< HEAD
 	font-family: "Lato", sans-serif;
+=======
+>>>>>>> staging
 	font-size: 12px;
 	letter-spacing: 2px;
 	color: #F2F2F2;
@@ -253,6 +652,29 @@ header.smaller nav a {
 	text-transform: uppercase;
 }
 
+<<<<<<< HEAD
+=======
+footer .nav a {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #777777;
+    text-transform: uppercase;
+    margin: 0 7px;
+    padding-bottom: 3px;
+}
+
+footer .nav a:hover {
+    color: #F2F2F2;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+footer .nav ul {
+    margin-bottom: 12px;
+    padding-top: 10px;
+}
+
+>>>>>>> staging
 html, body {
 	height: 100%;
 }

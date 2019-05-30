@@ -1,0 +1,45 @@
+- org:  Microsoft
+  role: Designer II
+  location: 'Redmond, Washington'
+  when: November 2017 to April 2019
+  bullets: 
+    - 'UI/UX for Microsoft’s digital storefront on web, desktop app and Xbox.'
+    - 'Worked to improve payment and product configuration experiences.'
+    - 'Created and animated brand illustrations for mobile and web.'
+    - 'Main point of contact for all Edge browser iconography needs.'
+
+- org:  moovel
+  role: Visual Designer
+  location: 'Austin, Texas'
+  when: November 2015 to February 2017
+  bullets: 
+    - 'UI/UX for mobile apps in public transportation and mobility industry.'
+    - 'Collaborated with product designers and developers to craft beautiful user experiences.' 
+    - 'Created illustrations and motion graphics for marketing team.'
+
+- org:  Social Distillery
+  role: Creative Director
+  location: 'Austin, Texas'
+  when: September 2014 to June 2015
+  bullets: 
+    - 'Led and carried out a complete revamp of Social Distillery’s branding.'
+    - 'Rewrote prominent sections of copy on Social Distillery’s website.' 
+    - 'Collaborated with small team on social campaign creative strategies.' 
+    - 'Managed graphic design team.'
+
+- org: Social Distillery
+  role: Graphic Designer
+  location: 'Austin, Texas'
+  when: December 2012 to September 2014
+  bullets: 
+    - 'Established the role of graphic designer within Social Distillery.'
+    - 'Designed social content and graphics for various B2B and B2C clients, including Whole Foods and Cancer Treatment Centers of America.'
+    - 'Interviewed and collaborated with design interns.'
+   
+- org: Social Distillery
+  role: Design Intern
+  location: 'Austin, Texas'
+  when: July 2012 to December 2012
+  bullets: 
+    - 'Branded various Social Distillery documents and presentations.'
+    - 'Executed social graphics and branding for Social Distillery’s clients.'
