@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lana Marshall</title>
-    <description>Graphic Designer in Austin, TX</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Sep 2017 16:11:09 -0700</pubDate>
-    <lastBuildDate>Mon, 11 Sep 2017 16:11:09 -0700</lastBuildDate>
+    <title>Lana Marshall | Design | Creative</title>
+    <description>Seattle Visual Designer and Creative</description>
+    <link>http://localhost:1117/</link>
+    <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 30 May 2019 16:35:58 -0700</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 16:35:58 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
-        <link>http://localhost:4000/whole-foods/</link>
-        <guid isPermaLink="true">http://localhost:4000/whole-foods/</guid>
+        <link>http://localhost:1117/whole-foods/</link>
+        <guid isPermaLink="true">http://localhost:1117/whole-foods/</guid>
         
         
         <category>jekyll</category>
@@ -29,8 +29,8 @@
         <description>
 </description>
         <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
-        <link>http://localhost:4000/makersquare/</link>
-        <guid isPermaLink="true">http://localhost:4000/makersquare/</guid>
+        <link>http://localhost:1117/makersquare/</link>
+        <guid isPermaLink="true">http://localhost:1117/makersquare/</guid>
         
         
         <category>jekyll</category>
@@ -44,8 +44,8 @@
         <description>
 </description>
         <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
-        <link>http://localhost:4000/ctca/</link>
-        <guid isPermaLink="true">http://localhost:4000/ctca/</guid>
+        <link>http://localhost:1117/ctca/</link>
+        <guid isPermaLink="true">http://localhost:1117/ctca/</guid>
         
         
         <category>jekyll</category>
@@ -59,8 +59,8 @@
         <description>
 </description>
         <pubDate>Mon, 18 Aug 2014 02:30:47 -0700</pubDate>
-        <link>http://localhost:4000/social-distillery/</link>
-        <guid isPermaLink="true">http://localhost:4000/social-distillery/</guid>
+        <link>http://localhost:1117/social-distillery/</link>
+        <guid isPermaLink="true">http://localhost:1117/social-distillery/</guid>
         
         
       </item>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:1117/social-distillery/</loc>
+<lastmod>2014-08-18T02:30:47-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:1117/ctca/</loc>
+<lastmod>2014-08-18T02:30:47-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:1117/makersquare/</loc>
+<lastmod>2014-08-18T02:30:47-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:1117/whole-foods/</loc>
+<lastmod>2014-08-18T02:30:47-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:1117/about/</loc>
+</url>
+<url>
+<loc>http://localhost:1117/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:1117/</loc>
+</url>
+</urlset>
