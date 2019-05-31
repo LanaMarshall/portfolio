@@ -1,6 +1,6 @@
 {% assign sorted_projects = site.data.projects | sort: "weight" %}
 
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">	    	
+<ul class="gallery small-block-grid-2 medium-block-grid-3">	    	
 	{% for project in sorted_projects %}
 		{% for thumb in project.thumb %}     
 			<li>      

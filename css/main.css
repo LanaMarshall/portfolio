@@ -284,7 +284,7 @@ header.smaller img {
 
 .gallery-contain ul {
     margin: 0;
-    padding: 0;
+    padding: 0 4em 0 4em;
 }
 
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
@@ -372,6 +372,13 @@ p .project-description {
 }
 
 
+/* Locked Project Page Text Styling */
+p .locked-project-description {
+    margin:0 auto;
+    font-size: 1em;
+    text-align: center;
+    color: #777777;
+}
 
 /* -------------------- ABOUT PAGE -------------------- */
 

@@ -85,9 +85,20 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 30 May 2019 18:29:55 -0700</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 18:29:55 -0700</lastBuildDate>
+    <pubDate>Thu, 30 May 2019 18:32:16 -0700</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 18:32:16 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Microsoft</title>
+        <description>
+</description>
+        <pubDate>Thu, 16 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/microsoft/</link>
+        <guid isPermaLink="true">http://localhost:1117/microsoft/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Trip Planner</title>
@@ -184,21 +195,6 @@
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
         <link>http://localhost:1117/social-distillery/</link>
         <guid isPermaLink="true">http://localhost:1117/social-distillery/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Other World Computing</title>
-        <description>&lt;!-- Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.
-
-I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine's theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.
-
-The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR. --&gt;
-</description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/owc-valentines/</link>
-        <guid isPermaLink="true">http://localhost:1117/owc-valentines/</guid>
         
         
       </item>
