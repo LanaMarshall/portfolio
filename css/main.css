@@ -286,6 +286,20 @@ header.smaller img {
     padding: 0 4em 0 4em;
 }
 
+@media only screen and (max-width: 40em) {
+  .gallery-contain ul {
+    padding: 0 1em 0 1em;
+  }
+}
+
+@media only screen and (min-width: 40em) and (max-width: 64em) {
+  .gallery-contain ul {
+    padding: 0 3em 0 3em;
+  }
+}
+
+
+
 /* -------------------- PORTFOLIO ENTRY PAGE -------------------- */
 
 .project-img-full {
