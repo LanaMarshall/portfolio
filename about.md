@@ -3,7 +3,7 @@ layout: about
 title: About
 headline: Hello!
 permalink: about/
-img: img/headshot-2019.jpg
+img: img/headshot-2017.jpg
 ---
 
 I'm Lana Marshall and I'm a Designer living and working in {{ site.location }}.
