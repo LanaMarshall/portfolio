@@ -85,19 +85,9 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <pubDate>Mon, 14 Aug 2017 15:37:26 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2017 15:37:26 -0700</lastBuildDate>
-=======
-    <pubDate>Mon, 14 Aug 2017 15:35:37 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2017 15:35:37 -0700</lastBuildDate>
->>>>>>> staging
-=======
-    <pubDate>Fri, 18 Aug 2017 17:03:02 -0700</pubDate>
-    <lastBuildDate>Fri, 18 Aug 2017 17:03:02 -0700</lastBuildDate>
->>>>>>> staging
-    <generator>Jekyll v3.4.3</generator>
+    <pubDate>Thu, 30 May 2019 18:29:55 -0700</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 18:29:55 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Trip Planner</title>
@@ -240,7 +230,7 @@ The Results? Ads for this campaign achieved an average Click Through Rate (CTR) 
     
 </ul>
     </div>
-    <p>© 2017 Lana Marshall | Design | Creative</p>
+    <p>© 2019 Lana Marshall | Design | Creative</p>
 </div>
 </footer>
 
