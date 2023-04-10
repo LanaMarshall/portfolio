@@ -49,7 +49,7 @@
   <div class="contain center">
     
     <div class="logo">
-    	<h1 id="logo"><a href="/"><img src="/img/logomark.png"><span>Lana Marshall</span></a></h1>
+    	<h1 id="logo"><a href="/"><!--<img src="/img/logomark.png">--><span>Lana Marshall</span></a></h1>
     </div>
     
     <div id="main-nav" class="nav"><ul>
@@ -64,10 +64,6 @@
     
         <li>
             <a href="/contact/"> contact</a>
-        </li>
-    
-        <li>
-            <a href="/resume/"> resume</a>
         </li>
     
 </ul></div>
@@ -85,9 +81,20 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 30 May 2019 19:19:51 -0700</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 19:19:51 -0700</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2023 15:36:33 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2023 15:36:33 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Empty State Animations</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 May 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:1117/animations/</link>
+        <guid isPermaLink="true">http://localhost:1117/animations/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Microsoft</title>
@@ -188,17 +195,6 @@
         
       </item>
     
-      <item>
-        <title>Social Distillery</title>
-        <description>
-</description>
-        <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/social-distillery/</link>
-        <guid isPermaLink="true">http://localhost:1117/social-distillery/</guid>
-        
-        
-      </item>
-    
   </channel>
 </rss>
 
@@ -220,13 +216,9 @@
             <a href="/contact/"> contact</a>
         </li>
     
-        <li>
-            <a href="/resume/"> resume</a>
-        </li>
-    
 </ul>
     </div>
-    <p>© 2019 Lana Marshall | Design | Creative</p>
+    <p>© 2023 Lana Marshall | Design | Creative</p>
 </div>
 </footer>
 

@@ -1,0 +1,304 @@
+---
+- title: Microsoft
+  weight: 0
+  id: microsoft
+  permalink: microsoft/
+  category: 
+  published: true
+  description: "Please contact me for a sampling of my Microsoft work, which includes UX/UI design, iconography, illustrations and motion design."
+  learn-more-link: "/contact/"
+  learn-more-text: "Contact me"
+  thumb: img/microsoft/ms-logo.png
+  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+  imagefolder: img/microsoft
+  images:
+    - name: rt-logo.png
+    - name: rt-logo-sketch3.jpg
+    - name: rt-demo.gif
+    - name: rt-phone-hands.png
+    - name: rt-multimodal.png
+    - name: rt-network.png
+    - name: rt-use-cases.png
+    - name: rt-email-banner.jpg
+    - name: rt-zipcar2.png
+    - name: rt-zipcar3.png
+    - name: rt-dev-site1.jpg
+    - name: rt-dev-site2.jpg
+
+
+
+- title: RideTap
+  weight: 1
+  id: ridetap
+  permalink: ridetap/
+  category: 
+  published: true
+  description: "RideScout, an Austin startup known for their trip planning app, hired me as a freelancer to create an animated explainer video for their new SDK and mobility network RideTap. The new SDK allowed apps to offer multi-modal, real-time transportation options to their users. </br></br> After completing a series of illustrations and animating them into a one minute video, I was invited to join the RideScout team as a full time Visual Designer to be there for the ideation and launch of RideTap. Once on team RideScout (later moovel), I created a logo, marketing materials, email banners, landing pages and UI design for RideTap and more. </br></br> In May 2016, the RideTap pilot launched in Portland, Oregon with Lyft and Car2go accessible through the TriMet mobile ticketing app, Portland's public transportation agency app."
+  learn-more-link: "https://medium.com/@moovelUS/introducing-ridetap-moovels-new-connected-transportation-network-688aa1c533a1"
+  learn-more-text: "Read more about RideTap"
+  thumb: img/ridetap/rt-thumb2.png
+  video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+  imagefolder: img/ridetap
+  images:
+    - name: rt-logo.png
+    - name: rt-logo-sketch3.jpg
+    - name: rt-demo.gif
+    - name: rt-phone-hands.png
+    - name: rt-multimodal.png
+    - name: rt-network.png
+    - name: rt-use-cases.png
+    - name: rt-email-banner.jpg
+    - name: rt-zipcar2.png
+    - name: rt-zipcar3.png
+    - name: rt-dev-site1.jpg
+    - name: rt-dev-site2.jpg
+
+
+- title: Trip Planner
+  weight: 2
+  id: trip-planner
+  permalink: trip-planner/
+  category: 
+  published: true
+  description: "After Austin-based RideScout and Portland-based GlobeSherpa began the process of merging to form moovel North America, the offices joined forces to help revamp the white label mobile ticketing app that had been developed by the Portland team and used by transit agencies around the country. One thing lacking in the existing app was a trip planning tool. The moovel team set out to make a clean, functional and user-friendly trip planner that could be utilized in a variety of settings and transit systems. </br></br> My role in this project was UI design. I worked closely with product managers to help translate user testing feedback into design improvements."
+  learn-more-link: "https://invis.io/HFCZUVAGY#/248191436_Tp-01"
+  learn-more-text: "Check out the InVision prototype."
+  thumb: img/trip-planner/tp-thumb.jpg
+  imagefolder: img/trip-planner
+  images:
+    - name: tp-phone-hand.jpg
+    - name: tp-launch.png
+      header: Easy Integration
+      caption: "Trip Planner was designed to easily integrate into existing transit apps. The tool opens as an overlay on top of the app interface. It can be closed quickly to access other areas of the app and reopens in the spot the user left off. The screen on the right is an empty state shown on the first time user experience."
+    - name: tp-favorites1.png
+    - name: tp-favorites2.png
+      header: Home to Work and Back Again
+      caption: "Since most people use public transportation to travel between home and work, we wanted users to be able to save those locations for easy access."
+    - name: tp-search.png
+      header: Quick Searching 
+      caption: Recently searched locations are remembered and displayed below the search bar when Trip Planner is opened. This allows the user to quickly pull up trip results.  
+    - name: tp-results.png
+      header: Trip Results
+      caption: "Once the user selects a destination, Trip Planner displays three route options in one of two ways - a swipeable card view or list view. The user can switch between views by tapping the list or card view icon to the left of the settings icon. This design is intentionally similar to RideTap so that the two could be integrated at some point in the future. </br>The user's current location is assumed as the starting point, but can be edited. From this screen, the user can swipe through trip options and select their preferred route or access trip and time settings."
+    - name: tp-options.png
+      header: Trip Customizations
+      caption: "By tapping the clock icon, users can plan what time they'd like to start their trip or what time they'd like to arrive at their destination up to 30 days into the future. Tapping the gear icon opens Route Options, where users can customize sorting options and preferred transit methods. Here, users also have the ability filter out route options that don't meet ADA accessibility standards."
+    - name: tp-expanded-results1.png
+      header: Expanded Results with Turn-by-Turn Directions
+      caption: "Once the user selects a route from the results screen, their selection expands into a detailed list of directions for each leg of their journey. For even more detail, the user can tap their walking distance to drop down turn-by-turn walking directions."
+    - name: tp-service-alerts.png
+      header: Up to Date Alerts
+      caption: "One challenge we faced was how to alert users of not only line-specific service alerts, but system-wide alerts as well. The yellow alert icon lets the user know there are service alerts for the trip and the banner at the top of the direction list can be tapped to open detailed information about said alerts."
+    - name: tp-expanded-results2.png
+      header: 
+      caption: "As the user scrolls through their trip directions, the map updates to show the corresponding leg of the trip. Each transit segment includes real-time arrival info and metadata icons to indicate if the train or bus is wheelchair accessible or has wifi or bike racks. Similar to walking directions, the user can tap on the number of stops to drop down a list of station names so they're prepared for their stop."
+    - name: tp-station-info.png
+      caption: "For even more details, the user can tap the station name to bring up a list of station Information."
+    - name: tp-end-route.png
+      caption: Trip Planner provides detailed walking directions through the end of the user's trip.
+
+
+- title: Whole Foods
+  weight: 3
+  id: wfm
+  permalink: whole-foods/
+  category: 
+  published: true
+  description: "With the opening of several new stores across Texas and Louisiana, Whole Foods Market needed graphics to promote the new locations across Facebook. I created a number of promoted posts and Facebook Offer graphics, each in the style of the location's unique brand."
+  thumb: img/wfm/wfm-poa-01.jpg
+  imagefolder: img/wfm
+  images:
+    - name: wfm-poa-01.jpg
+    - name: wfm-poa-02.jpg
+    - name: wfm-poa-04.jpg
+    - name: wfm-la-01.jpg
+    - name: wfm-la-02.jpg
+    - name: wfm-la-03.jpg
+    - name: wfm-clv-01.jpg
+    - name: wfm-clv-02.jpg
+    - name: wfm-hlv-01.jpg
+    - name: wfm-hlv-02.jpg
+    - name: wfm-champ-01.jpg
+    - name: wfm-champ-02.jpg
+
+
+- title: Social Distillery
+  weight: 4
+  id: sd-branding
+  permalink: social-distillery-branding/
+  category: 
+  published: true
+  description: "When Social Distillery's CEO came to me looking for a brand update, she wanted to keep the skyline motif of the logo she'd founded the company with, but give it a clean, modern facelift. I cleaned up the lines of the logo, simplified the details and color scheme and added new logotype. The logo update was just part of Social Distillery's brand refresh, which included comprehensive brand guidelines and new brand collateral."
+  thumb: img/thumbnails/sd-notebook-thumb.jpg
+  imagefolder: img/sd-branding
+  images: 
+    - name: sd-logo.png
+    - name: sd-linkedin.png
+    - name: sd-business-card.jpg
+    - name: sd-notebook-stickers.jpg
+    - name: before-after.png
+
+
+- title: Cancer Treatment Centers of America
+  weight: 5
+  id: ctca-women
+  permalink: ctca-womens-health/
+  category: 
+  published: true
+  description: A series of landing page graphics and an infographic created for Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  thumb: img/thumbnails/ctca-women-thumb2.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-landing-page-graphics.png
+    - name: ctca-womens-health.png
+
+
+
+- title: MakerSquare Initiative Logos and Marketing Graphics
+  weight: 6
+  id: makersquare
+  permalink: makersquare/
+  category: 
+  published: true
+  description: "MakerSquare, a coding bootcamp in Austin, and now San Francisco, worked with Social Distillery from 2013-2014. I created a variety of graphics to help MakerSquare promote their comprehensive programs across Facebook and other social media channels. </br></br>As the program grew, the MakerSquare team created new initiatives and scholarships (MakerSquare University and Coding Corner) designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created. These examples represent just a few of the marketing graphics and logos I created for MakerSquare."  
+  #As MakerSquare, a coding bootcamp in Austin, grew, the team created new initiatives and scholarships designed to make learning code more accessible to more people. They asked me to create some quick-turnaround logos for each of the new initiatives as they were created."
+  thumb: img/thumbnails/mks-university-thumb.png
+  imagefolder: img/makersquare
+  images:
+    - name: mks-university2.png
+    - name: mks-university-comp.png
+    - name: mks-coding-corner2.png
+    - name: mks-coding-corner-comp.png
+    - name: mks-01.png
+    - name: mks-03.png
+    - name: mks-02.png
+
+
+- title: Other World Computing
+  weight: 7
+  id: owc-love
+  permalink: owc-valentines/
+  category: 
+  published: true
+  description: "Other World Computing, an online retailer specializing in hardware upgrades for Apple products, was looking to gain new subscribers to its email list. OWC was particularly interested in capturing a broader audience than its very tech-centric customers. The Social Distillery team decided to tackle this ask by launching a Facebook app and corresponding ad campaign.</br></br>I was responsible for leading the project in creative direction. Since the campaign was set to run through the month of February, I thought a Valentine's theme would be relevant and fun. I created a series of Facebook ad graphics that I believed would appeal to a larger audience and drive email subscriptions through humor and familiar imagery. Additionally, I customized the CSS of the Facebook app to look consistent with the ads.</br></br>The Results? Ads for this campaign achieved an average Click Through Rate (CTR) of 2.46%, 146% better than the target CTR and 143% better than December’s average CTR." 
+  thumb: img/thumbnails/owc-love-thumb.png
+  imagefolder: img/owc
+  images:
+    - name: owc-macbook1.jpg
+    - name: owc-post1.png
+    - name: owc-post2.png
+    - name: owc-post3.png
+    - name: owc-love-cover.png
+
+
+- title: SXSW Happy Hour
+  weight: 8
+  id: happy-hour
+  permalink: happy-hour/
+  description: 'Various graphics used to promote a SXSW Happy Hour hosted by People Pattern, Social Distillery and Wee Golf.'
+  thumb: img/thumbnails/sxsw-happyhour-thumb.jpg
+  imagefolder: img/happy-hour
+  images:
+    - name: happyhour-facebook.jpg
+    - name: happyhour-email.jpg
+    - name: happyhour-eventbrite.jpg
+    - name: happyhour-tote2.jpg
+
+
+- title: People Pattern Animated Illustrations
+  weight: 9
+  id: people-pattern
+  permalink: people-pattern/
+  description: "Two animated illustration concepts created as part of People Pattern's website redesign. These illustrations would be part of a short narrative about what the company does, told through a series of home page sliders."
+  thumb: img/thumbnails/pp-horse-thumb.gif
+  imagefolder: img/people-pattern
+  images: 
+    - name: pp-sketches.jpg
+    - name: pp-horse.gif
+    - name: pp-walkman.gif
+    - name: pp-iphone.jpg
+    - name: pp-browser.png
+
+
+
+- title: Pauly + Presley Logo Concept
+  weight: 11
+  id: pp-logo
+  permalink: pauly-presley/
+  category: 
+  published: true
+  description: "A conceptual logo redesign for Pauly + Presley Realty, an Austin real estate agency."
+  thumb: img/thumbnails/pp-card-single.jpg
+  imagefolder: img/pauly-presley
+  images:
+    - name: pp-window-sign.jpg
+    - name: pp-business-cards.jpg
+    - name: pp-logo-01.png
+    - name: pp-logo-02.png
+
+
+- title: Social Distillery Swag
+  weight: 10
+  id: sd-swag
+  permalink: sd-swag/
+  description: "Some fun brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+  thumb: img/thumbnails/sd-shirts-thumb.jpg
+  imagefolder: img/sd-swag
+  images: 
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    #- name: sd-shirt-mens.jpg
+    #- name: sd-shirt-womens.jpg
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+
+
+
+- title: Cancer Treatment Centers of America
+  weight: 12
+  id: ctca
+  permalink: ctca/
+  category: 
+  published: true
+  description: Two more infographics created for different CTCA social media initiatives. 
+  thumb: img/thumbnails/ctca-thumb.png
+  imagefolder: img/ctca
+  images:
+    - name: ctca-menshealth.png
+    - name: ctca-breastcancer.png
+
+
+
+- title: JW Marriott Austin SXSW Campaign
+  weight: 13
+  id: griffin-hunt
+  permalink: griffin-hunt/
+  description: "For SXSW 2015, the newly-opened JW Marriott Austin wanted a campaign that would engage and build relationships with its audience. And they wanted it in a week. The Social Distillery team came up with the #GriffinHunt. We hid 10 griffins (part of the brand's logo) on local business around downtown Austin in the form of window clings. People were encouraged to find a griffin and Tweet or Instagram a photo of it with #GriffinHunt. This served as their entry to win one of a week's worth of giveaways from JW Marriott. Between our #GriffinHunt hashtag (280K+ impressions), our locally targeted social ads (90K+ impressions), and our organic promotions (62K+), we received over 430K in impressions, plus our reach from pedestrian traffic. Our campaign also helped grow the JW Marriott Austin community by 5% over the span of a week, with members who continue to engage regularly."
+  thumb: img/thumbnails/jwm-thumb.jpg
+  imagefolder: img/jwm
+  images: 
+    - name: griffinhunt-ig.jpg
+    - name: griffinhunt-web-mockup.jpg
+    - name: austinrocks-griffin.jpg
+    - name: griffinhunt-iphone4.jpg
+    - name: toyjoy-griffin.jpg
+
+
+
+
+- title: Social Distillery
+  weight: 14
+  id: sd
+  permalink: social-distillery/
+  category: 
+  published: true
+  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
+  thumb: img/thumbnails/sd-wine-thumb.jpg
+  imagefolder: img/sd
+  images: 
+    - name: sd-wine-bottles.jpg
+    - name: gifttags1.jpg
+    - name: gifttags2.jpg
+
+
+

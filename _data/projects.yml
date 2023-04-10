@@ -6,7 +6,7 @@
   category: 
   published: true
   description: "Please contact me for a sampling of my Microsoft work, which includes UX/UI design, iconography, illustrations and motion design."
-  learn-more-link: "mailto:hello@lanamarshall.com"
+  learn-more-link: "/contact/"
   learn-more-text: "Contact me"
   thumb: img/microsoft/ms-logo.png
   video: "//player.vimeo.com/video/205441657?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
@@ -25,6 +25,30 @@
     - name: rt-dev-site1.jpg
     - name: rt-dev-site2.jpg
 
+
+- title: Empty State Animations
+  weight: 1
+  id: animations
+  permalink: animations/
+  category: 
+  published: true
+  description: "During my time working for Microsoft, I drew and animated several empty state illustrations for various products and web pages. These were drawn in Adobe Illustrator and animated in After Effects. Contact me to learn more about the products these were used in."
+  thumb: img/animations/empty_state_cart_cricket.gif
+  imagefolder: img/animations
+  images:
+    - name: empty_state_cart_cricket.gif
+    - name: empty_state_cart_desert.gif
+      caption: "Illustrations used for an empty cart." 
+    - name: empty_state_404_storefront.gif
+      caption: "404 error illustration"
+    - name: generic-error2.gif
+    - name: payment-error.gif 
+      caption: "Payment error illustrations"
+    - name: success4.gif
+      caption: "Successful purchase illustration"
+    - name: subscribe4.gif
+    - name: unsubscribe10.gif
+      caption: "Illustrations for linking and removing a credit card"
 
 
 - title: RideTap
@@ -137,20 +161,32 @@
     - name: sd-business-card.jpg
     - name: sd-notebook-stickers.jpg
     - name: before-after.png
+      caption: "The branding initiative began with a refreshed logo."
+    - name: sd-shirts-both.jpg
+    - name: sd-shirts-design.png
+    - name: sd-koozies-front.jpg
+    - name: sd-koozies-back.jpg
+      caption: "Social Distillery's founder requested some fun brand swag to hand out to friends and clients. I was responsible for the design, concept and copywriting."
+    - name: sd-wine-bottles.jpg
+    - name: gifttags1.jpg
+    - name: gifttags2.jpg
+      caption: "For the holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that were given out." 
 
 
 - title: Cancer Treatment Centers of America
   weight: 5
-  id: ctca-women
-  permalink: ctca-womens-health/
+  id: ctca
+  permalink: ctca/
   category: 
   published: true
-  description: A series of landing page graphics and an infographic created for Cancer Treatment Centers of America to promote a Women's Health initiative across social media. 
+  description: A series of landing page graphics and infographics created for Cancer Treatment Centers of America to use across social media. 
   thumb: img/thumbnails/ctca-women-thumb2.png
   imagefolder: img/ctca
   images:
     - name: ctca-landing-page-graphics.png
     - name: ctca-womens-health.png
+    - name: ctca-menshealth.png
+    - name: ctca-breastcancer.png
 
 
 
@@ -237,68 +273,13 @@
     - name: pp-logo-02.png
 
 
-- title: Social Distillery Swag
-  weight: 10
-  id: sd-swag
-  permalink: sd-swag/
-  description: "Some fun brand swag for Social Distillery to hand out to friends and clients. I was responsible for the design, concept and copywriting."
-  thumb: img/thumbnails/sd-shirts-thumb.jpg
-  imagefolder: img/sd-swag
-  images: 
-    - name: sd-shirts-both.jpg
-    - name: sd-shirts-design.png
-    #- name: sd-shirt-mens.jpg
-    #- name: sd-shirt-womens.jpg
-    - name: sd-koozies-front.jpg
-    - name: sd-koozies-back.jpg
-
-
-
-- title: Cancer Treatment Centers of America
-  weight: 12
-  id: ctca
-  permalink: ctca/
-  category: 
-  published: true
-  description: Two more infographics created for different CTCA social media initiatives. 
-  thumb: img/thumbnails/ctca-thumb.png
-  imagefolder: img/ctca
-  images:
-    - name: ctca-menshealth.png
-    - name: ctca-breastcancer.png
-
-
-
-- title: JW Marriott Austin SXSW Campaign
-  weight: 13
-  id: griffin-hunt
-  permalink: griffin-hunt/
-  description: "For SXSW 2015, the newly-opened JW Marriott Austin wanted a campaign that would engage and build relationships with its audience. And they wanted it in a week. The Social Distillery team came up with the #GriffinHunt. We hid 10 griffins (part of the brand's logo) on local business around downtown Austin in the form of window clings. People were encouraged to find a griffin and Tweet or Instagram a photo of it with #GriffinHunt. This served as their entry to win one of a week's worth of giveaways from JW Marriott. Between our #GriffinHunt hashtag (280K+ impressions), our locally targeted social ads (90K+ impressions), and our organic promotions (62K+), we received over 430K in impressions, plus our reach from pedestrian traffic. Our campaign also helped grow the JW Marriott Austin community by 5% over the span of a week, with members who continue to engage regularly."
-  thumb: img/thumbnails/jwm-thumb.jpg
-  imagefolder: img/jwm
-  images: 
-    - name: griffinhunt-ig.jpg
-    - name: griffinhunt-web-mockup.jpg
-    - name: austinrocks-griffin.jpg
-    - name: griffinhunt-iphone4.jpg
-    - name: toyjoy-griffin.jpg
 
 
 
 
-- title: Social Distillery
-  weight: 14
-  id: sd
-  permalink: social-distillery/
-  category: 
-  published: true
-  description: "For the 2013 holiday season, Social Distillery wanted to give their client gifts a personal touch. I designed three different wine labels and gift tags, one for each of the three wines that Social Distillery gave out."
-  thumb: img/thumbnails/sd-wine-thumb.jpg
-  imagefolder: img/sd
-  images: 
-    - name: sd-wine-bottles.jpg
-    - name: gifttags1.jpg
-    - name: gifttags2.jpg
+
+
+
 
 
 

@@ -19,14 +19,15 @@ layout: default
 		<div class="small-12 small-centered medium-12 medium-centered large-12 large-centered columns">
 			
 			{% for contact in site.data.contact_page %}	
-				<div class="small-6 medium-3 columns center">
+				<div class="small-6 medium-4 columns center">
 					<div class="contact-icon center">
 						<a href="{{ contact.link }}" target="{{ contact.target }}">
 							<img src="/{{ contact.icon }}">
 						</a>
 					</div>
+					<h2 class="contact-title text-center">{{ contact.title }}
 					<p class="contact text-center">
-						<a href="{{ contact.link }}">{{ contact.title }}</a>
+						<a href="{{ contact.link }}">{{ contact.linktext }}</a>
 					</p>
 				</div>
 			{% endfor %}

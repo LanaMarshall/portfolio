@@ -1,3 +1,20 @@
+- org:  Smashing Ideas
+  role: Product Designer
+  location: 'Seattle, Washington'
+  when: December 2020 to Present
+  bullets: 
+    - 'Technical design work for a client in the aerospace industry.'
+    - 'Used scripting in Illustrator and Photoshop to create and test iPad app screens.'
+
+- org:  Microsoft
+  role: Product Designer
+  location: 'Redmond, Washington'
+  when: December 2019 to September 2020
+  bullets: 
+    - 'Designed UI for dual screen app demos for Microsoft DevDays event.'
+    - 'Helped adapt third party apps for dual screen devices.'
+    - 'Supported the PWA Builder team.'
+
 - org:  Microsoft
   role: Designer II
   location: 'Redmond, Washington'

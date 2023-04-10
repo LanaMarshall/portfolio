@@ -1,18 +1,21 @@
-- title: 512.965.4437
+- title: Call
+  linktext: 512-965-4437
   link: tel:512-965-4437
-  icon: img/contact/phone-icon.png
+  icon: img/contact/phone.svg
   target:
 
 - title: Email
-  link: mailto:hello@lanamarshall.com
-  icon: img/contact/email-icon.png
+  linktext: lanakmarshall@gmail.com
+  link: mailto:lanakmarshall@gmail.com
+  icon: img/contact/mail.svg
   target:
 
-- title: LinkedIn
+- title: Connect
+  linktext: LinkedIn
   link: http://www.linkedin.com/in/lanamarshall/
-  icon: img/contact/linkedin-icon.png
+  icon: img/contact/linkedin-in.svg
   target: _blank
 
-- title: Resume
-  link: /resume
-  icon: img/contact/resume-icon.png
+#- title: Resume
+#  link: /files/LanaMarshall_resume.pdf
+#  icon: img/contact/resume-icon.png

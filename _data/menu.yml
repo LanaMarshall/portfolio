@@ -7,5 +7,5 @@
 - text: ' contact'
   url: /contact/
 
-- text: ' resume'
-  url: /resume/
+#- text: ' resume'
+#  url: /resume/
