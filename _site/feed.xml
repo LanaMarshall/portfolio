@@ -49,7 +49,7 @@
   <div class="contain center">
     
     <div class="logo">
-    	<h1 id="logo"><a href=""><!--<img src="/img/logomark.png">--><span>Lana Marshall</span></a></h1>
+    	<h1 id="logo"><a href="/"><!--<img src="/img/logomark.png">--><span>Lana Marshall</span></a></h1>
     </div>
     
     <div id="main-nav" class="nav"><ul>
@@ -81,8 +81,8 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Apr 2023 15:42:57 -0700</pubDate>
-    <lastBuildDate>Tue, 11 Apr 2023 15:42:57 -0700</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2023 15:46:41 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2023 15:46:41 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
