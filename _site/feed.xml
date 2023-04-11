@@ -12,7 +12,7 @@
     <meta name="google-site-verification" content="n7nBOmbCNUnHy7_NcZW6cGWFXBwtnI5aJ5OrQYeiFAg" />
 
 
-    <link rel="canonical" href="http://localhost:1117/feed.xml">
+    <link rel="canonical" href="http://localhost:1117/portfolio/feed.xml">
 
     <!-- Google Fonts -->
     <!-- <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
@@ -79,10 +79,10 @@
   <channel>
     <title>Lana Marshall | Design | Creative</title>
     <description>Seattle Visual Designer and Creative</description>
-    <link>http://localhost:1117/</link>
-    <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Apr 2023 20:21:26 -0700</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2023 20:21:26 -0700</lastBuildDate>
+    <link>http://localhost:1117/portfolio/</link>
+    <atom:link href="http://localhost:1117/portfolio/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 10 Apr 2023 20:35:44 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2023 20:35:44 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -90,8 +90,8 @@
         <description>
 </description>
         <pubDate>Mon, 16 May 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/animations/</link>
-        <guid isPermaLink="true">http://localhost:1117/animations/</guid>
+        <link>http://localhost:1117/portfolio/animations/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/animations/</guid>
         
         
       </item>
@@ -101,8 +101,8 @@
         <description>
 </description>
         <pubDate>Thu, 16 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/microsoft/</link>
-        <guid isPermaLink="true">http://localhost:1117/microsoft/</guid>
+        <link>http://localhost:1117/portfolio/microsoft/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/microsoft/</guid>
         
         
       </item>
@@ -112,8 +112,8 @@
         <description>
 </description>
         <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/trip-planner/</link>
-        <guid isPermaLink="true">http://localhost:1117/trip-planner/</guid>
+        <link>http://localhost:1117/portfolio/trip-planner/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/trip-planner/</guid>
         
         
       </item>
@@ -123,8 +123,8 @@
         <description>
 </description>
         <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/ridetap/</link>
-        <guid isPermaLink="true">http://localhost:1117/ridetap/</guid>
+        <link>http://localhost:1117/portfolio/ridetap/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/ridetap/</guid>
         
         
       </item>
@@ -134,8 +134,8 @@
         <description>
 </description>
         <pubDate>Mon, 16 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/griffin-hunt/</link>
-        <guid isPermaLink="true">http://localhost:1117/griffin-hunt/</guid>
+        <link>http://localhost:1117/portfolio/griffin-hunt/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/griffin-hunt/</guid>
         
         
       </item>
@@ -145,8 +145,8 @@
         <description>
 </description>
         <pubDate>Thu, 05 Mar 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:1117/sd-swag/</link>
-        <guid isPermaLink="true">http://localhost:1117/sd-swag/</guid>
+        <link>http://localhost:1117/portfolio/sd-swag/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/sd-swag/</guid>
         
         
       </item>
@@ -156,8 +156,8 @@
         <description>
 </description>
         <pubDate>Wed, 04 Mar 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:1117/ctca-breastcancer/</link>
-        <guid isPermaLink="true">http://localhost:1117/ctca-breastcancer/</guid>
+        <link>http://localhost:1117/portfolio/ctca-breastcancer/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/ctca-breastcancer/</guid>
         
         
       </item>
@@ -167,8 +167,8 @@
         <description>
 </description>
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:1117/happy-hour/</link>
-        <guid isPermaLink="true">http://localhost:1117/happy-hour/</guid>
+        <link>http://localhost:1117/portfolio/happy-hour/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/happy-hour/</guid>
         
         
       </item>
@@ -178,8 +178,8 @@
         <description>
 </description>
         <pubDate>Fri, 20 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:1117/people-pattern/</link>
-        <guid isPermaLink="true">http://localhost:1117/people-pattern/</guid>
+        <link>http://localhost:1117/portfolio/people-pattern/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/people-pattern/</guid>
         
         
       </item>
@@ -189,8 +189,8 @@
         <description>
 </description>
         <pubDate>Sun, 10 Aug 2014 00:00:00 -0700</pubDate>
-        <link>http://localhost:1117/whole-foods/</link>
-        <guid isPermaLink="true">http://localhost:1117/whole-foods/</guid>
+        <link>http://localhost:1117/portfolio/whole-foods/</link>
+        <guid isPermaLink="true">http://localhost:1117/portfolio/whole-foods/</guid>
         
         
       </item>
