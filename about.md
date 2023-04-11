@@ -12,4 +12,4 @@ Born and raised in Austin, Texas, I moved to New York fresh out of high school t
 
 In 2017, I relocated to Seattle, where I worked with Microsoft before joining the team at Smashing Ideas. I'm currently open to freelance gigs.
 
-If you have questions about my work or are interested in working together, please feel free to <a href="/contact/">get in touch</a>.
+If you have questions about my work or are interested in working together, please feel free to <a href="/{{ site.baseurl }}/contact/">get in touch</a>.
