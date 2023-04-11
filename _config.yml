@@ -1,13 +1,8 @@
 # Site settings
 
-title: Lana Marshall | Design | Art Direction 
-description: "Design and Creative in Seattle, WA"
-baseurl: "http://lanamarshalldesign.com/"
-url: "http://lanamarshalldesign.com/"
-
 title: Lana Marshall | Design | Creative 
 description: "Seattle Visual Designer and Creative"
-baseurl: 
+baseurl: "portfolio"
 url: 
 
 
