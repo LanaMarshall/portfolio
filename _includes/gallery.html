@@ -4,8 +4,8 @@
 	{% for project in sorted_projects %}
 		{% for thumb in project.thumb %}     
 			<li>      
-		        <a class="portfolio-thumb" href="/{{ project.permalink }}">
-		        	<img src="/{{ project.thumb }}">
+		        <a class="portfolio-thumb" href="{{ project.permalink }}">
+		        	<img src="{{ project.thumb }}">
 		        </a>
 			</li>
 		{% endfor %}
