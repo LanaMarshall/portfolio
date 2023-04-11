@@ -55,15 +55,15 @@
     <div id="main-nav" class="nav"><ul>
     
         <li>
-            <a href="/"> work</a>
+            <a href=""> work</a>
         </li>
     
         <li>
-            <a href="/about/"> about</a>
+            <a href="about/"> about</a>
         </li>
     
         <li>
-            <a href="/contact/"> contact</a>
+            <a href="contact/"> contact</a>
         </li>
     
 </ul></div>
@@ -81,8 +81,8 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/portfolio/</link>
     <atom:link href="http://localhost:1117/portfolio/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Apr 2023 21:27:41 -0700</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2023 21:27:41 -0700</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2023 21:33:23 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2023 21:33:23 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -205,15 +205,15 @@
     	<ul>
     
         <li>
-            <a href="/"> work</a>
+            <a href=""> work</a>
         </li>
     
         <li>
-            <a href="/about/"> about</a>
+            <a href="about/"> about</a>
         </li>
     
         <li>
-            <a href="/contact/"> contact</a>
+            <a href="contact/"> contact</a>
         </li>
     
 </ul>
