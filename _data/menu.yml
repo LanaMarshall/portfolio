@@ -1,11 +1,11 @@
 - text: ' work'
-  url: /
+  url: /portfolio
 
 - text: ' about'
-  url: /about/
+  url: /portfolio/about/
 
 - text: ' contact'
-  url: /contact/
+  url: /portfolio/contact/
 
 #- text: ' resume'
 #  url: /resume/
