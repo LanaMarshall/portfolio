@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="/portfolio/css/resume.css">
 
     <!-- Klinic Slab CSS -->
-    <link rel="stylesheet" href="css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> 
+    <!-- <link rel="stylesheet" href="css/klinic-slab/stylesheet.css" type="text/css" charset="utf-8" /> -->>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="/portfolio/favicon.ico" type="image/x-icon" />
@@ -81,8 +81,8 @@
     <description>Seattle Visual Designer and Creative</description>
     <link>http://localhost:1117/</link>
     <atom:link href="http://localhost:1117/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Apr 2023 14:59:52 -0700</pubDate>
-    <lastBuildDate>Tue, 11 Apr 2023 14:59:52 -0700</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2023 15:42:57 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2023 15:42:57 -0700</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
